@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\bin\Debug\netcoreapp3.1\8. Завършване.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\bin\Debug\netcoreapp3.1\8. Завършване.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\bin\Debug\netcoreapp3.1\8. Завършване.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\bin\Debug\netcoreapp3.1\8. Завършване.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\bin\Debug\netcoreapp3.1\8. Завършване.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\bin\Debug\netcoreapp3.1\8. Завършване.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\obj\Debug\netcoreapp3.1\8. Завършване.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\obj\Debug\netcoreapp3.1\8. Завършване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\obj\Debug\netcoreapp3.1\8. Завършване.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\obj\Debug\netcoreapp3.1\8. Завършване.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\obj\Debug\netcoreapp3.1\8. Завършване.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\obj\Debug\netcoreapp3.1\8. Завършване.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\obj\Debug\netcoreapp3.1\8. Завършване.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\8. Завършване\obj\Debug\netcoreapp3.1\8. Завършване.genruntimeconfig.cache

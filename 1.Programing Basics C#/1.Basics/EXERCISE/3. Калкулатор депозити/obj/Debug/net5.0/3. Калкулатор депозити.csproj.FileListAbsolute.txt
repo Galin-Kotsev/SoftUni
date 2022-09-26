@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\bin\Debug\net5.0\3. Калкулатор депозити.exe
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\bin\Debug\net5.0\3. Калкулатор депозити.deps.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\bin\Debug\net5.0\3. Калкулатор депозити.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\bin\Debug\net5.0\3. Калкулатор депозити.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\bin\Debug\net5.0\3. Калкулатор депозити.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\bin\Debug\net5.0\ref\3. Калкулатор депозити.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\bin\Debug\net5.0\3. Калкулатор депозити.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\3. Калкулатор депозити.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\3. Калкулатор депозити.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\3. Калкулатор депозити.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\3. Калкулатор депозити.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\3. Калкулатор депозити.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\3. Калкулатор депозити.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\ref\3. Калкулатор депозити.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\3. Калкулатор депозити.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\3. Калкулатор депозити\obj\Debug\net5.0\3. Калкулатор депозити.genruntimeconfig.cache

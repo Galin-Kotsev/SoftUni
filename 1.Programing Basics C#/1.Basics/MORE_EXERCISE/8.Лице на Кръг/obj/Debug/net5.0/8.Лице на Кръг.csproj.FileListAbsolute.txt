@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\8.Лице на Кръг\bin\Debug\net5.0\8.Лице на Кръг.exe
+C:\Users\Galin\Desktop\8.Лице на Кръг\bin\Debug\net5.0\8.Лице на Кръг.deps.json
+C:\Users\Galin\Desktop\8.Лице на Кръг\bin\Debug\net5.0\8.Лице на Кръг.runtimeconfig.json
+C:\Users\Galin\Desktop\8.Лице на Кръг\bin\Debug\net5.0\8.Лице на Кръг.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\8.Лице на Кръг\bin\Debug\net5.0\8.Лице на Кръг.dll
+C:\Users\Galin\Desktop\8.Лице на Кръг\bin\Debug\net5.0\ref\8.Лице на Кръг.dll
+C:\Users\Galin\Desktop\8.Лице на Кръг\bin\Debug\net5.0\8.Лице на Кръг.pdb
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\8.Лице на Кръг.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\8.Лице на Кръг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\8.Лице на Кръг.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\8.Лице на Кръг.AssemblyInfo.cs
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\8.Лице на Кръг.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\8.Лице на Кръг.dll
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\ref\8.Лице на Кръг.dll
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\8.Лице на Кръг.pdb
+C:\Users\Galin\Desktop\8.Лице на Кръг\obj\Debug\net5.0\8.Лице на Кръг.genruntimeconfig.cache

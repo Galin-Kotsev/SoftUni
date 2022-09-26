@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\7. Боядисване на къща\bin\Debug\net5.0\7. Боядисване на къща.exe
+C:\Users\Galin\Desktop\7. Боядисване на къща\bin\Debug\net5.0\7. Боядисване на къща.deps.json
+C:\Users\Galin\Desktop\7. Боядисване на къща\bin\Debug\net5.0\7. Боядисване на къща.runtimeconfig.json
+C:\Users\Galin\Desktop\7. Боядисване на къща\bin\Debug\net5.0\7. Боядисване на къща.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\7. Боядисване на къща\bin\Debug\net5.0\7. Боядисване на къща.dll
+C:\Users\Galin\Desktop\7. Боядисване на къща\bin\Debug\net5.0\ref\7. Боядисване на къща.dll
+C:\Users\Galin\Desktop\7. Боядисване на къща\bin\Debug\net5.0\7. Боядисване на къща.pdb
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\7. Боядисване на къща.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\7. Боядисване на къща.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\7. Боядисване на къща.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\7. Боядисване на къща.AssemblyInfo.cs
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\7. Боядисване на къща.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\7. Боядисване на къща.dll
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\ref\7. Боядисване на къща.dll
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\7. Боядисване на къща.pdb
+C:\Users\Galin\Desktop\7. Боядисване на къща\obj\Debug\net5.0\7. Боядисване на къща.genruntimeconfig.cache

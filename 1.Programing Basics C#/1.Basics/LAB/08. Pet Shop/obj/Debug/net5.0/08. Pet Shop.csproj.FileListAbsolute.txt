@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\bin\Debug\net5.0\08. Pet Shop.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\bin\Debug\net5.0\08. Pet Shop.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\bin\Debug\net5.0\08. Pet Shop.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\bin\Debug\net5.0\08. Pet Shop.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\bin\Debug\net5.0\08. Pet Shop.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\bin\Debug\net5.0\ref\08. Pet Shop.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\bin\Debug\net5.0\08. Pet Shop.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\obj\Debug\net5.0\08. Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\obj\Debug\net5.0\08. Pet Shop.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\obj\Debug\net5.0\08. Pet Shop.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\obj\Debug\net5.0\08. Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\obj\Debug\net5.0\08. Pet Shop.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\obj\Debug\net5.0\ref\08. Pet Shop.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\obj\Debug\net5.0\08. Pet Shop.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\08. Pet Shop\obj\Debug\net5.0\08. Pet Shop.genruntimeconfig.cache

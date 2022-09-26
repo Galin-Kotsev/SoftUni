@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\bin\Debug\netcoreapp3.1\3-1. Energy Booster.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\bin\Debug\netcoreapp3.1\3-1. Energy Booster.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\bin\Debug\netcoreapp3.1\3-1. Energy Booster.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\bin\Debug\netcoreapp3.1\3-1. Energy Booster.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\bin\Debug\netcoreapp3.1\3-1. Energy Booster.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\bin\Debug\netcoreapp3.1\3-1. Energy Booster.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\obj\Debug\netcoreapp3.1\3-1. Energy Booster.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\obj\Debug\netcoreapp3.1\3-1. Energy Booster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\obj\Debug\netcoreapp3.1\3-1. Energy Booster.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\obj\Debug\netcoreapp3.1\3-1. Energy Booster.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\obj\Debug\netcoreapp3.1\3-1. Energy Booster.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\obj\Debug\netcoreapp3.1\3-1. Energy Booster.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\obj\Debug\netcoreapp3.1\3-1. Energy Booster.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-1. Energy Booster\obj\Debug\netcoreapp3.1\3-1. Energy Booster.genruntimeconfig.cache

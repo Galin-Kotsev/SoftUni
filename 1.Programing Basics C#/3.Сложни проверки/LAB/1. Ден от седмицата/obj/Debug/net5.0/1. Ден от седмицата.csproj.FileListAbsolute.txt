@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\bin\Debug\net5.0\1. Ден от седмицата.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\bin\Debug\net5.0\1. Ден от седмицата.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\bin\Debug\net5.0\1. Ден от седмицата.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\bin\Debug\net5.0\1. Ден от седмицата.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\bin\Debug\net5.0\1. Ден от седмицата.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\bin\Debug\net5.0\ref\1. Ден от седмицата.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\bin\Debug\net5.0\1. Ден от седмицата.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\1. Ден от седмицата.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\1. Ден от седмицата.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\1. Ден от седмицата.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\1. Ден от седмицата.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\1. Ден от седмицата.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\1. Ден от седмицата.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\ref\1. Ден от седмицата.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\1. Ден от седмицата.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\1. Ден от седмицата\obj\Debug\net5.0\1. Ден от седмицата.genruntimeconfig.cache

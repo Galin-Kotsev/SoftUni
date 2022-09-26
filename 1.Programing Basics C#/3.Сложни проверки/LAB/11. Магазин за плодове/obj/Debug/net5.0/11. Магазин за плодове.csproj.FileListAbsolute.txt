@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\bin\Debug\net5.0\11. Магазин за плодове.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\bin\Debug\net5.0\11. Магазин за плодове.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\bin\Debug\net5.0\11. Магазин за плодове.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\bin\Debug\net5.0\11. Магазин за плодове.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\bin\Debug\net5.0\11. Магазин за плодове.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\bin\Debug\net5.0\ref\11. Магазин за плодове.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\bin\Debug\net5.0\11. Магазин за плодове.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\11. Магазин за плодове.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\11. Магазин за плодове.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\11. Магазин за плодове.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\11. Магазин за плодове.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\11. Магазин за плодове.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\11. Магазин за плодове.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\ref\11. Магазин за плодове.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\11. Магазин за плодове.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\11. Магазин за плодове\obj\Debug\net5.0\11. Магазин за плодове.genruntimeconfig.cache

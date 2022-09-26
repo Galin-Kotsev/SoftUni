@@ -1,0 +1,16 @@
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\5. Годзила срещу Конг.csproj.AssemblyReference.cache
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\5. Годзила срещу Конг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\5. Годзила срещу Конг.AssemblyInfoInputs.cache
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\5. Годзила срещу Конг.AssemblyInfo.cs
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\5. Годзила срещу Конг.csproj.CoreCompileInputs.cache
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\bin\Debug\net5.0\5. Годзила срещу Конг.exe
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\bin\Debug\net5.0\5. Годзила срещу Конг.deps.json
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\bin\Debug\net5.0\5. Годзила срещу Конг.runtimeconfig.json
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\bin\Debug\net5.0\5. Годзила срещу Конг.runtimeconfig.dev.json
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\bin\Debug\net5.0\5. Годзила срещу Конг.dll
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\bin\Debug\net5.0\ref\5. Годзила срещу Конг.dll
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\bin\Debug\net5.0\5. Годзила срещу Конг.pdb
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\5. Годзила срещу Конг.dll
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\ref\5. Годзила срещу Конг.dll
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\5. Годзила срещу Конг.pdb
+C:\Users\Galin\source\repos\5. Годзила срещу Конг\obj\Debug\net5.0\5. Годзила срещу Конг.genruntimeconfig.cache

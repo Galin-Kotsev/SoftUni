@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\6. Рибна борса\bin\Debug\net5.0\6. Рибна борса.exe
+C:\Users\Galin\Desktop\6. Рибна борса\bin\Debug\net5.0\6. Рибна борса.deps.json
+C:\Users\Galin\Desktop\6. Рибна борса\bin\Debug\net5.0\6. Рибна борса.runtimeconfig.json
+C:\Users\Galin\Desktop\6. Рибна борса\bin\Debug\net5.0\6. Рибна борса.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\6. Рибна борса\bin\Debug\net5.0\6. Рибна борса.dll
+C:\Users\Galin\Desktop\6. Рибна борса\bin\Debug\net5.0\ref\6. Рибна борса.dll
+C:\Users\Galin\Desktop\6. Рибна борса\bin\Debug\net5.0\6. Рибна борса.pdb
+C:\Users\Galin\Desktop\6. Рибна борса\obj\Debug\net5.0\6. Рибна борса.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\6. Рибна борса\obj\Debug\net5.0\6. Рибна борса.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\6. Рибна борса\obj\Debug\net5.0\6. Рибна борса.AssemblyInfo.cs
+C:\Users\Galin\Desktop\6. Рибна борса\obj\Debug\net5.0\6. Рибна борса.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\6. Рибна борса\obj\Debug\net5.0\6. Рибна борса.dll
+C:\Users\Galin\Desktop\6. Рибна борса\obj\Debug\net5.0\ref\6. Рибна борса.dll
+C:\Users\Galin\Desktop\6. Рибна борса\obj\Debug\net5.0\6. Рибна борса.pdb
+C:\Users\Galin\Desktop\6. Рибна борса\obj\Debug\net5.0\6. Рибна борса.genruntimeconfig.cache

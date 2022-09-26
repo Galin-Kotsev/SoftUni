@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\bin\Debug\net5.0\9. Лява и дясна сума.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\bin\Debug\net5.0\9. Лява и дясна сума.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\bin\Debug\net5.0\9. Лява и дясна сума.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\bin\Debug\net5.0\9. Лява и дясна сума.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\bin\Debug\net5.0\9. Лява и дясна сума.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\bin\Debug\net5.0\ref\9. Лява и дясна сума.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\bin\Debug\net5.0\9. Лява и дясна сума.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\obj\Debug\net5.0\9. Лява и дясна сума.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\obj\Debug\net5.0\9. Лява и дясна сума.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\obj\Debug\net5.0\9. Лява и дясна сума.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\obj\Debug\net5.0\9. Лява и дясна сума.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\obj\Debug\net5.0\9. Лява и дясна сума.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\obj\Debug\net5.0\ref\9. Лява и дясна сума.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\obj\Debug\net5.0\9. Лява и дясна сума.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\9. Лява и дясна сума\obj\Debug\net5.0\9. Лява и дясна сума.genruntimeconfig.cache

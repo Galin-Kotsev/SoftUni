@@ -1,0 +1,14 @@
+C:\Users\Galin\source\repos\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.exe
+C:\Users\Galin\source\repos\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.deps.json
+C:\Users\Galin\source\repos\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.runtimeconfig.json
+C:\Users\Galin\source\repos\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.runtimeconfig.dev.json
+C:\Users\Galin\source\repos\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.dll
+C:\Users\Galin\source\repos\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.pdb
+C:\Users\Galin\source\repos\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.csproj.AssemblyReference.cache
+C:\Users\Galin\source\repos\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\source\repos\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.AssemblyInfoInputs.cache
+C:\Users\Galin\source\repos\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.AssemblyInfo.cs
+C:\Users\Galin\source\repos\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.csproj.CoreCompileInputs.cache
+C:\Users\Galin\source\repos\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.dll
+C:\Users\Galin\source\repos\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.pdb
+C:\Users\Galin\source\repos\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.genruntimeconfig.cache

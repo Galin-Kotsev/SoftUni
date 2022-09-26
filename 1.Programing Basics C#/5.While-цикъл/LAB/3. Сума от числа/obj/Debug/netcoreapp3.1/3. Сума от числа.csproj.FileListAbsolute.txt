@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\bin\Debug\netcoreapp3.1\3. Сума от числа.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\bin\Debug\netcoreapp3.1\3. Сума от числа.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\bin\Debug\netcoreapp3.1\3. Сума от числа.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\bin\Debug\netcoreapp3.1\3. Сума от числа.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\bin\Debug\netcoreapp3.1\3. Сума от числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\bin\Debug\netcoreapp3.1\3. Сума от числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\obj\Debug\netcoreapp3.1\3. Сума от числа.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\obj\Debug\netcoreapp3.1\3. Сума от числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\obj\Debug\netcoreapp3.1\3. Сума от числа.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\obj\Debug\netcoreapp3.1\3. Сума от числа.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\obj\Debug\netcoreapp3.1\3. Сума от числа.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\obj\Debug\netcoreapp3.1\3. Сума от числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\obj\Debug\netcoreapp3.1\3. Сума от числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\3. Сума от числа\obj\Debug\netcoreapp3.1\3. Сума от числа.genruntimeconfig.cache

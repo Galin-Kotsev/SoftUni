@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\6. Магазин за цветя\bin\Debug\net5.0\6. Магазин за цветя.exe
+C:\Users\Galin\Desktop\6. Магазин за цветя\bin\Debug\net5.0\6. Магазин за цветя.deps.json
+C:\Users\Galin\Desktop\6. Магазин за цветя\bin\Debug\net5.0\6. Магазин за цветя.runtimeconfig.json
+C:\Users\Galin\Desktop\6. Магазин за цветя\bin\Debug\net5.0\6. Магазин за цветя.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\6. Магазин за цветя\bin\Debug\net5.0\6. Магазин за цветя.dll
+C:\Users\Galin\Desktop\6. Магазин за цветя\bin\Debug\net5.0\ref\6. Магазин за цветя.dll
+C:\Users\Galin\Desktop\6. Магазин за цветя\bin\Debug\net5.0\6. Магазин за цветя.pdb
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\6. Магазин за цветя.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\6. Магазин за цветя.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\6. Магазин за цветя.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\6. Магазин за цветя.AssemblyInfo.cs
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\6. Магазин за цветя.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\6. Магазин за цветя.dll
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\ref\6. Магазин за цветя.dll
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\6. Магазин за цветя.pdb
+C:\Users\Galin\Desktop\6. Магазин за цветя\obj\Debug\net5.0\6. Магазин за цветя.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.exe
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.deps.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\bin\Debug\net5.0\ref\9. Fish Tank.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\obj\Debug\net5.0\ref\9. Fish Tank.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.genruntimeconfig.cache

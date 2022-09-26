@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\bin\Debug\net5.0\4. Лодка за риболов.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\bin\Debug\net5.0\4. Лодка за риболов.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\bin\Debug\net5.0\4. Лодка за риболов.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\bin\Debug\net5.0\4. Лодка за риболов.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\bin\Debug\net5.0\4. Лодка за риболов.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\bin\Debug\net5.0\ref\4. Лодка за риболов.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\bin\Debug\net5.0\4. Лодка за риболов.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\4. Лодка за риболов.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\4. Лодка за риболов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\4. Лодка за риболов.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\4. Лодка за риболов.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\4. Лодка за риболов.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\4. Лодка за риболов.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\ref\4. Лодка за риболов.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\4. Лодка за риболов.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\4. Лодка за риболов\obj\Debug\net5.0\4. Лодка за риболов.genruntimeconfig.cache

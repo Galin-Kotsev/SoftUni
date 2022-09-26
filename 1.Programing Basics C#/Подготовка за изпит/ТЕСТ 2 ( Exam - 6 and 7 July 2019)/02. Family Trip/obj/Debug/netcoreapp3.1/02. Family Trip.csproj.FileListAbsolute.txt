@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\bin\Debug\net5.0\2. Вело състезание.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\bin\Debug\net5.0\2. Вело състезание.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\bin\Debug\net5.0\2. Вело състезание.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\bin\Debug\net5.0\2. Вело състезание.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\bin\Debug\net5.0\2. Вело състезание.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\bin\Debug\net5.0\ref\2. Вело състезание.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\bin\Debug\net5.0\2. Вело състезание.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\obj\Debug\net5.0\2. Вело състезание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\obj\Debug\net5.0\2. Вело състезание.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\obj\Debug\net5.0\2. Вело състезание.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\obj\Debug\net5.0\2. Вело състезание.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\obj\Debug\net5.0\2. Вело състезание.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\obj\Debug\net5.0\ref\2. Вело състезание.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\obj\Debug\net5.0\2. Вело състезание.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\2. Вело състезание\obj\Debug\net5.0\2. Вело състезание.genruntimeconfig.cache

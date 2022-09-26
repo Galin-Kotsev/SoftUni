@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\1. Тръби в басейн.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\1. Тръби в басейн.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\1. Тръби в басейн.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\1. Тръби в басейн.AssemblyInfo.cs
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\1. Тръби в басейн.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\1. Тръби в басейн\bin\Debug\net5.0\1. Тръби в басейн.exe
+C:\Users\Galin\Desktop\1. Тръби в басейн\bin\Debug\net5.0\1. Тръби в басейн.deps.json
+C:\Users\Galin\Desktop\1. Тръби в басейн\bin\Debug\net5.0\1. Тръби в басейн.runtimeconfig.json
+C:\Users\Galin\Desktop\1. Тръби в басейн\bin\Debug\net5.0\1. Тръби в басейн.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\1. Тръби в басейн\bin\Debug\net5.0\1. Тръби в басейн.dll
+C:\Users\Galin\Desktop\1. Тръби в басейн\bin\Debug\net5.0\ref\1. Тръби в басейн.dll
+C:\Users\Galin\Desktop\1. Тръби в басейн\bin\Debug\net5.0\1. Тръби в басейн.pdb
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\1. Тръби в басейн.dll
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\ref\1. Тръби в басейн.dll
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\1. Тръби в басейн.pdb
+C:\Users\Galin\Desktop\1. Тръби в басейн\obj\Debug\net5.0\1. Тръби в басейн.genruntimeconfig.cache

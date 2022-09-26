@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\bin\Debug\net5.0\5. Поток от символи.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\bin\Debug\net5.0\5. Поток от символи.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\bin\Debug\net5.0\5. Поток от символи.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\bin\Debug\net5.0\5. Поток от символи.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\bin\Debug\net5.0\5. Поток от символи.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\bin\Debug\net5.0\ref\5. Поток от символи.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\bin\Debug\net5.0\5. Поток от символи.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\obj\Debug\net5.0\5. Поток от символи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\obj\Debug\net5.0\5. Поток от символи.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\obj\Debug\net5.0\5. Поток от символи.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\obj\Debug\net5.0\5. Поток от символи.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\obj\Debug\net5.0\5. Поток от символи.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\obj\Debug\net5.0\ref\5. Поток от символи.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\obj\Debug\net5.0\5. Поток от символи.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\5. Поток от символи\obj\Debug\net5.0\5. Поток от символи.genruntimeconfig.cache

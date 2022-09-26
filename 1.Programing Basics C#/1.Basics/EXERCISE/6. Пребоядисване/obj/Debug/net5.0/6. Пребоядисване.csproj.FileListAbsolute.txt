@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\bin\Debug\net5.0\6. Пребоядисване.exe
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\bin\Debug\net5.0\6. Пребоядисване.deps.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\bin\Debug\net5.0\6. Пребоядисване.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\bin\Debug\net5.0\6. Пребоядисване.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\bin\Debug\net5.0\6. Пребоядисване.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\bin\Debug\net5.0\ref\6. Пребоядисване.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\bin\Debug\net5.0\6. Пребоядисване.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\6. Пребоядисване.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\6. Пребоядисване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\6. Пребоядисване.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\6. Пребоядисване.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\6. Пребоядисване.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\6. Пребоядисване.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\ref\6. Пребоядисване.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\6. Пребоядисване.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\6. Пребоядисване\obj\Debug\net5.0\6. Пребоядисване.genruntimeconfig.cache

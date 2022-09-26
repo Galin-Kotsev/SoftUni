@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\bin\Debug\net5.0\6. Оскари.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\bin\Debug\net5.0\6. Оскари.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\bin\Debug\net5.0\6. Оскари.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\bin\Debug\net5.0\6. Оскари.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\bin\Debug\net5.0\6. Оскари.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\bin\Debug\net5.0\ref\6. Оскари.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\bin\Debug\net5.0\6. Оскари.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\6. Оскари.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\6. Оскари.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\6. Оскари.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\6. Оскари.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\6. Оскари.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\6. Оскари.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\ref\6. Оскари.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\6. Оскари.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\6. Оскари\obj\Debug\net5.0\6. Оскари.genruntimeconfig.cache

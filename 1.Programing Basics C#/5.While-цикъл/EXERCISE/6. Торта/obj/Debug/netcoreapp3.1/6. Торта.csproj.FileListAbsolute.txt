@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\bin\Debug\netcoreapp3.1\6. Торта.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\bin\Debug\netcoreapp3.1\6. Торта.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\bin\Debug\netcoreapp3.1\6. Торта.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\bin\Debug\netcoreapp3.1\6. Торта.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\bin\Debug\netcoreapp3.1\6. Торта.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\bin\Debug\netcoreapp3.1\6. Торта.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\obj\Debug\netcoreapp3.1\6. Торта.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\obj\Debug\netcoreapp3.1\6. Торта.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\obj\Debug\netcoreapp3.1\6. Торта.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\obj\Debug\netcoreapp3.1\6. Торта.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\obj\Debug\netcoreapp3.1\6. Торта.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\obj\Debug\netcoreapp3.1\6. Торта.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\obj\Debug\netcoreapp3.1\6. Торта.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\6. Торта\obj\Debug\netcoreapp3.1\6. Торта.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\bin\Debug\netcoreapp3.1\04.Centuries to Minutes.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\bin\Debug\netcoreapp3.1\04.Centuries to Minutes.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\bin\Debug\netcoreapp3.1\04.Centuries to Minutes.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\bin\Debug\netcoreapp3.1\04.Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\bin\Debug\netcoreapp3.1\04.Centuries to Minutes.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\bin\Debug\netcoreapp3.1\04.Centuries to Minutes.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\obj\Debug\netcoreapp3.1\04.Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\obj\Debug\netcoreapp3.1\04.Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\obj\Debug\netcoreapp3.1\04.Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\obj\Debug\netcoreapp3.1\04.Centuries to Minutes.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\obj\Debug\netcoreapp3.1\04.Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\obj\Debug\netcoreapp3.1\04.Centuries to Minutes.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\obj\Debug\netcoreapp3.1\04.Centuries to Minutes.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\04.Centuries to Minutes\obj\Debug\netcoreapp3.1\04.Centuries to Minutes.genruntimeconfig.cache

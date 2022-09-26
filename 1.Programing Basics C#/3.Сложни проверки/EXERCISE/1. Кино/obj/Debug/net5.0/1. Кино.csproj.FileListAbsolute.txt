@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\bin\Debug\net5.0\1. Кино.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\bin\Debug\net5.0\1. Кино.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\bin\Debug\net5.0\1. Кино.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\bin\Debug\net5.0\1. Кино.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\bin\Debug\net5.0\1. Кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\bin\Debug\net5.0\ref\1. Кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\bin\Debug\net5.0\1. Кино.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\1. Кино.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\1. Кино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\1. Кино.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\1. Кино.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\1. Кино.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\1. Кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\ref\1. Кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\1. Кино.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\1. Кино\obj\Debug\net5.0\1. Кино.genruntimeconfig.cache

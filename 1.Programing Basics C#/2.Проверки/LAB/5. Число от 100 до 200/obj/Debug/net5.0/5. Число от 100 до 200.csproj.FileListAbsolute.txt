@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\5. Число от 100 до 200\bin\Debug\net5.0\5. Число от 100 до 200.exe
+C:\Users\Galin\Desktop\5. Число от 100 до 200\bin\Debug\net5.0\5. Число от 100 до 200.deps.json
+C:\Users\Galin\Desktop\5. Число от 100 до 200\bin\Debug\net5.0\5. Число от 100 до 200.runtimeconfig.json
+C:\Users\Galin\Desktop\5. Число от 100 до 200\bin\Debug\net5.0\5. Число от 100 до 200.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\5. Число от 100 до 200\bin\Debug\net5.0\5. Число от 100 до 200.dll
+C:\Users\Galin\Desktop\5. Число от 100 до 200\bin\Debug\net5.0\ref\5. Число от 100 до 200.dll
+C:\Users\Galin\Desktop\5. Число от 100 до 200\bin\Debug\net5.0\5. Число от 100 до 200.pdb
+C:\Users\Galin\Desktop\5. Число от 100 до 200\obj\Debug\net5.0\5. Число от 100 до 200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\5. Число от 100 до 200\obj\Debug\net5.0\5. Число от 100 до 200.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\5. Число от 100 до 200\obj\Debug\net5.0\5. Число от 100 до 200.AssemblyInfo.cs
+C:\Users\Galin\Desktop\5. Число от 100 до 200\obj\Debug\net5.0\5. Число от 100 до 200.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\5. Число от 100 до 200\obj\Debug\net5.0\5. Число от 100 до 200.dll
+C:\Users\Galin\Desktop\5. Число от 100 до 200\obj\Debug\net5.0\ref\5. Число от 100 до 200.dll
+C:\Users\Galin\Desktop\5. Число от 100 до 200\obj\Debug\net5.0\5. Число от 100 до 200.pdb
+C:\Users\Galin\Desktop\5. Число от 100 до 200\obj\Debug\net5.0\5. Число от 100 до 200.genruntimeconfig.cache

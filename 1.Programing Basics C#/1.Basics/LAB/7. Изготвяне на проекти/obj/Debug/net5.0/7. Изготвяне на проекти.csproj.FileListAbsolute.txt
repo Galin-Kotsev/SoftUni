@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\bin\Debug\net5.0\7. Изготвяне на проекти.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\bin\Debug\net5.0\7. Изготвяне на проекти.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\bin\Debug\net5.0\7. Изготвяне на проекти.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\bin\Debug\net5.0\7. Изготвяне на проекти.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\bin\Debug\net5.0\7. Изготвяне на проекти.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\bin\Debug\net5.0\ref\7. Изготвяне на проекти.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\bin\Debug\net5.0\7. Изготвяне на проекти.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\obj\Debug\net5.0\7. Изготвяне на проекти.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\obj\Debug\net5.0\7. Изготвяне на проекти.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\obj\Debug\net5.0\7. Изготвяне на проекти.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\obj\Debug\net5.0\7. Изготвяне на проекти.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\obj\Debug\net5.0\7. Изготвяне на проекти.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\obj\Debug\net5.0\ref\7. Изготвяне на проекти.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\obj\Debug\net5.0\7. Изготвяне на проекти.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\7. Изготвяне на проекти\obj\Debug\net5.0\7. Изготвяне на проекти.genruntimeconfig.cache

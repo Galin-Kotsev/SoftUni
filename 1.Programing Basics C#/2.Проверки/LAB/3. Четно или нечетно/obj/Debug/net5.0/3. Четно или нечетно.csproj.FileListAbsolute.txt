@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\3. Четно или нечетно\bin\Debug\net5.0\3. Четно или нечетно.exe
+C:\Users\Galin\Desktop\3. Четно или нечетно\bin\Debug\net5.0\3. Четно или нечетно.deps.json
+C:\Users\Galin\Desktop\3. Четно или нечетно\bin\Debug\net5.0\3. Четно или нечетно.runtimeconfig.json
+C:\Users\Galin\Desktop\3. Четно или нечетно\bin\Debug\net5.0\3. Четно или нечетно.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\3. Четно или нечетно\bin\Debug\net5.0\3. Четно или нечетно.dll
+C:\Users\Galin\Desktop\3. Четно или нечетно\bin\Debug\net5.0\ref\3. Четно или нечетно.dll
+C:\Users\Galin\Desktop\3. Четно или нечетно\bin\Debug\net5.0\3. Четно или нечетно.pdb
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\3. Четно или нечетно.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\3. Четно или нечетно.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\3. Четно или нечетно.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\3. Четно или нечетно.AssemblyInfo.cs
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\3. Четно или нечетно.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\3. Четно или нечетно.dll
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\ref\3. Четно или нечетно.dll
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\3. Четно или нечетно.pdb
+C:\Users\Galin\Desktop\3. Четно или нечетно\obj\Debug\net5.0\3. Четно или нечетно.genruntimeconfig.cache

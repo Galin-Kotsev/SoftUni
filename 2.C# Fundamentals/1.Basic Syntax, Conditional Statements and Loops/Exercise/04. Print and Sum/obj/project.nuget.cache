@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gftPouucbM+QoRkhtTat/prFV+aFxDtGLjCGJS96jKFdxNdB2vfRGUpO5kML26GCWygr1jcLW7qmffWo5K4zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Galin\\Desktop\\SoftUni\\2.C# Fundamentals\\1.Basic Syntax, Conditional Statements and Loops\\Exercise\\04. Print and Sum\\04. Print and Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

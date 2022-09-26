@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\bin\Debug\net5.0\1. Билети за мач.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\bin\Debug\net5.0\1. Билети за мач.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\bin\Debug\net5.0\1. Билети за мач.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\bin\Debug\net5.0\1. Билети за мач.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\bin\Debug\net5.0\1. Билети за мач.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\bin\Debug\net5.0\ref\1. Билети за мач.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\bin\Debug\net5.0\1. Билети за мач.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\1. Билети за мач.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\1. Билети за мач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\1. Билети за мач.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\1. Билети за мач.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\1. Билети за мач.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\1. Билети за мач.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\ref\1. Билети за мач.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\1. Билети за мач.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\MORE_EXERCISE\1. Билети за мач\obj\Debug\net5.0\1. Билети за мач.genruntimeconfig.cache

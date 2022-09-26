@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\ass\bin\Debug\net5.0\ass.exe
+C:\Users\Galin\Desktop\ass\bin\Debug\net5.0\ass.deps.json
+C:\Users\Galin\Desktop\ass\bin\Debug\net5.0\ass.runtimeconfig.json
+C:\Users\Galin\Desktop\ass\bin\Debug\net5.0\ass.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\ass\bin\Debug\net5.0\ass.dll
+C:\Users\Galin\Desktop\ass\bin\Debug\net5.0\ref\ass.dll
+C:\Users\Galin\Desktop\ass\bin\Debug\net5.0\ass.pdb
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ass.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ass.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ass.AssemblyInfo.cs
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ass.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ass.dll
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ref\ass.dll
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ass.pdb
+C:\Users\Galin\Desktop\ass\obj\Debug\net5.0\ass.genruntimeconfig.cache

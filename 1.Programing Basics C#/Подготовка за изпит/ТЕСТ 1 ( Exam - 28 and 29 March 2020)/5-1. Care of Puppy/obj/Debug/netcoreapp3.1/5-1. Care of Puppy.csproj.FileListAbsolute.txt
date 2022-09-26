@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\bin\Debug\netcoreapp3.1\5-1. Care of Puppy.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\bin\Debug\netcoreapp3.1\5-1. Care of Puppy.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\bin\Debug\netcoreapp3.1\5-1. Care of Puppy.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\bin\Debug\netcoreapp3.1\5-1. Care of Puppy.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\bin\Debug\netcoreapp3.1\5-1. Care of Puppy.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\bin\Debug\netcoreapp3.1\5-1. Care of Puppy.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\obj\Debug\netcoreapp3.1\5-1. Care of Puppy.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\obj\Debug\netcoreapp3.1\5-1. Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\obj\Debug\netcoreapp3.1\5-1. Care of Puppy.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\obj\Debug\netcoreapp3.1\5-1. Care of Puppy.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\obj\Debug\netcoreapp3.1\5-1. Care of Puppy.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\obj\Debug\netcoreapp3.1\5-1. Care of Puppy.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\obj\Debug\netcoreapp3.1\5-1. Care of Puppy.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-1. Care of Puppy\obj\Debug\netcoreapp3.1\5-1. Care of Puppy.genruntimeconfig.cache

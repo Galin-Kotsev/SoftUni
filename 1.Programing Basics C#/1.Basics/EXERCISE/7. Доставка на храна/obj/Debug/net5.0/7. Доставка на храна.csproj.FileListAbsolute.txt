@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\bin\Debug\net5.0\7. Доставка на храна.exe
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\bin\Debug\net5.0\7. Доставка на храна.deps.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\bin\Debug\net5.0\7. Доставка на храна.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\bin\Debug\net5.0\7. Доставка на храна.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\bin\Debug\net5.0\7. Доставка на храна.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\bin\Debug\net5.0\ref\7. Доставка на храна.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\bin\Debug\net5.0\7. Доставка на храна.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\obj\Debug\net5.0\7. Доставка на храна.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\obj\Debug\net5.0\7. Доставка на храна.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\obj\Debug\net5.0\7. Доставка на храна.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\obj\Debug\net5.0\7. Доставка на храна.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\obj\Debug\net5.0\7. Доставка на храна.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\obj\Debug\net5.0\ref\7. Доставка на храна.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\obj\Debug\net5.0\7. Доставка на храна.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\7. Доставка на храна\obj\Debug\net5.0\7. Доставка на храна.genruntimeconfig.cache

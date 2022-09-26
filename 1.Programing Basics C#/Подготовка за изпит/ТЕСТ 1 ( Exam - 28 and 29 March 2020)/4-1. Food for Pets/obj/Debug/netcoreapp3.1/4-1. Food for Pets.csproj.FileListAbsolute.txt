@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\bin\Debug\netcoreapp3.1\4-1. Food for Pets.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\bin\Debug\netcoreapp3.1\4-1. Food for Pets.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\bin\Debug\netcoreapp3.1\4-1. Food for Pets.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\bin\Debug\netcoreapp3.1\4-1. Food for Pets.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\bin\Debug\netcoreapp3.1\4-1. Food for Pets.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\bin\Debug\netcoreapp3.1\4-1. Food for Pets.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\obj\Debug\netcoreapp3.1\4-1. Food for Pets.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\obj\Debug\netcoreapp3.1\4-1. Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\obj\Debug\netcoreapp3.1\4-1. Food for Pets.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\obj\Debug\netcoreapp3.1\4-1. Food for Pets.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\obj\Debug\netcoreapp3.1\4-1. Food for Pets.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\obj\Debug\netcoreapp3.1\4-1. Food for Pets.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\obj\Debug\netcoreapp3.1\4-1. Food for Pets.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\4-1. Food for Pets\obj\Debug\netcoreapp3.1\4-1. Food for Pets.genruntimeconfig.cache

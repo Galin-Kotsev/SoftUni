@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\bin\Debug\netcoreapp3.1\1-1. Рожден ден.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\bin\Debug\netcoreapp3.1\1-1. Рожден ден.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\bin\Debug\netcoreapp3.1\1-1. Рожден ден.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\bin\Debug\netcoreapp3.1\1-1. Рожден ден.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\bin\Debug\netcoreapp3.1\1-1. Рожден ден.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\bin\Debug\netcoreapp3.1\1-1. Рожден ден.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\obj\Debug\netcoreapp3.1\1-1. Рожден ден.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\obj\Debug\netcoreapp3.1\1-1. Рожден ден.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\obj\Debug\netcoreapp3.1\1-1. Рожден ден.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\obj\Debug\netcoreapp3.1\1-1. Рожден ден.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\obj\Debug\netcoreapp3.1\1-1. Рожден ден.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\obj\Debug\netcoreapp3.1\1-1. Рожден ден.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\obj\Debug\netcoreapp3.1\1-1. Рожден ден.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-1. Рожден ден\obj\Debug\netcoreapp3.1\1-1. Рожден ден.genruntimeconfig.cache

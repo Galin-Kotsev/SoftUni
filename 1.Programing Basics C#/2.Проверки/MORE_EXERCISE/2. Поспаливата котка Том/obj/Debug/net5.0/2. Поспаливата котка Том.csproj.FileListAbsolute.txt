@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\bin\Debug\net5.0\2. Поспаливата котка Том.exe
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\bin\Debug\net5.0\2. Поспаливата котка Том.deps.json
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\bin\Debug\net5.0\2. Поспаливата котка Том.runtimeconfig.json
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\bin\Debug\net5.0\2. Поспаливата котка Том.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\bin\Debug\net5.0\2. Поспаливата котка Том.dll
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\bin\Debug\net5.0\ref\2. Поспаливата котка Том.dll
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\bin\Debug\net5.0\2. Поспаливата котка Том.pdb
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\2. Поспаливата котка Том.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\2. Поспаливата котка Том.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\2. Поспаливата котка Том.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\2. Поспаливата котка Том.AssemblyInfo.cs
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\2. Поспаливата котка Том.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\2. Поспаливата котка Том.dll
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\ref\2. Поспаливата котка Том.dll
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\2. Поспаливата котка Том.pdb
+C:\Users\Galin\Desktop\2. Поспаливата котка Том\obj\Debug\net5.0\2. Поспаливата котка Том.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\bin\Debug\net5.0\2.  Лятно облекло.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\bin\Debug\net5.0\2.  Лятно облекло.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\bin\Debug\net5.0\2.  Лятно облекло.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\bin\Debug\net5.0\2.  Лятно облекло.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\bin\Debug\net5.0\2.  Лятно облекло.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\bin\Debug\net5.0\ref\2.  Лятно облекло.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\bin\Debug\net5.0\2.  Лятно облекло.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\2.  Лятно облекло.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\2.  Лятно облекло.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\2.  Лятно облекло.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\2.  Лятно облекло.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\2.  Лятно облекло.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\2.  Лятно облекло.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\ref\2.  Лятно облекло.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\2.  Лятно облекло.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\2.  Лятно облекло\obj\Debug\net5.0\2.  Лятно облекло.genruntimeconfig.cache

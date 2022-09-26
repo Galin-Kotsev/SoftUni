@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\bin\Debug\net5.0\4. Обръщение според възраст и пол.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\bin\Debug\net5.0\4. Обръщение според възраст и пол.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\bin\Debug\net5.0\4. Обръщение според възраст и пол.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\bin\Debug\net5.0\4. Обръщение според възраст и пол.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\bin\Debug\net5.0\4. Обръщение според възраст и пол.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\bin\Debug\net5.0\ref\4. Обръщение според възраст и пол.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\bin\Debug\net5.0\4. Обръщение според възраст и пол.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\4. Обръщение според възраст и пол.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\4. Обръщение според възраст и пол.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\4. Обръщение според възраст и пол.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\4. Обръщение според възраст и пол.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\4. Обръщение според възраст и пол.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\4. Обръщение според възраст и пол.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\ref\4. Обръщение според възраст и пол.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\4. Обръщение според възраст и пол.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\4. Обръщение според възраст и пол\obj\Debug\net5.0\4. Обръщение според възраст и пол.genruntimeconfig.cache

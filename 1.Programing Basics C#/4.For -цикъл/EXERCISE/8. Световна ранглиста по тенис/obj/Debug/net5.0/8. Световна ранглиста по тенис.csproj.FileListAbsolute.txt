@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\bin\Debug\net5.0\8. Световна ранглиста по тенис.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\bin\Debug\net5.0\8. Световна ранглиста по тенис.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\bin\Debug\net5.0\8. Световна ранглиста по тенис.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\bin\Debug\net5.0\8. Световна ранглиста по тенис.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\bin\Debug\net5.0\8. Световна ранглиста по тенис.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\bin\Debug\net5.0\ref\8. Световна ранглиста по тенис.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\bin\Debug\net5.0\8. Световна ранглиста по тенис.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\8. Световна ранглиста по тенис.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\8. Световна ранглиста по тенис.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\8. Световна ранглиста по тенис.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\8. Световна ранглиста по тенис.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\8. Световна ранглиста по тенис.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\ref\8. Световна ранглиста по тенис.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\8. Световна ранглиста по тенис.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\8. Световна ранглиста по тенис.genruntimeconfig.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\8. Световна ранглиста по тенис\obj\Debug\net5.0\8. Световна ранглиста по тенис.csproj.AssemblyReference.cache

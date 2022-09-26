@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\2.Лице на триъгълник\bin\Debug\net5.0\2.Лице на триъгълник.exe
+C:\Users\Galin\Desktop\2.Лице на триъгълник\bin\Debug\net5.0\2.Лице на триъгълник.deps.json
+C:\Users\Galin\Desktop\2.Лице на триъгълник\bin\Debug\net5.0\2.Лице на триъгълник.runtimeconfig.json
+C:\Users\Galin\Desktop\2.Лице на триъгълник\bin\Debug\net5.0\2.Лице на триъгълник.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\2.Лице на триъгълник\bin\Debug\net5.0\2.Лице на триъгълник.dll
+C:\Users\Galin\Desktop\2.Лице на триъгълник\bin\Debug\net5.0\ref\2.Лице на триъгълник.dll
+C:\Users\Galin\Desktop\2.Лице на триъгълник\bin\Debug\net5.0\2.Лице на триъгълник.pdb
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\2.Лице на триъгълник.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\2.Лице на триъгълник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\2.Лице на триъгълник.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\2.Лице на триъгълник.AssemblyInfo.cs
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\2.Лице на триъгълник.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\2.Лице на триъгълник.dll
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\ref\2.Лице на триъгълник.dll
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\2.Лице на триъгълник.pdb
+C:\Users\Galin\Desktop\2.Лице на триъгълник\obj\Debug\net5.0\2.Лице на триъгълник.genruntimeconfig.cache

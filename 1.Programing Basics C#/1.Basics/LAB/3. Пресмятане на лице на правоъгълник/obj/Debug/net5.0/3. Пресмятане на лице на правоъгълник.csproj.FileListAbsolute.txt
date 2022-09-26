@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\bin\Debug\net5.0\3. Пресмятане на лице на правоъгълник.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\bin\Debug\net5.0\3. Пресмятане на лице на правоъгълник.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\bin\Debug\net5.0\3. Пресмятане на лице на правоъгълник.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\bin\Debug\net5.0\3. Пресмятане на лице на правоъгълник.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\bin\Debug\net5.0\3. Пресмятане на лице на правоъгълник.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\bin\Debug\net5.0\ref\3. Пресмятане на лице на правоъгълник.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\bin\Debug\net5.0\3. Пресмятане на лице на правоъгълник.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\3. Пресмятане на лице на правоъгълник.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\3. Пресмятане на лице на правоъгълник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\3. Пресмятане на лице на правоъгълник.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\3. Пресмятане на лице на правоъгълник.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\3. Пресмятане на лице на правоъгълник.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\3. Пресмятане на лице на правоъгълник.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\ref\3. Пресмятане на лице на правоъгълник.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\3. Пресмятане на лице на правоъгълник.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\3. Пресмятане на лице на правоъгълник\obj\Debug\net5.0\3. Пресмятане на лице на правоъгълник.genruntimeconfig.cache

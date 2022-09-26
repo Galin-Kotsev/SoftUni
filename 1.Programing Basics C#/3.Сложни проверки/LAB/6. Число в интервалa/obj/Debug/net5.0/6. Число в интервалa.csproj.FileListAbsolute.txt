@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\bin\Debug\net5.0\6. Число в интервалa.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\bin\Debug\net5.0\6. Число в интервалa.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\bin\Debug\net5.0\6. Число в интервалa.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\bin\Debug\net5.0\6. Число в интервалa.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\bin\Debug\net5.0\6. Число в интервалa.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\bin\Debug\net5.0\ref\6. Число в интервалa.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\bin\Debug\net5.0\6. Число в интервалa.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\obj\Debug\net5.0\6. Число в интервалa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\obj\Debug\net5.0\6. Число в интервалa.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\obj\Debug\net5.0\6. Число в интервалa.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\obj\Debug\net5.0\6. Число в интервалa.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\obj\Debug\net5.0\6. Число в интервалa.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\obj\Debug\net5.0\ref\6. Число в интервалa.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\obj\Debug\net5.0\6. Число в интервалa.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\6. Число в интервалa\obj\Debug\net5.0\6. Число в интервалa.genruntimeconfig.cache

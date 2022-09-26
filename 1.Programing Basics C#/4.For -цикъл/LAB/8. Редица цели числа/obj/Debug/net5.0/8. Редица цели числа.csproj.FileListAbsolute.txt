@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\bin\Debug\net5.0\8. Редица цели числа.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\bin\Debug\net5.0\8. Редица цели числа.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\bin\Debug\net5.0\8. Редица цели числа.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\bin\Debug\net5.0\8. Редица цели числа.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\bin\Debug\net5.0\8. Редица цели числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\bin\Debug\net5.0\ref\8. Редица цели числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\bin\Debug\net5.0\8. Редица цели числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\obj\Debug\net5.0\8. Редица цели числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\obj\Debug\net5.0\8. Редица цели числа.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\obj\Debug\net5.0\8. Редица цели числа.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\obj\Debug\net5.0\8. Редица цели числа.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\obj\Debug\net5.0\8. Редица цели числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\obj\Debug\net5.0\ref\8. Редица цели числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\obj\Debug\net5.0\8. Редица цели числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\8. Редица цели числа\obj\Debug\net5.0\8. Редица цели числа.genruntimeconfig.cache

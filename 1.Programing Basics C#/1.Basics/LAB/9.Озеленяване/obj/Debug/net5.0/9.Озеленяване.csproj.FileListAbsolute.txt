@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\bin\Debug\net5.0\9.Озеленяване.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\bin\Debug\net5.0\9.Озеленяване.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\bin\Debug\net5.0\9.Озеленяване.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\bin\Debug\net5.0\9.Озеленяване.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\bin\Debug\net5.0\9.Озеленяване.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\bin\Debug\net5.0\ref\9.Озеленяване.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\bin\Debug\net5.0\9.Озеленяване.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\obj\Debug\net5.0\9.Озеленяване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\obj\Debug\net5.0\9.Озеленяване.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\obj\Debug\net5.0\9.Озеленяване.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\obj\Debug\net5.0\9.Озеленяване.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\obj\Debug\net5.0\9.Озеленяване.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\obj\Debug\net5.0\ref\9.Озеленяване.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\obj\Debug\net5.0\9.Озеленяване.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\9.Озеленяване\obj\Debug\net5.0\9.Озеленяване.genruntimeconfig.cache

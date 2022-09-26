@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\bin\Debug\net5.0\3. Нов дом.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\bin\Debug\net5.0\3. Нов дом.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\bin\Debug\net5.0\3. Нов дом.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\bin\Debug\net5.0\3. Нов дом.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\bin\Debug\net5.0\3. Нов дом.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\bin\Debug\net5.0\ref\3. Нов дом.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\bin\Debug\net5.0\3. Нов дом.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\3. Нов дом.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\3. Нов дом.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\3. Нов дом.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\3. Нов дом.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\3. Нов дом.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\ref\3. Нов дом.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\3. Нов дом.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\3. Нов дом.genruntimeconfig.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\3. Нов дом\obj\Debug\net5.0\3. Нов дом.csproj.AssemblyReference.cache

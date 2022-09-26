@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\EXERCISE\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.genruntimeconfig.cache

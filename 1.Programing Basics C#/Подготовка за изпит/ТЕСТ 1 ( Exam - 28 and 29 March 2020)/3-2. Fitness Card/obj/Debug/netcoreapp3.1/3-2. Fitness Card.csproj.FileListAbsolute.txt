@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\bin\Debug\netcoreapp3.1\3-2. Fitness Card.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\bin\Debug\netcoreapp3.1\3-2. Fitness Card.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\bin\Debug\netcoreapp3.1\3-2. Fitness Card.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\bin\Debug\netcoreapp3.1\3-2. Fitness Card.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\bin\Debug\netcoreapp3.1\3-2. Fitness Card.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\bin\Debug\netcoreapp3.1\3-2. Fitness Card.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\obj\Debug\netcoreapp3.1\3-2. Fitness Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\obj\Debug\netcoreapp3.1\3-2. Fitness Card.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\obj\Debug\netcoreapp3.1\3-2. Fitness Card.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\obj\Debug\netcoreapp3.1\3-2. Fitness Card.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\obj\Debug\netcoreapp3.1\3-2. Fitness Card.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\obj\Debug\netcoreapp3.1\3-2. Fitness Card.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\obj\Debug\netcoreapp3.1\3-2. Fitness Card.genruntimeconfig.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\3-2. Fitness Card\obj\Debug\netcoreapp3.1\3-2. Fitness Card.csproj.AssemblyReference.cache

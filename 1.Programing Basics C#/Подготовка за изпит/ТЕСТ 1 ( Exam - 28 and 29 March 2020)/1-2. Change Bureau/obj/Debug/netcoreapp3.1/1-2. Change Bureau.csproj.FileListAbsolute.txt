@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\bin\Debug\netcoreapp3.1\1-2. Change Bureau.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\bin\Debug\netcoreapp3.1\1-2. Change Bureau.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\bin\Debug\netcoreapp3.1\1-2. Change Bureau.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\bin\Debug\netcoreapp3.1\1-2. Change Bureau.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\bin\Debug\netcoreapp3.1\1-2. Change Bureau.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\bin\Debug\netcoreapp3.1\1-2. Change Bureau.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\obj\Debug\netcoreapp3.1\1-2. Change Bureau.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\obj\Debug\netcoreapp3.1\1-2. Change Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\obj\Debug\netcoreapp3.1\1-2. Change Bureau.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\obj\Debug\netcoreapp3.1\1-2. Change Bureau.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\obj\Debug\netcoreapp3.1\1-2. Change Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\obj\Debug\netcoreapp3.1\1-2. Change Bureau.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\obj\Debug\netcoreapp3.1\1-2. Change Bureau.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\1-2. Change Bureau\obj\Debug\netcoreapp3.1\1-2. Change Bureau.genruntimeconfig.cache

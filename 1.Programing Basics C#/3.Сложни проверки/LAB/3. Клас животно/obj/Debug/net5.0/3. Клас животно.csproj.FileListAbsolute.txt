@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\bin\Debug\net5.0\3. Клас животно.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\bin\Debug\net5.0\3. Клас животно.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\bin\Debug\net5.0\3. Клас животно.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\bin\Debug\net5.0\3. Клас животно.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\bin\Debug\net5.0\3. Клас животно.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\bin\Debug\net5.0\ref\3. Клас животно.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\bin\Debug\net5.0\3. Клас животно.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\3. Клас животно.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\3. Клас животно.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\3. Клас животно.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\3. Клас животно.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\3. Клас животно.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\3. Клас животно.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\ref\3. Клас животно.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\3. Клас животно.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\3. Клас животно\obj\Debug\net5.0\3. Клас животно.genruntimeconfig.cache

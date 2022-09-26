@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\4. Зеленчукова борса\bin\Debug\net5.0\4. Зеленчукова борса.exe
+C:\Users\Galin\Desktop\4. Зеленчукова борса\bin\Debug\net5.0\4. Зеленчукова борса.deps.json
+C:\Users\Galin\Desktop\4. Зеленчукова борса\bin\Debug\net5.0\4. Зеленчукова борса.runtimeconfig.json
+C:\Users\Galin\Desktop\4. Зеленчукова борса\bin\Debug\net5.0\4. Зеленчукова борса.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\4. Зеленчукова борса\bin\Debug\net5.0\4. Зеленчукова борса.dll
+C:\Users\Galin\Desktop\4. Зеленчукова борса\bin\Debug\net5.0\ref\4. Зеленчукова борса.dll
+C:\Users\Galin\Desktop\4. Зеленчукова борса\bin\Debug\net5.0\4. Зеленчукова борса.pdb
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\4. Зеленчукова борса.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\4. Зеленчукова борса.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\4. Зеленчукова борса.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\4. Зеленчукова борса.AssemblyInfo.cs
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\4. Зеленчукова борса.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\4. Зеленчукова борса.dll
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\ref\4. Зеленчукова борса.dll
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\4. Зеленчукова борса.pdb
+C:\Users\Galin\Desktop\4. Зеленчукова борса\obj\Debug\net5.0\4. Зеленчукова борса.genruntimeconfig.cache

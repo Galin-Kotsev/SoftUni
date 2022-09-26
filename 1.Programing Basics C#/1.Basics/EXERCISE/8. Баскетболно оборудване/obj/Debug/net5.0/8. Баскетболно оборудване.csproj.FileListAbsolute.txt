@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\bin\Debug\net5.0\8. Баскетболно оборудване.exe
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\bin\Debug\net5.0\8. Баскетболно оборудване.deps.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\bin\Debug\net5.0\8. Баскетболно оборудване.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\bin\Debug\net5.0\8. Баскетболно оборудване.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\bin\Debug\net5.0\8. Баскетболно оборудване.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\bin\Debug\net5.0\ref\8. Баскетболно оборудване.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\bin\Debug\net5.0\8. Баскетболно оборудване.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\obj\Debug\net5.0\8. Баскетболно оборудване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\obj\Debug\net5.0\8. Баскетболно оборудване.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\obj\Debug\net5.0\8. Баскетболно оборудване.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\obj\Debug\net5.0\8. Баскетболно оборудване.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\obj\Debug\net5.0\8. Баскетболно оборудване.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\obj\Debug\net5.0\ref\8. Баскетболно оборудване.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\obj\Debug\net5.0\8. Баскетболно оборудване.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\8. Баскетболно оборудване\obj\Debug\net5.0\8. Баскетболно оборудване.genruntimeconfig.cache

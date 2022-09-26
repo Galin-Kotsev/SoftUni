@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\bin\Debug\net5.0\2. Почивен или работен ден.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\bin\Debug\net5.0\2. Почивен или работен ден.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\bin\Debug\net5.0\2. Почивен или работен ден.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\bin\Debug\net5.0\2. Почивен или работен ден.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\bin\Debug\net5.0\2. Почивен или работен ден.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\bin\Debug\net5.0\ref\2. Почивен или работен ден.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\bin\Debug\net5.0\2. Почивен или работен ден.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\obj\Debug\net5.0\2. Почивен или работен ден.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\obj\Debug\net5.0\2. Почивен или работен ден.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\obj\Debug\net5.0\2. Почивен или работен ден.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\obj\Debug\net5.0\2. Почивен или работен ден.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\obj\Debug\net5.0\2. Почивен или работен ден.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\obj\Debug\net5.0\ref\2. Почивен или работен ден.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\obj\Debug\net5.0\2. Почивен или работен ден.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\2. Почивен или работен ден\obj\Debug\net5.0\2. Почивен или работен ден.genruntimeconfig.cache

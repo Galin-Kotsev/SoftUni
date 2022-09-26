@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\bin\Debug\net5.0\ref\12. Търговски комисионни.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\ref\12. Търговски комисионни.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.genruntimeconfig.cache

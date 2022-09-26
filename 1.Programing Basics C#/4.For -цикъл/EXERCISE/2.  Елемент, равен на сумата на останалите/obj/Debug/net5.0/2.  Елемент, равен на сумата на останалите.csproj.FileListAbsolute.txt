@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\bin\Debug\net5.0\2.  Елемент, равен на сумата на останалите.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\bin\Debug\net5.0\2.  Елемент, равен на сумата на останалите.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\bin\Debug\net5.0\2.  Елемент, равен на сумата на останалите.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\bin\Debug\net5.0\2.  Елемент, равен на сумата на останалите.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\bin\Debug\net5.0\2.  Елемент, равен на сумата на останалите.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\bin\Debug\net5.0\ref\2.  Елемент, равен на сумата на останалите.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\bin\Debug\net5.0\2.  Елемент, равен на сумата на останалите.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\obj\Debug\net5.0\2.  Елемент, равен на сумата на останалите.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\obj\Debug\net5.0\2.  Елемент, равен на сумата на останалите.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\obj\Debug\net5.0\2.  Елемент, равен на сумата на останалите.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\obj\Debug\net5.0\2.  Елемент, равен на сумата на останалите.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\obj\Debug\net5.0\2.  Елемент, равен на сумата на останалите.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\obj\Debug\net5.0\ref\2.  Елемент, равен на сумата на останалите.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\obj\Debug\net5.0\2.  Елемент, равен на сумата на останалите.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\2.  Елемент, равен на сумата на останалите\obj\Debug\net5.0\2.  Елемент, равен на сумата на останалите.genruntimeconfig.cache

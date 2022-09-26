@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\bin\Debug\net5.0\5. Пътешествие.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\bin\Debug\net5.0\5. Пътешествие.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\bin\Debug\net5.0\5. Пътешествие.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\bin\Debug\net5.0\5. Пътешествие.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\bin\Debug\net5.0\5. Пътешествие.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\bin\Debug\net5.0\ref\5. Пътешествие.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\bin\Debug\net5.0\5. Пътешествие.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\5. Пътешествие.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\5. Пътешествие.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\5. Пътешествие.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\5. Пътешествие.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\5. Пътешествие.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\5. Пътешествие.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\ref\5. Пътешествие.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\5. Пътешествие.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\5. Пътешествие\obj\Debug\net5.0\5. Пътешествие.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\bin\Debug\net5.0\9. Ски почивка.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\bin\Debug\net5.0\9. Ски почивка.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\bin\Debug\net5.0\9. Ски почивка.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\bin\Debug\net5.0\9. Ски почивка.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\bin\Debug\net5.0\9. Ски почивка.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\bin\Debug\net5.0\ref\9. Ски почивка.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\bin\Debug\net5.0\9. Ски почивка.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\9. Ски почивка.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\9. Ски почивка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\9. Ски почивка.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\9. Ски почивка.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\9. Ски почивка.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\9. Ски почивка.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\ref\9. Ски почивка.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\9. Ски почивка.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\9. Ски почивка\obj\Debug\net5.0\9. Ски почивка.genruntimeconfig.cache

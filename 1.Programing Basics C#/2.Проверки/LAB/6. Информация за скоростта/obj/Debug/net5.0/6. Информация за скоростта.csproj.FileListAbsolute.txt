@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\6. Информация за скоростта\bin\Debug\net5.0\6. Информация за скоростта.exe
+C:\Users\Galin\Desktop\6. Информация за скоростта\bin\Debug\net5.0\6. Информация за скоростта.deps.json
+C:\Users\Galin\Desktop\6. Информация за скоростта\bin\Debug\net5.0\6. Информация за скоростта.runtimeconfig.json
+C:\Users\Galin\Desktop\6. Информация за скоростта\bin\Debug\net5.0\6. Информация за скоростта.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\6. Информация за скоростта\bin\Debug\net5.0\6. Информация за скоростта.dll
+C:\Users\Galin\Desktop\6. Информация за скоростта\bin\Debug\net5.0\ref\6. Информация за скоростта.dll
+C:\Users\Galin\Desktop\6. Информация за скоростта\bin\Debug\net5.0\6. Информация за скоростта.pdb
+C:\Users\Galin\Desktop\6. Информация за скоростта\obj\Debug\net5.0\6. Информация за скоростта.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\6. Информация за скоростта\obj\Debug\net5.0\6. Информация за скоростта.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\6. Информация за скоростта\obj\Debug\net5.0\6. Информация за скоростта.AssemblyInfo.cs
+C:\Users\Galin\Desktop\6. Информация за скоростта\obj\Debug\net5.0\6. Информация за скоростта.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\6. Информация за скоростта\obj\Debug\net5.0\6. Информация за скоростта.dll
+C:\Users\Galin\Desktop\6. Информация за скоростта\obj\Debug\net5.0\ref\6. Информация за скоростта.dll
+C:\Users\Galin\Desktop\6. Информация за скоростта\obj\Debug\net5.0\6. Информация за скоростта.pdb
+C:\Users\Galin\Desktop\6. Информация за скоростта\obj\Debug\net5.0\6. Информация за скоростта.genruntimeconfig.cache

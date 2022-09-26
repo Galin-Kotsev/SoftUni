@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\bin\Debug\netcoreapp3.1\4. Стъпки.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\bin\Debug\netcoreapp3.1\4. Стъпки.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\bin\Debug\netcoreapp3.1\4. Стъпки.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\bin\Debug\netcoreapp3.1\4. Стъпки.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\bin\Debug\netcoreapp3.1\4. Стъпки.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\bin\Debug\netcoreapp3.1\4. Стъпки.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\obj\Debug\netcoreapp3.1\4. Стъпки.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\obj\Debug\netcoreapp3.1\4. Стъпки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\obj\Debug\netcoreapp3.1\4. Стъпки.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\obj\Debug\netcoreapp3.1\4. Стъпки.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\obj\Debug\netcoreapp3.1\4. Стъпки.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\obj\Debug\netcoreapp3.1\4. Стъпки.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\obj\Debug\netcoreapp3.1\4. Стъпки.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\4. Стъпки\obj\Debug\netcoreapp3.1\4. Стъпки.genruntimeconfig.cache

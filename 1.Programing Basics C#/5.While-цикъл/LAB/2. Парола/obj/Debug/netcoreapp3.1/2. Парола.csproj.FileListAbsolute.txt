@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\bin\Debug\netcoreapp3.1\2. Парола.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\bin\Debug\netcoreapp3.1\2. Парола.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\bin\Debug\netcoreapp3.1\2. Парола.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\bin\Debug\netcoreapp3.1\2. Парола.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\bin\Debug\netcoreapp3.1\2. Парола.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\bin\Debug\netcoreapp3.1\2. Парола.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\obj\Debug\netcoreapp3.1\2. Парола.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\obj\Debug\netcoreapp3.1\2. Парола.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\obj\Debug\netcoreapp3.1\2. Парола.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\obj\Debug\netcoreapp3.1\2. Парола.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\obj\Debug\netcoreapp3.1\2. Парола.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\obj\Debug\netcoreapp3.1\2. Парола.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\obj\Debug\netcoreapp3.1\2. Парола.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\2. Парола\obj\Debug\netcoreapp3.1\2. Парола.genruntimeconfig.cache

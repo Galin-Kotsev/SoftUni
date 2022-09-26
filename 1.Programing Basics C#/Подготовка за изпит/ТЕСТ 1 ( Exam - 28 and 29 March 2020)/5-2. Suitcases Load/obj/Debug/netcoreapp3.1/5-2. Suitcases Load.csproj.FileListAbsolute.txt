@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\bin\Debug\netcoreapp3.1\5-2. Suitcases Load.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\bin\Debug\netcoreapp3.1\5-2. Suitcases Load.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\bin\Debug\netcoreapp3.1\5-2. Suitcases Load.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\bin\Debug\netcoreapp3.1\5-2. Suitcases Load.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\bin\Debug\netcoreapp3.1\5-2. Suitcases Load.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\bin\Debug\netcoreapp3.1\5-2. Suitcases Load.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\obj\Debug\netcoreapp3.1\5-2. Suitcases Load.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\obj\Debug\netcoreapp3.1\5-2. Suitcases Load.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\obj\Debug\netcoreapp3.1\5-2. Suitcases Load.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\obj\Debug\netcoreapp3.1\5-2. Suitcases Load.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\obj\Debug\netcoreapp3.1\5-2. Suitcases Load.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\obj\Debug\netcoreapp3.1\5-2. Suitcases Load.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\obj\Debug\netcoreapp3.1\5-2. Suitcases Load.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\5-2. Suitcases Load\obj\Debug\netcoreapp3.1\5-2. Suitcases Load.genruntimeconfig.cache

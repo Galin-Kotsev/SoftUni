@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\obj\Debug\netcoreapp3.1\5. Баланс по сметка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\obj\Debug\netcoreapp3.1\5. Баланс по сметка.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\obj\Debug\netcoreapp3.1\5. Баланс по сметка.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\obj\Debug\netcoreapp3.1\5. Баланс по сметка.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\bin\Debug\netcoreapp3.1\5. Баланс по сметка.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\bin\Debug\netcoreapp3.1\5. Баланс по сметка.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\bin\Debug\netcoreapp3.1\5. Баланс по сметка.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\bin\Debug\netcoreapp3.1\5. Баланс по сметка.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\bin\Debug\netcoreapp3.1\5. Баланс по сметка.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\bin\Debug\netcoreapp3.1\5. Баланс по сметка.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\obj\Debug\netcoreapp3.1\5. Баланс по сметка.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\obj\Debug\netcoreapp3.1\5. Баланс по сметка.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\5. Баланс по сметка\obj\Debug\netcoreapp3.1\5. Баланс по сметка.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\bin\Debug\netcoreapp3.1\02-2. Mountain Run.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\bin\Debug\netcoreapp3.1\02-2. Mountain Run.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\bin\Debug\netcoreapp3.1\02-2. Mountain Run.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\bin\Debug\netcoreapp3.1\02-2. Mountain Run.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\bin\Debug\netcoreapp3.1\02-2. Mountain Run.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\bin\Debug\netcoreapp3.1\02-2. Mountain Run.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\obj\Debug\netcoreapp3.1\02-2. Mountain Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\obj\Debug\netcoreapp3.1\02-2. Mountain Run.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\obj\Debug\netcoreapp3.1\02-2. Mountain Run.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\obj\Debug\netcoreapp3.1\02-2. Mountain Run.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\obj\Debug\netcoreapp3.1\02-2. Mountain Run.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\obj\Debug\netcoreapp3.1\02-2. Mountain Run.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 1\02-2. Mountain Run\obj\Debug\netcoreapp3.1\02-2. Mountain Run.genruntimeconfig.cache

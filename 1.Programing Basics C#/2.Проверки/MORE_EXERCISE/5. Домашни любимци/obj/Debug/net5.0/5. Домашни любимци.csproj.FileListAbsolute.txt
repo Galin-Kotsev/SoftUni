@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\5. Домашни любимци\bin\Debug\net5.0\5. Домашни любимци.exe
+C:\Users\Galin\Desktop\5. Домашни любимци\bin\Debug\net5.0\5. Домашни любимци.deps.json
+C:\Users\Galin\Desktop\5. Домашни любимци\bin\Debug\net5.0\5. Домашни любимци.runtimeconfig.json
+C:\Users\Galin\Desktop\5. Домашни любимци\bin\Debug\net5.0\5. Домашни любимци.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\5. Домашни любимци\bin\Debug\net5.0\5. Домашни любимци.dll
+C:\Users\Galin\Desktop\5. Домашни любимци\bin\Debug\net5.0\ref\5. Домашни любимци.dll
+C:\Users\Galin\Desktop\5. Домашни любимци\bin\Debug\net5.0\5. Домашни любимци.pdb
+C:\Users\Galin\Desktop\5. Домашни любимци\obj\Debug\net5.0\5. Домашни любимци.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\5. Домашни любимци\obj\Debug\net5.0\5. Домашни любимци.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\5. Домашни любимци\obj\Debug\net5.0\5. Домашни любимци.AssemblyInfo.cs
+C:\Users\Galin\Desktop\5. Домашни любимци\obj\Debug\net5.0\5. Домашни любимци.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\5. Домашни любимци\obj\Debug\net5.0\5. Домашни любимци.dll
+C:\Users\Galin\Desktop\5. Домашни любимци\obj\Debug\net5.0\ref\5. Домашни любимци.dll
+C:\Users\Galin\Desktop\5. Домашни любимци\obj\Debug\net5.0\5. Домашни любимци.pdb
+C:\Users\Galin\Desktop\5. Домашни любимци\obj\Debug\net5.0\5. Домашни любимци.genruntimeconfig.cache

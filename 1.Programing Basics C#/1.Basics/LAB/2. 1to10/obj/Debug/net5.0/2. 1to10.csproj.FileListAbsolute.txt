@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\bin\Debug\net5.0\2. 1to10.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\bin\Debug\net5.0\2. 1to10.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\bin\Debug\net5.0\2. 1to10.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\bin\Debug\net5.0\2. 1to10.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\bin\Debug\net5.0\2. 1to10.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\bin\Debug\net5.0\ref\2. 1to10.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\bin\Debug\net5.0\2. 1to10.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\obj\Debug\net5.0\2. 1to10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\obj\Debug\net5.0\2. 1to10.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\obj\Debug\net5.0\2. 1to10.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\obj\Debug\net5.0\2. 1to10.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\obj\Debug\net5.0\2. 1to10.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\obj\Debug\net5.0\ref\2. 1to10.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\obj\Debug\net5.0\2. 1to10.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\2. 1to10\obj\Debug\net5.0\2. 1to10.genruntimeconfig.cache

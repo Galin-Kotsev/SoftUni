@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\bin\Debug\net5.0\1. Четене на думи.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\bin\Debug\net5.0\1. Четене на думи.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\bin\Debug\net5.0\1. Четене на думи.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\bin\Debug\net5.0\1. Четене на думи.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\bin\Debug\net5.0\1. Четене на думи.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\bin\Debug\net5.0\ref\1. Четене на думи.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\bin\Debug\net5.0\1. Четене на думи.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\1. Четене на думи.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\1. Четене на думи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\1. Четене на думи.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\1. Четене на думи.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\1. Четене на думи.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\1. Четене на думи.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\ref\1. Четене на думи.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\1. Четене на думи.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\1. Четене на думи\obj\Debug\net5.0\1. Четене на думи.genruntimeconfig.cache

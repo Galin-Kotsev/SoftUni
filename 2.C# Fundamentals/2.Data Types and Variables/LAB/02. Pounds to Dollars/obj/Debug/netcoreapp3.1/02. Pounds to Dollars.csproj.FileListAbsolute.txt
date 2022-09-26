@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.genruntimeconfig.cache

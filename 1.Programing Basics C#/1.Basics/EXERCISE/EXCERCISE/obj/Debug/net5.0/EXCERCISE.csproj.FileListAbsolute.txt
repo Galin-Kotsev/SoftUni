@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\EXCERCISE.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\EXCERCISE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\EXCERCISE.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\EXCERCISE.AssemblyInfo.cs
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\EXCERCISE.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\EXCERCISE\bin\Debug\net5.0\EXCERCISE.exe
+C:\Users\Galin\Desktop\EXCERCISE\bin\Debug\net5.0\EXCERCISE.deps.json
+C:\Users\Galin\Desktop\EXCERCISE\bin\Debug\net5.0\EXCERCISE.runtimeconfig.json
+C:\Users\Galin\Desktop\EXCERCISE\bin\Debug\net5.0\EXCERCISE.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\EXCERCISE\bin\Debug\net5.0\EXCERCISE.dll
+C:\Users\Galin\Desktop\EXCERCISE\bin\Debug\net5.0\ref\EXCERCISE.dll
+C:\Users\Galin\Desktop\EXCERCISE\bin\Debug\net5.0\EXCERCISE.pdb
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\EXCERCISE.dll
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\ref\EXCERCISE.dll
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\EXCERCISE.pdb
+C:\Users\Galin\Desktop\EXCERCISE\obj\Debug\net5.0\EXCERCISE.genruntimeconfig.cache

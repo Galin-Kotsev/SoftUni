@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\bin\Debug\net5.0\5. Поздрав по име.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\bin\Debug\net5.0\5. Поздрав по име.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\bin\Debug\net5.0\5. Поздрав по име.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\bin\Debug\net5.0\5. Поздрав по име.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\bin\Debug\net5.0\5. Поздрав по име.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\bin\Debug\net5.0\ref\5. Поздрав по име.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\bin\Debug\net5.0\5. Поздрав по име.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\obj\Debug\net5.0\5. Поздрав по име.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\obj\Debug\net5.0\5. Поздрав по име.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\obj\Debug\net5.0\5. Поздрав по име.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\obj\Debug\net5.0\5. Поздрав по име.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\obj\Debug\net5.0\5. Поздрав по име.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\obj\Debug\net5.0\ref\5. Поздрав по име.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\obj\Debug\net5.0\5. Поздрав по име.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\5. Поздрав по име\obj\Debug\net5.0\5. Поздрав по име.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\bin\Debug\netcoreapp3.1\7. Преместване.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\bin\Debug\netcoreapp3.1\7. Преместване.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\bin\Debug\netcoreapp3.1\7. Преместване.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\bin\Debug\netcoreapp3.1\7. Преместване.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\bin\Debug\netcoreapp3.1\7. Преместване.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\bin\Debug\netcoreapp3.1\7. Преместване.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\obj\Debug\netcoreapp3.1\7. Преместване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\obj\Debug\netcoreapp3.1\7. Преместване.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\obj\Debug\netcoreapp3.1\7. Преместване.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\obj\Debug\netcoreapp3.1\7. Преместване.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\obj\Debug\netcoreapp3.1\7. Преместване.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\obj\Debug\netcoreapp3.1\7. Преместване.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\7. Преместване\obj\Debug\netcoreapp3.1\7. Преместване.genruntimeconfig.cache

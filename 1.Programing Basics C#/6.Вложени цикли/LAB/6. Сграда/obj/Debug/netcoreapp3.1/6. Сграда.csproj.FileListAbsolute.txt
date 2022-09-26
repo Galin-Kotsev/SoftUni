@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\bin\Debug\netcoreapp3.1\6. Сграда.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\bin\Debug\netcoreapp3.1\6. Сграда.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\bin\Debug\netcoreapp3.1\6. Сграда.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\bin\Debug\netcoreapp3.1\6. Сграда.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\bin\Debug\netcoreapp3.1\6. Сграда.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\bin\Debug\netcoreapp3.1\6. Сграда.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\obj\Debug\netcoreapp3.1\6. Сграда.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\obj\Debug\netcoreapp3.1\6. Сграда.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\obj\Debug\netcoreapp3.1\6. Сграда.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\obj\Debug\netcoreapp3.1\6. Сграда.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\obj\Debug\netcoreapp3.1\6. Сграда.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\obj\Debug\netcoreapp3.1\6. Сграда.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\obj\Debug\netcoreapp3.1\6. Сграда.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\6. Сграда\obj\Debug\netcoreapp3.1\6. Сграда.genruntimeconfig.cache

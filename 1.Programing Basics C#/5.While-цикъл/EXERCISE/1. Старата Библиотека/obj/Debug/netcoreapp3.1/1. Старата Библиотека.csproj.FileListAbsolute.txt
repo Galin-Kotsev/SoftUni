@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\bin\Debug\netcoreapp3.1\1. Старата Библиотека.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\bin\Debug\netcoreapp3.1\1. Старата Библиотека.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\bin\Debug\netcoreapp3.1\1. Старата Библиотека.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\bin\Debug\netcoreapp3.1\1. Старата Библиотека.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\bin\Debug\netcoreapp3.1\1. Старата Библиотека.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\bin\Debug\netcoreapp3.1\1. Старата Библиотека.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\obj\Debug\netcoreapp3.1\1. Старата Библиотека.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\obj\Debug\netcoreapp3.1\1. Старата Библиотека.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\obj\Debug\netcoreapp3.1\1. Старата Библиотека.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\obj\Debug\netcoreapp3.1\1. Старата Библиотека.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\obj\Debug\netcoreapp3.1\1. Старата Библиотека.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\obj\Debug\netcoreapp3.1\1. Старата Библиотека.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\obj\Debug\netcoreapp3.1\1. Старата Библиотека.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\1. Старата Библиотека\obj\Debug\netcoreapp3.1\1. Старата Библиотека.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Up7EkQZRmfE+VeB9rjRT8ukZ9+BLsW0KTF0MXZRbbBf/b6K4HeS7uV1kF9qdL6Mli88VRHTy5iX1bjS6n1FIGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Galin\\Desktop\\SoftUni\\2.C# Fundamentals\\1.Basic Syntax, Conditional Statements and Loops\\Exercise\\01. Ages\\01. Ages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

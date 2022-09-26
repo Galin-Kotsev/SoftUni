@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\bin\Debug\net5.0\7. Сумиране на числа.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\bin\Debug\net5.0\7. Сумиране на числа.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\bin\Debug\net5.0\7. Сумиране на числа.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\bin\Debug\net5.0\7. Сумиране на числа.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\bin\Debug\net5.0\7. Сумиране на числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\bin\Debug\net5.0\ref\7. Сумиране на числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\bin\Debug\net5.0\7. Сумиране на числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\obj\Debug\net5.0\7. Сумиране на числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\obj\Debug\net5.0\7. Сумиране на числа.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\obj\Debug\net5.0\7. Сумиране на числа.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\obj\Debug\net5.0\7. Сумиране на числа.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\obj\Debug\net5.0\7. Сумиране на числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\obj\Debug\net5.0\ref\7. Сумиране на числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\obj\Debug\net5.0\7. Сумиране на числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\7. Сумиране на числа\obj\Debug\net5.0\7. Сумиране на числа.genruntimeconfig.cache

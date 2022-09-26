@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\bin\Debug\net5.0\6. Операции между числа.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\bin\Debug\net5.0\6. Операции между числа.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\bin\Debug\net5.0\6. Операции между числа.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\bin\Debug\net5.0\6. Операции между числа.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\bin\Debug\net5.0\6. Операции между числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\bin\Debug\net5.0\ref\6. Операции между числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\bin\Debug\net5.0\6. Операции между числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\6. Операции между числа.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\6. Операции между числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\6. Операции между числа.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\6. Операции между числа.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\6. Операции между числа.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\6. Операции между числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\ref\6. Операции между числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\6. Операции между числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\6. Операции между числа\obj\Debug\net5.0\6. Операции между числа.genruntimeconfig.cache

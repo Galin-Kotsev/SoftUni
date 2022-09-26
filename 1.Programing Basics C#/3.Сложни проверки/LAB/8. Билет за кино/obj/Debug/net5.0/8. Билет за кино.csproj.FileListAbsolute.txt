@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\bin\Debug\net5.0\8. Билет за кино.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\bin\Debug\net5.0\8. Билет за кино.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\bin\Debug\net5.0\8. Билет за кино.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\bin\Debug\net5.0\8. Билет за кино.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\bin\Debug\net5.0\8. Билет за кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\bin\Debug\net5.0\ref\8. Билет за кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\bin\Debug\net5.0\8. Билет за кино.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\obj\Debug\net5.0\8. Билет за кино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\obj\Debug\net5.0\8. Билет за кино.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\obj\Debug\net5.0\8. Билет за кино.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\obj\Debug\net5.0\8. Билет за кино.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\obj\Debug\net5.0\8. Билет за кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\obj\Debug\net5.0\ref\8. Билет за кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\obj\Debug\net5.0\8. Билет за кино.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\8. Билет за кино\obj\Debug\net5.0\8. Билет за кино.genruntimeconfig.cache

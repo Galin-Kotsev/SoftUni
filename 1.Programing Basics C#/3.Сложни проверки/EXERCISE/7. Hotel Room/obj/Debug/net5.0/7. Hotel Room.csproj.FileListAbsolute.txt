@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\bin\Debug\net5.0\7. Hotel Room.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\bin\Debug\net5.0\7. Hotel Room.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\bin\Debug\net5.0\7. Hotel Room.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\bin\Debug\net5.0\7. Hotel Room.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\bin\Debug\net5.0\7. Hotel Room.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\bin\Debug\net5.0\ref\7. Hotel Room.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\bin\Debug\net5.0\7. Hotel Room.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\7. Hotel Room.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\7. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\7. Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\7. Hotel Room.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\7. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\7. Hotel Room.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\ref\7. Hotel Room.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\7. Hotel Room.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\7. Hotel Room\obj\Debug\net5.0\7. Hotel Room.genruntimeconfig.cache

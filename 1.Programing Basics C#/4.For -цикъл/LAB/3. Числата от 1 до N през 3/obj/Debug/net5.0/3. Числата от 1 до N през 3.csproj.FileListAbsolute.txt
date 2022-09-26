@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\bin\Debug\net5.0\3. Числата от 1 до N през 3.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\bin\Debug\net5.0\3. Числата от 1 до N през 3.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\bin\Debug\net5.0\3. Числата от 1 до N през 3.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\bin\Debug\net5.0\3. Числата от 1 до N през 3.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\bin\Debug\net5.0\3. Числата от 1 до N през 3.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\bin\Debug\net5.0\ref\3. Числата от 1 до N през 3.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\bin\Debug\net5.0\3. Числата от 1 до N през 3.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\3. Числата от 1 до N през 3.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\3. Числата от 1 до N през 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\3. Числата от 1 до N през 3.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\3. Числата от 1 до N през 3.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\3. Числата от 1 до N през 3.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\3. Числата от 1 до N през 3.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\ref\3. Числата от 1 до N през 3.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\3. Числата от 1 до N през 3.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\3. Числата от 1 до N през 3\obj\Debug\net5.0\3. Числата от 1 до N през 3.genruntimeconfig.cache

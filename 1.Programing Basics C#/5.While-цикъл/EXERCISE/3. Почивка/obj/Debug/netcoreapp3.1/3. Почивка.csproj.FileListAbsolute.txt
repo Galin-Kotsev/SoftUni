@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\bin\Debug\netcoreapp3.1\3. Почивка.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\bin\Debug\netcoreapp3.1\3. Почивка.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\bin\Debug\netcoreapp3.1\3. Почивка.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\bin\Debug\netcoreapp3.1\3. Почивка.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\bin\Debug\netcoreapp3.1\3. Почивка.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\bin\Debug\netcoreapp3.1\3. Почивка.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\obj\Debug\netcoreapp3.1\3. Почивка.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\obj\Debug\netcoreapp3.1\3. Почивка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\obj\Debug\netcoreapp3.1\3. Почивка.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\obj\Debug\netcoreapp3.1\3. Почивка.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\obj\Debug\netcoreapp3.1\3. Почивка.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\obj\Debug\netcoreapp3.1\3. Почивка.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\obj\Debug\netcoreapp3.1\3. Почивка.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\EXERCISE\3. Почивка\obj\Debug\netcoreapp3.1\3. Почивка.genruntimeconfig.cache

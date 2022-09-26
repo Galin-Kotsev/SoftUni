@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\2. Бонус точки\bin\Debug\net5.0\2. Бонус точки.exe
+C:\Users\Galin\Desktop\2. Бонус точки\bin\Debug\net5.0\2. Бонус точки.deps.json
+C:\Users\Galin\Desktop\2. Бонус точки\bin\Debug\net5.0\2. Бонус точки.runtimeconfig.json
+C:\Users\Galin\Desktop\2. Бонус точки\bin\Debug\net5.0\2. Бонус точки.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\2. Бонус точки\bin\Debug\net5.0\2. Бонус точки.dll
+C:\Users\Galin\Desktop\2. Бонус точки\bin\Debug\net5.0\ref\2. Бонус точки.dll
+C:\Users\Galin\Desktop\2. Бонус точки\bin\Debug\net5.0\2. Бонус точки.pdb
+C:\Users\Galin\Desktop\2. Бонус точки\obj\Debug\net5.0\2. Бонус точки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\2. Бонус точки\obj\Debug\net5.0\2. Бонус точки.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\2. Бонус точки\obj\Debug\net5.0\2. Бонус точки.AssemblyInfo.cs
+C:\Users\Galin\Desktop\2. Бонус точки\obj\Debug\net5.0\2. Бонус точки.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\2. Бонус точки\obj\Debug\net5.0\2. Бонус точки.dll
+C:\Users\Galin\Desktop\2. Бонус точки\obj\Debug\net5.0\ref\2. Бонус точки.dll
+C:\Users\Galin\Desktop\2. Бонус точки\obj\Debug\net5.0\2. Бонус точки.pdb
+C:\Users\Galin\Desktop\2. Бонус точки\obj\Debug\net5.0\2. Бонус точки.genruntimeconfig.cache

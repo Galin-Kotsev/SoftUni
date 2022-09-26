@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.genruntimeconfig.cache

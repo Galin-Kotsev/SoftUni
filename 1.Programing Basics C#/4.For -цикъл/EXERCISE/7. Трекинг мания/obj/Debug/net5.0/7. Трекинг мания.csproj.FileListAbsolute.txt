@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\bin\Debug\net5.0\7. Трекинг мания.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\bin\Debug\net5.0\7. Трекинг мания.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\bin\Debug\net5.0\7. Трекинг мания.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\bin\Debug\net5.0\7. Трекинг мания.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\bin\Debug\net5.0\7. Трекинг мания.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\bin\Debug\net5.0\ref\7. Трекинг мания.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\bin\Debug\net5.0\7. Трекинг мания.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\7. Трекинг мания.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\7. Трекинг мания.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\7. Трекинг мания.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\7. Трекинг мания.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\7. Трекинг мания.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\7. Трекинг мания.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\ref\7. Трекинг мания.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\7. Трекинг мания.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\7. Трекинг мания\obj\Debug\net5.0\7. Трекинг мания.genruntimeconfig.cache

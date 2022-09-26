@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.genruntimeconfig.cache

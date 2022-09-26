@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\bin\Debug\netcoreapp3.1\3. Суми прости и непрости числа.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\bin\Debug\netcoreapp3.1\3. Суми прости и непрости числа.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\bin\Debug\netcoreapp3.1\3. Суми прости и непрости числа.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\bin\Debug\netcoreapp3.1\3. Суми прости и непрости числа.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\bin\Debug\netcoreapp3.1\3. Суми прости и непрости числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\bin\Debug\netcoreapp3.1\3. Суми прости и непрости числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\obj\Debug\netcoreapp3.1\3. Суми прости и непрости числа.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\obj\Debug\netcoreapp3.1\3. Суми прости и непрости числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\obj\Debug\netcoreapp3.1\3. Суми прости и непрости числа.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\obj\Debug\netcoreapp3.1\3. Суми прости и непрости числа.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\obj\Debug\netcoreapp3.1\3. Суми прости и непрости числа.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\obj\Debug\netcoreapp3.1\3. Суми прости и непрости числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\obj\Debug\netcoreapp3.1\3. Суми прости и непрости числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\3. Суми прости и непрости числа\obj\Debug\netcoreapp3.1\3. Суми прости и непрости числа.genruntimeconfig.cache

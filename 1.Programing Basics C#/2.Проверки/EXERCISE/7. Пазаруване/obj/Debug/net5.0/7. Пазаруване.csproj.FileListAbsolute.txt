@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\7. Пазаруване\bin\Debug\net5.0\7. Пазаруване.exe
+C:\Users\Galin\Desktop\7. Пазаруване\bin\Debug\net5.0\7. Пазаруване.deps.json
+C:\Users\Galin\Desktop\7. Пазаруване\bin\Debug\net5.0\7. Пазаруване.runtimeconfig.json
+C:\Users\Galin\Desktop\7. Пазаруване\bin\Debug\net5.0\7. Пазаруване.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\7. Пазаруване\bin\Debug\net5.0\7. Пазаруване.dll
+C:\Users\Galin\Desktop\7. Пазаруване\bin\Debug\net5.0\ref\7. Пазаруване.dll
+C:\Users\Galin\Desktop\7. Пазаруване\bin\Debug\net5.0\7. Пазаруване.pdb
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\7. Пазаруване.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\7. Пазаруване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\7. Пазаруване.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\7. Пазаруване.AssemblyInfo.cs
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\7. Пазаруване.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\7. Пазаруване.dll
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\ref\7. Пазаруване.dll
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\7. Пазаруване.pdb
+C:\Users\Galin\Desktop\7. Пазаруване\obj\Debug\net5.0\7. Пазаруване.genruntimeconfig.cache

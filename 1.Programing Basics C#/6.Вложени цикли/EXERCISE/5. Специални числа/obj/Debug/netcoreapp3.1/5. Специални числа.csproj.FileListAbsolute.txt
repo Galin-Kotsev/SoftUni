@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\bin\Debug\netcoreapp3.1\5. Специални числа.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\bin\Debug\netcoreapp3.1\5. Специални числа.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\bin\Debug\netcoreapp3.1\5. Специални числа.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\bin\Debug\netcoreapp3.1\5. Специални числа.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\bin\Debug\netcoreapp3.1\5. Специални числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\bin\Debug\netcoreapp3.1\5. Специални числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\obj\Debug\netcoreapp3.1\5. Специални числа.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\obj\Debug\netcoreapp3.1\5. Специални числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\obj\Debug\netcoreapp3.1\5. Специални числа.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\obj\Debug\netcoreapp3.1\5. Специални числа.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\obj\Debug\netcoreapp3.1\5. Специални числа.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\obj\Debug\netcoreapp3.1\5. Специални числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\obj\Debug\netcoreapp3.1\5. Специални числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\5. Специални числа\obj\Debug\netcoreapp3.1\5. Специални числа.genruntimeconfig.cache

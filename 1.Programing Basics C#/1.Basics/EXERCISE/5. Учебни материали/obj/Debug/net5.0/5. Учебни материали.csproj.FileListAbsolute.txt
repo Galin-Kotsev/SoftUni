@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\bin\Debug\net5.0\5. Учебни материали.exe
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\bin\Debug\net5.0\5. Учебни материали.deps.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\bin\Debug\net5.0\5. Учебни материали.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\bin\Debug\net5.0\5. Учебни материали.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\bin\Debug\net5.0\5. Учебни материали.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\bin\Debug\net5.0\ref\5. Учебни материали.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\bin\Debug\net5.0\5. Учебни материали.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\5. Учебни материали.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\5. Учебни материали.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\5. Учебни материали.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\5. Учебни материали.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\5. Учебни материали.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\5. Учебни материали.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\ref\5. Учебни материали.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\5. Учебни материали.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\5. Учебни материали\obj\Debug\net5.0\5. Учебни материали.genruntimeconfig.cache

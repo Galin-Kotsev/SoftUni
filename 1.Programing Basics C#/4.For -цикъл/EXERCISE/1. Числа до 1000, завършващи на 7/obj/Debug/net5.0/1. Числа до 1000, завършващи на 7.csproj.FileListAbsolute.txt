@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\bin\Debug\net5.0\1. Числа до 1000, завършващи на 7.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\bin\Debug\net5.0\1. Числа до 1000, завършващи на 7.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\bin\Debug\net5.0\1. Числа до 1000, завършващи на 7.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\bin\Debug\net5.0\1. Числа до 1000, завършващи на 7.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\bin\Debug\net5.0\1. Числа до 1000, завършващи на 7.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\bin\Debug\net5.0\ref\1. Числа до 1000, завършващи на 7.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\bin\Debug\net5.0\1. Числа до 1000, завършващи на 7.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\1. Числа до 1000, завършващи на 7.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\1. Числа до 1000, завършващи на 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\1. Числа до 1000, завършващи на 7.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\1. Числа до 1000, завършващи на 7.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\1. Числа до 1000, завършващи на 7.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\1. Числа до 1000, завършващи на 7.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\ref\1. Числа до 1000, завършващи на 7.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\1. Числа до 1000, завършващи на 7.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\1. Числа до 1000, завършващи на 7\obj\Debug\net5.0\1. Числа до 1000, завършващи на 7.genruntimeconfig.cache

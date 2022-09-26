@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\bin\Debug\net5.0\9. Плод или зеленчук.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\bin\Debug\net5.0\9. Плод или зеленчук.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\bin\Debug\net5.0\9. Плод или зеленчук.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\bin\Debug\net5.0\9. Плод или зеленчук.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\bin\Debug\net5.0\9. Плод или зеленчук.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\bin\Debug\net5.0\ref\9. Плод или зеленчук.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\bin\Debug\net5.0\9. Плод или зеленчук.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\obj\Debug\net5.0\9. Плод или зеленчук.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\obj\Debug\net5.0\9. Плод или зеленчук.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\obj\Debug\net5.0\9. Плод или зеленчук.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\obj\Debug\net5.0\9. Плод или зеленчук.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\obj\Debug\net5.0\9. Плод или зеленчук.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\obj\Debug\net5.0\ref\9. Плод или зеленчук.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\obj\Debug\net5.0\9. Плод или зеленчук.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\9. Плод или зеленчук\obj\Debug\net5.0\9. Плод или зеленчук.genruntimeconfig.cache

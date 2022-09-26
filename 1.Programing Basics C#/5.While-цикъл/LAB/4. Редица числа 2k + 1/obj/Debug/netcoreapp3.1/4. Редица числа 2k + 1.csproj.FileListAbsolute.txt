@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\bin\Debug\netcoreapp3.1\4. Редица числа 2k + 1.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\bin\Debug\netcoreapp3.1\4. Редица числа 2k + 1.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\bin\Debug\netcoreapp3.1\4. Редица числа 2k + 1.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\bin\Debug\netcoreapp3.1\4. Редица числа 2k + 1.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\bin\Debug\netcoreapp3.1\4. Редица числа 2k + 1.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\bin\Debug\netcoreapp3.1\4. Редица числа 2k + 1.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\obj\Debug\netcoreapp3.1\4. Редица числа 2k + 1.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\obj\Debug\netcoreapp3.1\4. Редица числа 2k + 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\obj\Debug\netcoreapp3.1\4. Редица числа 2k + 1.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\obj\Debug\netcoreapp3.1\4. Редица числа 2k + 1.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\obj\Debug\netcoreapp3.1\4. Редица числа 2k + 1.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\obj\Debug\netcoreapp3.1\4. Редица числа 2k + 1.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\obj\Debug\netcoreapp3.1\4. Редица числа 2k + 1.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\4. Редица числа 2k + 1\obj\Debug\netcoreapp3.1\4. Редица числа 2k + 1.genruntimeconfig.cache

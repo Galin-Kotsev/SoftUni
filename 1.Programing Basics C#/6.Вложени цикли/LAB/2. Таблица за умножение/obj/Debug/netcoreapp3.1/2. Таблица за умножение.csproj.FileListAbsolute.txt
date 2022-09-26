@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\bin\Debug\netcoreapp3.1\2. Таблица за умножение.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\bin\Debug\netcoreapp3.1\2. Таблица за умножение.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\bin\Debug\netcoreapp3.1\2. Таблица за умножение.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\bin\Debug\netcoreapp3.1\2. Таблица за умножение.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\bin\Debug\netcoreapp3.1\2. Таблица за умножение.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\bin\Debug\netcoreapp3.1\2. Таблица за умножение.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\obj\Debug\netcoreapp3.1\2. Таблица за умножение.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\obj\Debug\netcoreapp3.1\2. Таблица за умножение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\obj\Debug\netcoreapp3.1\2. Таблица за умножение.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\obj\Debug\netcoreapp3.1\2. Таблица за умножение.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\obj\Debug\netcoreapp3.1\2. Таблица за умножение.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\obj\Debug\netcoreapp3.1\2. Таблица за умножение.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\obj\Debug\netcoreapp3.1\2. Таблица за умножение.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\2. Таблица за умножение\obj\Debug\netcoreapp3.1\2. Таблица за умножение.genruntimeconfig.cache

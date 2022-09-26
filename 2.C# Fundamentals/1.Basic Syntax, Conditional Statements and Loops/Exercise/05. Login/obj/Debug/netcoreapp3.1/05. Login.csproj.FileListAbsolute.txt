@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

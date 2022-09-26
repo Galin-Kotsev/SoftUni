@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\bin\Debug\net5.0\6. Сумиране на гласните букви.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\bin\Debug\net5.0\6. Сумиране на гласните букви.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\bin\Debug\net5.0\6. Сумиране на гласните букви.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\bin\Debug\net5.0\6. Сумиране на гласните букви.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\bin\Debug\net5.0\6. Сумиране на гласните букви.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\bin\Debug\net5.0\ref\6. Сумиране на гласните букви.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\bin\Debug\net5.0\6. Сумиране на гласните букви.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\6. Сумиране на гласните букви.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\6. Сумиране на гласните букви.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\6. Сумиране на гласните букви.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\6. Сумиране на гласните букви.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\6. Сумиране на гласните букви.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\6. Сумиране на гласните букви.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\ref\6. Сумиране на гласните букви.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\6. Сумиране на гласните букви.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\6. Сумиране на гласните букви\obj\Debug\net5.0\6. Сумиране на гласните букви.genruntimeconfig.cache

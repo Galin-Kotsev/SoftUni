@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\bin\Debug\net5.0\5. Квартално магазинче.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\bin\Debug\net5.0\5. Квартално магазинче.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\bin\Debug\net5.0\5. Квартално магазинче.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\bin\Debug\net5.0\5. Квартално магазинче.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\bin\Debug\net5.0\5. Квартално магазинче.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\bin\Debug\net5.0\ref\5. Квартално магазинче.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\bin\Debug\net5.0\5. Квартално магазинче.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\5. Квартално магазинче.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\5. Квартално магазинче.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\5. Квартално магазинче.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\5. Квартално магазинче.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\5. Квартално магазинче.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\5. Квартално магазинче.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\ref\5. Квартално магазинче.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\5. Квартално магазинче.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\5. Квартално магазинче\obj\Debug\net5.0\5. Квартално магазинче.genruntimeconfig.cache

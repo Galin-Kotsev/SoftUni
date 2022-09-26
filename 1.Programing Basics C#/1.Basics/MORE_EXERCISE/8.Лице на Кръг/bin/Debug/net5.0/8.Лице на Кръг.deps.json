@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "8.Лице на Кръг/1.0.0": {
+        "runtime": {
+          "8.Лице на Кръг.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8.Лице на Кръг/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

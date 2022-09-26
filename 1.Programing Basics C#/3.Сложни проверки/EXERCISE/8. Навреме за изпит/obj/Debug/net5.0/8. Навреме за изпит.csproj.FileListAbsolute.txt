@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\bin\Debug\net5.0\8. Навреме за изпит.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\bin\Debug\net5.0\8. Навреме за изпит.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\bin\Debug\net5.0\8. Навреме за изпит.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\bin\Debug\net5.0\8. Навреме за изпит.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\bin\Debug\net5.0\8. Навреме за изпит.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\bin\Debug\net5.0\ref\8. Навреме за изпит.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\bin\Debug\net5.0\8. Навреме за изпит.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\8. Навреме за изпит.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\8. Навреме за изпит.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\8. Навреме за изпит.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\8. Навреме за изпит.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\8. Навреме за изпит.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\8. Навреме за изпит.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\ref\8. Навреме за изпит.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\8. Навреме за изпит.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\EXERCISE\8. Навреме за изпит\obj\Debug\net5.0\8. Навреме за изпит.genruntimeconfig.cache

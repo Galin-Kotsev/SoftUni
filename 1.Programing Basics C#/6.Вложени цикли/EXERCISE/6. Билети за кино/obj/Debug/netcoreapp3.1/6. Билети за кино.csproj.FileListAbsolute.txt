@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\bin\Debug\netcoreapp3.1\6. Билети за кино.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\bin\Debug\netcoreapp3.1\6. Билети за кино.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\bin\Debug\netcoreapp3.1\6. Билети за кино.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\bin\Debug\netcoreapp3.1\6. Билети за кино.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\bin\Debug\netcoreapp3.1\6. Билети за кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\bin\Debug\netcoreapp3.1\6. Билети за кино.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\obj\Debug\netcoreapp3.1\6. Билети за кино.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\obj\Debug\netcoreapp3.1\6. Билети за кино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\obj\Debug\netcoreapp3.1\6. Билети за кино.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\obj\Debug\netcoreapp3.1\6. Билети за кино.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\obj\Debug\netcoreapp3.1\6. Билети за кино.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\obj\Debug\netcoreapp3.1\6. Билети за кино.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\obj\Debug\netcoreapp3.1\6. Билети за кино.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\EXERCISE\6. Билети за кино\obj\Debug\netcoreapp3.1\6. Билети за кино.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\3. Време + 15 минути\bin\Debug\net5.0\3. Време + 15 минути.exe
+C:\Users\Galin\Desktop\3. Време + 15 минути\bin\Debug\net5.0\3. Време + 15 минути.deps.json
+C:\Users\Galin\Desktop\3. Време + 15 минути\bin\Debug\net5.0\3. Време + 15 минути.runtimeconfig.json
+C:\Users\Galin\Desktop\3. Време + 15 минути\bin\Debug\net5.0\3. Време + 15 минути.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\3. Време + 15 минути\bin\Debug\net5.0\3. Време + 15 минути.dll
+C:\Users\Galin\Desktop\3. Време + 15 минути\bin\Debug\net5.0\ref\3. Време + 15 минути.dll
+C:\Users\Galin\Desktop\3. Време + 15 минути\bin\Debug\net5.0\3. Време + 15 минути.pdb
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\3. Време + 15 минути.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\3. Време + 15 минути.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\3. Време + 15 минути.AssemblyInfo.cs
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\3. Време + 15 минути.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\3. Време + 15 минути.dll
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\ref\3. Време + 15 минути.dll
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\3. Време + 15 минути.pdb
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\3. Време + 15 минути.genruntimeconfig.cache
+C:\Users\Galin\Desktop\3. Време + 15 минути\obj\Debug\net5.0\3. Време + 15 минути.csproj.AssemblyReference.cache

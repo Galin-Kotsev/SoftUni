@@ -1,0 +1,16 @@
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\bin\Debug\net5.0\4. Магазин за детски играчки.exe
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\bin\Debug\net5.0\4. Магазин за детски играчки.deps.json
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\bin\Debug\net5.0\4. Магазин за детски играчки.runtimeconfig.json
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\bin\Debug\net5.0\4. Магазин за детски играчки.runtimeconfig.dev.json
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\bin\Debug\net5.0\4. Магазин за детски играчки.dll
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\bin\Debug\net5.0\ref\4. Магазин за детски играчки.dll
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\bin\Debug\net5.0\4. Магазин за детски играчки.pdb
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\4. Магазин за детски играчки.csproj.AssemblyReference.cache
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\4. Магазин за детски играчки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\4. Магазин за детски играчки.AssemblyInfoInputs.cache
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\4. Магазин за детски играчки.AssemblyInfo.cs
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\4. Магазин за детски играчки.csproj.CoreCompileInputs.cache
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\4. Магазин за детски играчки.dll
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\ref\4. Магазин за детски играчки.dll
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\4. Магазин за детски играчки.pdb
+C:\Users\Galin\source\repos\4. Магазин за детски играчки\obj\Debug\net5.0\4. Магазин за детски играчки.genruntimeconfig.cache

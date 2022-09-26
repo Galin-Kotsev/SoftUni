@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\bin\Debug\net5.0\2. Числата от N до 1 в обратен ред.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\bin\Debug\net5.0\2. Числата от N до 1 в обратен ред.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\bin\Debug\net5.0\2. Числата от N до 1 в обратен ред.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\bin\Debug\net5.0\2. Числата от N до 1 в обратен ред.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\bin\Debug\net5.0\2. Числата от N до 1 в обратен ред.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\bin\Debug\net5.0\ref\2. Числата от N до 1 в обратен ред.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\bin\Debug\net5.0\2. Числата от N до 1 в обратен ред.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\obj\Debug\net5.0\2. Числата от N до 1 в обратен ред.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\obj\Debug\net5.0\2. Числата от N до 1 в обратен ред.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\obj\Debug\net5.0\2. Числата от N до 1 в обратен ред.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\obj\Debug\net5.0\2. Числата от N до 1 в обратен ред.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\obj\Debug\net5.0\2. Числата от N до 1 в обратен ред.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\obj\Debug\net5.0\ref\2. Числата от N до 1 в обратен ред.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\obj\Debug\net5.0\2. Числата от N до 1 в обратен ред.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\LAB\2. Числата от N до 1 в обратен ред\obj\Debug\net5.0\2. Числата от N до 1 в обратен ред.genruntimeconfig.cache

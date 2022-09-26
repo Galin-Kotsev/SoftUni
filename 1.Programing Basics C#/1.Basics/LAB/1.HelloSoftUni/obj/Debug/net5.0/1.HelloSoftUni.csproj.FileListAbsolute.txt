@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\bin\Debug\net5.0\1.HelloSoftUni.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\bin\Debug\net5.0\1.HelloSoftUni.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\bin\Debug\net5.0\1.HelloSoftUni.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\bin\Debug\net5.0\1.HelloSoftUni.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\bin\Debug\net5.0\1.HelloSoftUni.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\bin\Debug\net5.0\ref\1.HelloSoftUni.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\bin\Debug\net5.0\1.HelloSoftUni.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\1.HelloSoftUni.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\1.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\1.HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\1.HelloSoftUni.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\1.HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\1.HelloSoftUni.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\ref\1.HelloSoftUni.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\1.HelloSoftUni.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\1.HelloSoftUni\obj\Debug\net5.0\1.HelloSoftUni.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\4. Цена за транспорт\bin\Debug\net5.0\4. Цена за транспорт.exe
+C:\Users\Galin\Desktop\4. Цена за транспорт\bin\Debug\net5.0\4. Цена за транспорт.deps.json
+C:\Users\Galin\Desktop\4. Цена за транспорт\bin\Debug\net5.0\4. Цена за транспорт.runtimeconfig.json
+C:\Users\Galin\Desktop\4. Цена за транспорт\bin\Debug\net5.0\4. Цена за транспорт.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\4. Цена за транспорт\bin\Debug\net5.0\4. Цена за транспорт.dll
+C:\Users\Galin\Desktop\4. Цена за транспорт\bin\Debug\net5.0\ref\4. Цена за транспорт.dll
+C:\Users\Galin\Desktop\4. Цена за транспорт\bin\Debug\net5.0\4. Цена за транспорт.pdb
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\4. Цена за транспорт.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\4. Цена за транспорт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\4. Цена за транспорт.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\4. Цена за транспорт.AssemblyInfo.cs
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\4. Цена за транспорт.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\4. Цена за транспорт.dll
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\ref\4. Цена за транспорт.dll
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\4. Цена за транспорт.pdb
+C:\Users\Galin\Desktop\4. Цена за транспорт\obj\Debug\net5.0\4. Цена за транспорт.genruntimeconfig.cache

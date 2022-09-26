@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\bin\Debug\netcoreapp3.1\6. Най-голямо число.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\bin\Debug\netcoreapp3.1\6. Най-голямо число.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\bin\Debug\netcoreapp3.1\6. Най-голямо число.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\bin\Debug\netcoreapp3.1\6. Най-голямо число.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\bin\Debug\netcoreapp3.1\6. Най-голямо число.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\bin\Debug\netcoreapp3.1\6. Най-голямо число.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\obj\Debug\netcoreapp3.1\6. Най-голямо число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\obj\Debug\netcoreapp3.1\6. Най-голямо число.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\obj\Debug\netcoreapp3.1\6. Най-голямо число.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\obj\Debug\netcoreapp3.1\6. Най-голямо число.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\obj\Debug\netcoreapp3.1\6. Най-голямо число.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\obj\Debug\netcoreapp3.1\6. Най-голямо число.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\6. Най-голямо число\obj\Debug\netcoreapp3.1\6. Най-голямо число.genruntimeconfig.cache

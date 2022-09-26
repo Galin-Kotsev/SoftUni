@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\bin\Debug\netcoreapp3.1\7. Най-малко число.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\bin\Debug\netcoreapp3.1\7. Най-малко число.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\bin\Debug\netcoreapp3.1\7. Най-малко число.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\bin\Debug\netcoreapp3.1\7. Най-малко число.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\bin\Debug\netcoreapp3.1\7. Най-малко число.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\bin\Debug\netcoreapp3.1\7. Най-малко число.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\obj\Debug\netcoreapp3.1\7. Най-малко число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\obj\Debug\netcoreapp3.1\7. Най-малко число.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\obj\Debug\netcoreapp3.1\7. Най-малко число.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\obj\Debug\netcoreapp3.1\7. Най-малко число.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\obj\Debug\netcoreapp3.1\7. Най-малко число.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\obj\Debug\netcoreapp3.1\7. Най-малко число.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\5.While-цикъл\LAB\7. Най-малко число\obj\Debug\netcoreapp3.1\7. Най-малко число.genruntimeconfig.cache

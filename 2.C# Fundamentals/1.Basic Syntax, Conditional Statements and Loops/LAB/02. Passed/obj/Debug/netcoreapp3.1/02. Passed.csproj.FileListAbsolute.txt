@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\LAB\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.genruntimeconfig.cache

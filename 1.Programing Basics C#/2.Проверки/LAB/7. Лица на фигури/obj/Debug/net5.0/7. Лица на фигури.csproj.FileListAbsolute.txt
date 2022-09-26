@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\7. Лица на фигури\bin\Debug\net5.0\7. Лица на фигури.exe
+C:\Users\Galin\Desktop\7. Лица на фигури\bin\Debug\net5.0\7. Лица на фигури.deps.json
+C:\Users\Galin\Desktop\7. Лица на фигури\bin\Debug\net5.0\7. Лица на фигури.runtimeconfig.json
+C:\Users\Galin\Desktop\7. Лица на фигури\bin\Debug\net5.0\7. Лица на фигури.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\7. Лица на фигури\bin\Debug\net5.0\7. Лица на фигури.dll
+C:\Users\Galin\Desktop\7. Лица на фигури\bin\Debug\net5.0\ref\7. Лица на фигури.dll
+C:\Users\Galin\Desktop\7. Лица на фигури\bin\Debug\net5.0\7. Лица на фигури.pdb
+C:\Users\Galin\Desktop\7. Лица на фигури\obj\Debug\net5.0\7. Лица на фигури.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\7. Лица на фигури\obj\Debug\net5.0\7. Лица на фигури.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\7. Лица на фигури\obj\Debug\net5.0\7. Лица на фигури.AssemblyInfo.cs
+C:\Users\Galin\Desktop\7. Лица на фигури\obj\Debug\net5.0\7. Лица на фигури.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\7. Лица на фигури\obj\Debug\net5.0\7. Лица на фигури.dll
+C:\Users\Galin\Desktop\7. Лица на фигури\obj\Debug\net5.0\ref\7. Лица на фигури.dll
+C:\Users\Galin\Desktop\7. Лица на фигури\obj\Debug\net5.0\7. Лица на фигури.pdb
+C:\Users\Galin\Desktop\7. Лица на фигури\obj\Debug\net5.0\7. Лица на фигури.genruntimeconfig.cache

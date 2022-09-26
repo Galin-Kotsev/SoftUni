@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\bin\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.exe
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\bin\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.deps.json
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\bin\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.runtimeconfig.json
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\bin\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\bin\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.dll
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\bin\Debug\net5.0\ref\2. Конзолен конвертор от радиани в градуси.dll
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\bin\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.pdb
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.AssemblyInfo.cs
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.dll
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\ref\2. Конзолен конвертор от радиани в градуси.dll
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.pdb
+C:\Users\Galin\Desktop\2. Конзолен конвертор от радиани в градуси\obj\Debug\net5.0\2. Конзолен конвертор от радиани в градуси.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\bin\Debug\net5.0\7.Working Hours.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\bin\Debug\net5.0\7.Working Hours.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\bin\Debug\net5.0\7.Working Hours.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\bin\Debug\net5.0\7.Working Hours.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\bin\Debug\net5.0\7.Working Hours.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\bin\Debug\net5.0\ref\7.Working Hours.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\bin\Debug\net5.0\7.Working Hours.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\obj\Debug\net5.0\7.Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\obj\Debug\net5.0\7.Working Hours.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\obj\Debug\net5.0\7.Working Hours.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\obj\Debug\net5.0\7.Working Hours.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\obj\Debug\net5.0\7.Working Hours.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\obj\Debug\net5.0\ref\7.Working Hours.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\obj\Debug\net5.0\7.Working Hours.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\3.Сложни проверки\LAB\7.Working Hours\obj\Debug\net5.0\7.Working Hours.genruntimeconfig.cache

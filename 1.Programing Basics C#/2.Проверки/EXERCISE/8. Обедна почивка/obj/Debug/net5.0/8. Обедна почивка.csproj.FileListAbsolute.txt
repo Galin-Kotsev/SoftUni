@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\8. Обедна почивка\bin\Debug\net5.0\8. Обедна почивка.exe
+C:\Users\Galin\Desktop\8. Обедна почивка\bin\Debug\net5.0\8. Обедна почивка.deps.json
+C:\Users\Galin\Desktop\8. Обедна почивка\bin\Debug\net5.0\8. Обедна почивка.runtimeconfig.json
+C:\Users\Galin\Desktop\8. Обедна почивка\bin\Debug\net5.0\8. Обедна почивка.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\8. Обедна почивка\bin\Debug\net5.0\8. Обедна почивка.dll
+C:\Users\Galin\Desktop\8. Обедна почивка\bin\Debug\net5.0\ref\8. Обедна почивка.dll
+C:\Users\Galin\Desktop\8. Обедна почивка\bin\Debug\net5.0\8. Обедна почивка.pdb
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\8. Обедна почивка.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\8. Обедна почивка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\8. Обедна почивка.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\8. Обедна почивка.AssemblyInfo.cs
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\8. Обедна почивка.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\8. Обедна почивка.dll
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\ref\8. Обедна почивка.dll
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\8. Обедна почивка.pdb
+C:\Users\Galin\Desktop\8. Обедна почивка\obj\Debug\net5.0\8. Обедна почивка.genruntimeconfig.cache

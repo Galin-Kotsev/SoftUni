@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\bin\Debug\net5.0\5. Заплата.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\bin\Debug\net5.0\5. Заплата.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\bin\Debug\net5.0\5. Заплата.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\bin\Debug\net5.0\5. Заплата.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\bin\Debug\net5.0\5. Заплата.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\bin\Debug\net5.0\ref\5. Заплата.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\bin\Debug\net5.0\5. Заплата.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\5. Заплата.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\5. Заплата.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\5. Заплата.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\5. Заплата.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\5. Заплата.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\5. Заплата.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\ref\5. Заплата.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\5. Заплата.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\EXERCISE\5. Заплата\obj\Debug\net5.0\5. Заплата.genruntimeconfig.cache

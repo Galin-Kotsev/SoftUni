@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\1. Сумиране на секунди\bin\Debug\net5.0\1. Сумиране на секунди.exe
+C:\Users\Galin\Desktop\1. Сумиране на секунди\bin\Debug\net5.0\1. Сумиране на секунди.deps.json
+C:\Users\Galin\Desktop\1. Сумиране на секунди\bin\Debug\net5.0\1. Сумиране на секунди.runtimeconfig.json
+C:\Users\Galin\Desktop\1. Сумиране на секунди\bin\Debug\net5.0\1. Сумиране на секунди.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\1. Сумиране на секунди\bin\Debug\net5.0\1. Сумиране на секунди.dll
+C:\Users\Galin\Desktop\1. Сумиране на секунди\bin\Debug\net5.0\ref\1. Сумиране на секунди.dll
+C:\Users\Galin\Desktop\1. Сумиране на секунди\bin\Debug\net5.0\1. Сумиране на секунди.pdb
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\1. Сумиране на секунди.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\1. Сумиране на секунди.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\1. Сумиране на секунди.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\1. Сумиране на секунди.AssemblyInfo.cs
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\1. Сумиране на секунди.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\1. Сумиране на секунди.dll
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\ref\1. Сумиране на секунди.dll
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\1. Сумиране на секунди.pdb
+C:\Users\Galin\Desktop\1. Сумиране на секунди\obj\Debug\net5.0\1. Сумиране на секунди.genruntimeconfig.cache

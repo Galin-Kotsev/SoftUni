@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\bin\Debug\net5.0\4. Задължителна литература.exe
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\bin\Debug\net5.0\4. Задължителна литература.deps.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\bin\Debug\net5.0\4. Задължителна литература.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\bin\Debug\net5.0\4. Задължителна литература.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\bin\Debug\net5.0\4. Задължителна литература.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\bin\Debug\net5.0\ref\4. Задължителна литература.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\bin\Debug\net5.0\4. Задължителна литература.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\4. Задължителна литература.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\4. Задължителна литература.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\4. Задължителна литература.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\4. Задължителна литература.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\4. Задължителна литература.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\4. Задължителна литература.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\ref\4. Задължителна литература.dll
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\4. Задължителна литература.pdb
+C:\Users\Galin\Desktop\SoftUni\EXERCISE\4. Задължителна литература\obj\Debug\net5.0\4. Задължителна литература.genruntimeconfig.cache

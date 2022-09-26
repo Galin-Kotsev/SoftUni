@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\bin\Debug\netcoreapp3.1\03-2. Travel Agenc.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\bin\Debug\netcoreapp3.1\03-2. Travel Agenc.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\bin\Debug\netcoreapp3.1\03-2. Travel Agenc.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\bin\Debug\netcoreapp3.1\03-2. Travel Agenc.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\bin\Debug\netcoreapp3.1\03-2. Travel Agenc.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\bin\Debug\netcoreapp3.1\03-2. Travel Agenc.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\obj\Debug\netcoreapp3.1\03-2. Travel Agenc.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\obj\Debug\netcoreapp3.1\03-2. Travel Agenc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\obj\Debug\netcoreapp3.1\03-2. Travel Agenc.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\obj\Debug\netcoreapp3.1\03-2. Travel Agenc.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\obj\Debug\netcoreapp3.1\03-2. Travel Agenc.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\obj\Debug\netcoreapp3.1\03-2. Travel Agenc.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\obj\Debug\netcoreapp3.1\03-2. Travel Agenc.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\03-2. Travel Agenc\obj\Debug\netcoreapp3.1\03-2. Travel Agenc.genruntimeconfig.cache

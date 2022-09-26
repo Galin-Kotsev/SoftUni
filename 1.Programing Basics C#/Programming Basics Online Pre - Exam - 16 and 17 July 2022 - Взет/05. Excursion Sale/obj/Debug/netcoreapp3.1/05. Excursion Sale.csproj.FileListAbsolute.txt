@@ -1,0 +1,13 @@
+C:\Users\Galin\source\repos\05. Excursion Sale\bin\Debug\netcoreapp3.1\05. Excursion Sale.exe
+C:\Users\Galin\source\repos\05. Excursion Sale\bin\Debug\netcoreapp3.1\05. Excursion Sale.deps.json
+C:\Users\Galin\source\repos\05. Excursion Sale\bin\Debug\netcoreapp3.1\05. Excursion Sale.runtimeconfig.json
+C:\Users\Galin\source\repos\05. Excursion Sale\bin\Debug\netcoreapp3.1\05. Excursion Sale.runtimeconfig.dev.json
+C:\Users\Galin\source\repos\05. Excursion Sale\bin\Debug\netcoreapp3.1\05. Excursion Sale.dll
+C:\Users\Galin\source\repos\05. Excursion Sale\bin\Debug\netcoreapp3.1\05. Excursion Sale.pdb
+C:\Users\Galin\source\repos\05. Excursion Sale\obj\Debug\netcoreapp3.1\05. Excursion Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\source\repos\05. Excursion Sale\obj\Debug\netcoreapp3.1\05. Excursion Sale.AssemblyInfoInputs.cache
+C:\Users\Galin\source\repos\05. Excursion Sale\obj\Debug\netcoreapp3.1\05. Excursion Sale.AssemblyInfo.cs
+C:\Users\Galin\source\repos\05. Excursion Sale\obj\Debug\netcoreapp3.1\05. Excursion Sale.csproj.CoreCompileInputs.cache
+C:\Users\Galin\source\repos\05. Excursion Sale\obj\Debug\netcoreapp3.1\05. Excursion Sale.dll
+C:\Users\Galin\source\repos\05. Excursion Sale\obj\Debug\netcoreapp3.1\05. Excursion Sale.pdb
+C:\Users\Galin\source\repos\05. Excursion Sale\obj\Debug\netcoreapp3.1\05. Excursion Sale.genruntimeconfig.cache

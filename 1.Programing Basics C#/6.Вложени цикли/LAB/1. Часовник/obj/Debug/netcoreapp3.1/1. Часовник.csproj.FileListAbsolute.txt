@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\bin\Debug\netcoreapp3.1\1. Часовник.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\bin\Debug\netcoreapp3.1\1. Часовник.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\bin\Debug\netcoreapp3.1\1. Часовник.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\bin\Debug\netcoreapp3.1\1. Часовник.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\bin\Debug\netcoreapp3.1\1. Часовник.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\bin\Debug\netcoreapp3.1\1. Часовник.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\obj\Debug\netcoreapp3.1\1. Часовник.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\obj\Debug\netcoreapp3.1\1. Часовник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\obj\Debug\netcoreapp3.1\1. Часовник.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\obj\Debug\netcoreapp3.1\1. Часовник.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\obj\Debug\netcoreapp3.1\1. Часовник.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\obj\Debug\netcoreapp3.1\1. Часовник.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\obj\Debug\netcoreapp3.1\1. Часовник.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\1. Часовник\obj\Debug\netcoreapp3.1\1. Часовник.genruntimeconfig.cache

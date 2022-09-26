@@ -1,0 +1,13 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\2.Data Types and Variables\LAB\11.Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11.Refactor Volume of Pyramid.genruntimeconfig.cache

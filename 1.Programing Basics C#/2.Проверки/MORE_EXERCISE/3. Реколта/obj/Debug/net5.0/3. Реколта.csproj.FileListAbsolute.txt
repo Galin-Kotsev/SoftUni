@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\3. Реколта\bin\Debug\net5.0\3. Реколта.exe
+C:\Users\Galin\Desktop\3. Реколта\bin\Debug\net5.0\3. Реколта.deps.json
+C:\Users\Galin\Desktop\3. Реколта\bin\Debug\net5.0\3. Реколта.runtimeconfig.json
+C:\Users\Galin\Desktop\3. Реколта\bin\Debug\net5.0\3. Реколта.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\3. Реколта\bin\Debug\net5.0\3. Реколта.dll
+C:\Users\Galin\Desktop\3. Реколта\bin\Debug\net5.0\ref\3. Реколта.dll
+C:\Users\Galin\Desktop\3. Реколта\bin\Debug\net5.0\3. Реколта.pdb
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\3. Реколта.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\3. Реколта.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\3. Реколта.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\3. Реколта.AssemblyInfo.cs
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\3. Реколта.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\3. Реколта.dll
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\ref\3. Реколта.dll
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\3. Реколта.pdb
+C:\Users\Galin\Desktop\3. Реколта\obj\Debug\net5.0\3. Реколта.genruntimeconfig.cache

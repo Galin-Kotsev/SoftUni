@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\bin\Debug\netcoreapp3.1\02. Divison.exe
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\bin\Debug\netcoreapp3.1\02. Divison.deps.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\bin\Debug\netcoreapp3.1\02. Divison.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\bin\Debug\netcoreapp3.1\02. Divison.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\bin\Debug\netcoreapp3.1\02. Divison.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\bin\Debug\netcoreapp3.1\02. Divison.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\obj\Debug\netcoreapp3.1\02. Divison.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\obj\Debug\netcoreapp3.1\02. Divison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\obj\Debug\netcoreapp3.1\02. Divison.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\obj\Debug\netcoreapp3.1\02. Divison.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\obj\Debug\netcoreapp3.1\02. Divison.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\obj\Debug\netcoreapp3.1\02. Divison.dll
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\obj\Debug\netcoreapp3.1\02. Divison.pdb
+C:\Users\Galin\Desktop\SoftUni\2.C# Fundamentals\Basic Syntax, Conditional Statements and Loops\Exercise\02. Divison\obj\Debug\netcoreapp3.1\02. Divison.genruntimeconfig.cache

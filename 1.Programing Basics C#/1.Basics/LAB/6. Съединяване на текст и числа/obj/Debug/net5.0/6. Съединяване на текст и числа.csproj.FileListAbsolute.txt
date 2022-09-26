@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\obj\Debug\net5.0\6. Съединяване на текст и числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\obj\Debug\net5.0\6. Съединяване на текст и числа.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\obj\Debug\net5.0\6. Съединяване на текст и числа.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\obj\Debug\net5.0\6. Съединяване на текст и числа.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\bin\Debug\net5.0\6. Съединяване на текст и числа.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\bin\Debug\net5.0\6. Съединяване на текст и числа.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\bin\Debug\net5.0\6. Съединяване на текст и числа.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\bin\Debug\net5.0\6. Съединяване на текст и числа.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\bin\Debug\net5.0\6. Съединяване на текст и числа.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\bin\Debug\net5.0\ref\6. Съединяване на текст и числа.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\bin\Debug\net5.0\6. Съединяване на текст и числа.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\obj\Debug\net5.0\6. Съединяване на текст и числа.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\obj\Debug\net5.0\ref\6. Съединяване на текст и числа.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\obj\Debug\net5.0\6. Съединяване на текст и числа.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\6. Съединяване на текст и числа\obj\Debug\net5.0\6. Съединяване на текст и числа.genruntimeconfig.cache

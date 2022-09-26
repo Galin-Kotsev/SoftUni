@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\Подготовка за изпит\ТЕСТ 2 ( Exam - 6 and 7 July 2019)\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.genruntimeconfig.cache

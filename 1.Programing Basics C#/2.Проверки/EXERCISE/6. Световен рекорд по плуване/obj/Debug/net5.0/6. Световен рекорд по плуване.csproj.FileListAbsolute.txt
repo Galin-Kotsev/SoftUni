@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\bin\Debug\net5.0\6. Световен рекорд по плуване.exe
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\bin\Debug\net5.0\6. Световен рекорд по плуване.deps.json
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\bin\Debug\net5.0\6. Световен рекорд по плуване.runtimeconfig.json
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\bin\Debug\net5.0\6. Световен рекорд по плуване.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\bin\Debug\net5.0\6. Световен рекорд по плуване.dll
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\bin\Debug\net5.0\ref\6. Световен рекорд по плуване.dll
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\bin\Debug\net5.0\6. Световен рекорд по плуване.pdb
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\6. Световен рекорд по плуване.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\6. Световен рекорд по плуване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\6. Световен рекорд по плуване.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\6. Световен рекорд по плуване.AssemblyInfo.cs
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\6. Световен рекорд по плуване.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\6. Световен рекорд по плуване.dll
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\ref\6. Световен рекорд по плуване.dll
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\6. Световен рекорд по плуване.pdb
+C:\Users\Galin\Desktop\6. Световен рекорд по плуване\obj\Debug\net5.0\6. Световен рекорд по плуване.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\7. Резервоар за гориво.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\7. Резервоар за гориво.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\7. Резервоар за гориво.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\7. Резервоар за гориво.AssemblyInfo.cs
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\7. Резервоар за гориво.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\7. Резервоар за гориво\bin\Debug\net5.0\7. Резервоар за гориво.exe
+C:\Users\Galin\Desktop\7. Резервоар за гориво\bin\Debug\net5.0\7. Резервоар за гориво.deps.json
+C:\Users\Galin\Desktop\7. Резервоар за гориво\bin\Debug\net5.0\7. Резервоар за гориво.runtimeconfig.json
+C:\Users\Galin\Desktop\7. Резервоар за гориво\bin\Debug\net5.0\7. Резервоар за гориво.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\7. Резервоар за гориво\bin\Debug\net5.0\7. Резервоар за гориво.dll
+C:\Users\Galin\Desktop\7. Резервоар за гориво\bin\Debug\net5.0\ref\7. Резервоар за гориво.dll
+C:\Users\Galin\Desktop\7. Резервоар за гориво\bin\Debug\net5.0\7. Резервоар за гориво.pdb
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\7. Резервоар за гориво.dll
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\ref\7. Резервоар за гориво.dll
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\7. Резервоар за гориво.pdb
+C:\Users\Galin\Desktop\7. Резервоар за гориво\obj\Debug\net5.0\7. Резервоар за гориво.genruntimeconfig.cache

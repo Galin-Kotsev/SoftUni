@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\bin\Debug\net5.0\4. инчове към сантиметри.exe
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\bin\Debug\net5.0\4. инчове към сантиметри.deps.json
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\bin\Debug\net5.0\4. инчове към сантиметри.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\bin\Debug\net5.0\4. инчове към сантиметри.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\bin\Debug\net5.0\4. инчове към сантиметри.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\bin\Debug\net5.0\ref\4. инчове към сантиметри.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\bin\Debug\net5.0\4. инчове към сантиметри.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\4. инчове към сантиметри.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\4. инчове към сантиметри.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\4. инчове към сантиметри.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\4. инчове към сантиметри.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\4. инчове към сантиметри.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\4. инчове към сантиметри.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\ref\4. инчове към сантиметри.dll
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\4. инчове към сантиметри.pdb
+C:\Users\Galin\Desktop\SoftUni\LAB\4. инчове към сантиметри\obj\Debug\net5.0\4. инчове към сантиметри.genruntimeconfig.cache

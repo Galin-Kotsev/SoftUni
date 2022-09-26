@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\bin\Debug\netcoreapp3.1\4. Сума от две числа.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\bin\Debug\netcoreapp3.1\4. Сума от две числа.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\bin\Debug\netcoreapp3.1\4. Сума от две числа.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\bin\Debug\netcoreapp3.1\4. Сума от две числа.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\bin\Debug\netcoreapp3.1\4. Сума от две числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\bin\Debug\netcoreapp3.1\4. Сума от две числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\obj\Debug\netcoreapp3.1\4. Сума от две числа.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\obj\Debug\netcoreapp3.1\4. Сума от две числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\obj\Debug\netcoreapp3.1\4. Сума от две числа.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\obj\Debug\netcoreapp3.1\4. Сума от две числа.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\obj\Debug\netcoreapp3.1\4. Сума от две числа.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\obj\Debug\netcoreapp3.1\4. Сума от две числа.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\obj\Debug\netcoreapp3.1\4. Сума от две числа.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\6.Вложени цикли\LAB\4. Сума от две числа\obj\Debug\netcoreapp3.1\4. Сума от две числа.genruntimeconfig.cache

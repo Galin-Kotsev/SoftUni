@@ -1,0 +1,15 @@
+C:\Users\Galin\Desktop\2. По-голямото число\bin\Debug\net5.0\2. По-голямото число.exe
+C:\Users\Galin\Desktop\2. По-голямото число\bin\Debug\net5.0\2. По-голямото число.deps.json
+C:\Users\Galin\Desktop\2. По-голямото число\bin\Debug\net5.0\2. По-голямото число.runtimeconfig.json
+C:\Users\Galin\Desktop\2. По-голямото число\bin\Debug\net5.0\2. По-голямото число.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\2. По-голямото число\bin\Debug\net5.0\2. По-голямото число.dll
+C:\Users\Galin\Desktop\2. По-голямото число\bin\Debug\net5.0\ref\2. По-голямото число.dll
+C:\Users\Galin\Desktop\2. По-голямото число\bin\Debug\net5.0\2. По-голямото число.pdb
+C:\Users\Galin\Desktop\2. По-голямото число\obj\Debug\net5.0\2. По-голямото число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\2. По-голямото число\obj\Debug\net5.0\2. По-голямото число.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\2. По-голямото число\obj\Debug\net5.0\2. По-голямото число.AssemblyInfo.cs
+C:\Users\Galin\Desktop\2. По-голямото число\obj\Debug\net5.0\2. По-голямото число.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\2. По-голямото число\obj\Debug\net5.0\2. По-голямото число.dll
+C:\Users\Galin\Desktop\2. По-голямото число\obj\Debug\net5.0\ref\2. По-голямото число.dll
+C:\Users\Galin\Desktop\2. По-голямото число\obj\Debug\net5.0\2. По-голямото число.pdb
+C:\Users\Galin\Desktop\2. По-голямото число\obj\Debug\net5.0\2. По-голямото число.genruntimeconfig.cache

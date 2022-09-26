@@ -1,0 +1,16 @@
+C:\Users\Galin\Desktop\1. Лице на трапец\bin\Debug\net5.0\1. Лице на трапец.exe
+C:\Users\Galin\Desktop\1. Лице на трапец\bin\Debug\net5.0\1. Лице на трапец.deps.json
+C:\Users\Galin\Desktop\1. Лице на трапец\bin\Debug\net5.0\1. Лице на трапец.runtimeconfig.json
+C:\Users\Galin\Desktop\1. Лице на трапец\bin\Debug\net5.0\1. Лице на трапец.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\1. Лице на трапец\bin\Debug\net5.0\1. Лице на трапец.dll
+C:\Users\Galin\Desktop\1. Лице на трапец\bin\Debug\net5.0\ref\1. Лице на трапец.dll
+C:\Users\Galin\Desktop\1. Лице на трапец\bin\Debug\net5.0\1. Лице на трапец.pdb
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\1. Лице на трапец.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\1. Лице на трапец.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\1. Лице на трапец.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\1. Лице на трапец.AssemblyInfo.cs
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\1. Лице на трапец.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\1. Лице на трапец.dll
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\ref\1. Лице на трапец.dll
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\1. Лице на трапец.pdb
+C:\Users\Galin\Desktop\1. Лице на трапец\obj\Debug\net5.0\1. Лице на трапец.genruntimeconfig.cache

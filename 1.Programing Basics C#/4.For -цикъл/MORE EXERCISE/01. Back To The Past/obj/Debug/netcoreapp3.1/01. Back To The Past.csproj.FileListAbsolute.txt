@@ -1,0 +1,14 @@
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\bin\Debug\netcoreapp3.1\01. Back To The Past.exe
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\bin\Debug\netcoreapp3.1\01. Back To The Past.deps.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\bin\Debug\netcoreapp3.1\01. Back To The Past.runtimeconfig.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\bin\Debug\netcoreapp3.1\01. Back To The Past.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\bin\Debug\netcoreapp3.1\01. Back To The Past.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\bin\Debug\netcoreapp3.1\01. Back To The Past.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\obj\Debug\netcoreapp3.1\01. Back To The Past.csproj.AssemblyReference.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\obj\Debug\netcoreapp3.1\01. Back To The Past.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\obj\Debug\netcoreapp3.1\01. Back To The Past.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\obj\Debug\netcoreapp3.1\01. Back To The Past.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\obj\Debug\netcoreapp3.1\01. Back To The Past.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\obj\Debug\netcoreapp3.1\01. Back To The Past.dll
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\obj\Debug\netcoreapp3.1\01. Back To The Past.pdb
+C:\Users\Galin\Desktop\SoftUni\1.Programing Basics C#\4.For -цикъл\MORE EXERCISE\01. Back To The Past\01. Back To The Past\obj\Debug\netcoreapp3.1\01. Back To The Past.genruntimeconfig.cache

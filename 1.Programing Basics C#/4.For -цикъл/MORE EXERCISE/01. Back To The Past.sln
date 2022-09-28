@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Hospital", "02. Hospita
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Logistics", "03. Logistics\03. Logistics.csproj", "{CCB4C875-76F7-4C7A-8DDC-540F0D3E62FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Grades", "04. Grades\04. Grades.csproj", "{2F74965A-F013-4EB1-9296-F104E23C8AE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Grades", "04. Grades\04. Grades.csproj", "{2F74965A-F013-4EB1-9296-F104E23C8AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Game Of Intervals", "05. Game Of Intervals\05. Game Of Intervals.csproj", "{A7FF754F-06B2-4123-BC59-1CC372B5ECF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2F74965A-F013-4EB1-9296-F104E23C8AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F74965A-F013-4EB1-9296-F104E23C8AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F74965A-F013-4EB1-9296-F104E23C8AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FF754F-06B2-4123-BC59-1CC372B5ECF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FF754F-06B2-4123-BC59-1CC372B5ECF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FF754F-06B2-4123-BC59-1CC372B5ECF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FF754F-06B2-4123-BC59-1CC372B5ECF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

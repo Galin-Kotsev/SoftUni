@@ -35,7 +35,7 @@ namespace _01._Dishwasher
                     detegrentUsed += add * 5;
                 }
 
-                if (detegrentAmount <= detegrentUsed)
+                if (detegrentAmount < detegrentUsed)
                 {
                     break;
                 }

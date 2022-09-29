@@ -13,13 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Grades", "04. Grades\04
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Game Of Intervals", "05. Game Of Intervals\05. Game Of Intervals.csproj", "{A7FF754F-06B2-4123-BC59-1CC372B5ECF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Bills", "06. Bills\06. Bills.csproj", "{415B92DA-BA4E-432E-B70F-38860D0E5A6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Bills", "06. Bills\06. Bills.csproj", "{415B92DA-BA4E-432E-B70F-38860D0E5A6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Football League", "07. Football League\07. Football League.csproj", "{FCED478A-2568-4A0A-B9ED-97078999EA2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Football League", "07. Football League\07. Football League.csproj", "{FCED478A-2568-4A0A-B9ED-97078999EA2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Clock", "09. Clock\09. Clock.csproj", "{6F3DEDFD-8CC3-4859-93E9-1022A3085679}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Clock", "09. Clock\09. Clock.csproj", "{6F3DEDFD-8CC3-4859-93E9-1022A3085679}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Clock - part 2", "10. Clock - part 2\10. Clock - part 2.csproj", "{192DCC66-CD2E-43EB-AD56-BDBE44E3CF52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Clock - part 2", "10. Clock - part 2\10. Clock - part 2.csproj", "{192DCC66-CD2E-43EB-AD56-BDBE44E3CF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Equal Pairs", "08. Equal Pairs\08. Equal Pairs.csproj", "{4D6AEA7E-0166-476C-B714-03EED47C5937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Odd - Even Position", "11. Odd - Even Position\11. Odd - Even Position.csproj", "{EF1B1646-F055-4C4B-AA90-AD73B632600D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{192DCC66-CD2E-43EB-AD56-BDBE44E3CF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{192DCC66-CD2E-43EB-AD56-BDBE44E3CF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{192DCC66-CD2E-43EB-AD56-BDBE44E3CF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6AEA7E-0166-476C-B714-03EED47C5937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6AEA7E-0166-476C-B714-03EED47C5937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6AEA7E-0166-476C-B714-03EED47C5937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6AEA7E-0166-476C-B714-03EED47C5937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1B1646-F055-4C4B-AA90-AD73B632600D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1B1646-F055-4C4B-AA90-AD73B632600D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1B1646-F055-4C4B-AA90-AD73B632600D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1B1646-F055-4C4B-AA90-AD73B632600D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

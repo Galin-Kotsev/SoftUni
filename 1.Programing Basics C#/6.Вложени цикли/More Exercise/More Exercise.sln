@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Unique PIN Codes", "01. Unique PIN Codes\01. Unique PIN Codes.csproj", "{30452B3D-7AF6-4C88-9B40-354F0D5DF32D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Unique PIN Codes", "01. Unique PIN Codes\01. Unique PIN Codes.csproj", "{30452B3D-7AF6-4C88-9B40-354F0D5DF32D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Letters Combinations", "02. Letters Combinations\02. Letters Combinations.csproj", "{9BFF5EC4-7643-489D-BEFD-B7C074BD6312}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Letters Combinations", "02. Letters Combinations\02. Letters Combinations.csproj", "{9BFF5EC4-7643-489D-BEFD-B7C074BD6312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Lucky Numbers", "03. Lucky Numbers\03. Lucky Numbers.csproj", "{04624F1C-7BA5-4532-9D21-DC40F232C9C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Lucky Numbers", "03. Lucky Numbers\03. Lucky Numbers.csproj", "{04624F1C-7BA5-4532-9D21-DC40F232C9C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Car Number", "04. Car Number\04. Car Number.csproj", "{AC1DDA98-1FB8-4F66-ADCA-BF0090290928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Car Number", "04. Car Number\04. Car Number.csproj", "{AC1DDA98-1FB8-4F66-ADCA-BF0090290928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Challenge the Wedding", "05. Challenge the Wedding\05. Challenge the Wedding.csproj", "{20EFE90D-97B6-4EE6-93EC-1F1810B572F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Wedding Seats", "06. Wedding Seats\06. Wedding Seats.csproj", "{C48FFCE3-2620-4AAB-89B8-07AC1433EF9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Sum of Two Numbers", "09. Sum of Two Numbers\09. Sum of Two Numbers.csproj", "{17D86910-CC74-48A9-88C7-3A4F0CD1D84D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Secret Door's Lock", "08. Secret Door's Lock\08. Secret Door's Lock.csproj", "{39D9D6A7-05A4-44B6-87F9-8F734F69C959}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{AC1DDA98-1FB8-4F66-ADCA-BF0090290928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC1DDA98-1FB8-4F66-ADCA-BF0090290928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC1DDA98-1FB8-4F66-ADCA-BF0090290928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EFE90D-97B6-4EE6-93EC-1F1810B572F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EFE90D-97B6-4EE6-93EC-1F1810B572F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EFE90D-97B6-4EE6-93EC-1F1810B572F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EFE90D-97B6-4EE6-93EC-1F1810B572F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48FFCE3-2620-4AAB-89B8-07AC1433EF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48FFCE3-2620-4AAB-89B8-07AC1433EF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48FFCE3-2620-4AAB-89B8-07AC1433EF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48FFCE3-2620-4AAB-89B8-07AC1433EF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D86910-CC74-48A9-88C7-3A4F0CD1D84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D86910-CC74-48A9-88C7-3A4F0CD1D84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D86910-CC74-48A9-88C7-3A4F0CD1D84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D86910-CC74-48A9-88C7-3A4F0CD1D84D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D9D6A7-05A4-44B6-87F9-8F734F69C959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D9D6A7-05A4-44B6-87F9-8F734F69C959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D9D6A7-05A4-44B6-87F9-8F734F69C959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D9D6A7-05A4-44B6-87F9-8F734F69C959}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

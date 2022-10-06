@@ -5,13 +5,19 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Train", "01. Train\01. Train.csproj", "{199DDE03-1CDB-4715-8642-9B0040B4A92E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Common Elements", "02. Common Elements\02. Common Elements.csproj", "{493C694D-14E1-4E14-BDE5-4DBC0CE50059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Common Elements", "02. Common Elements\02. Common Elements.csproj", "{493C694D-14E1-4E14-BDE5-4DBC0CE50059}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Zig-Zag Arrays", "3. Zig-Zag Arrays\03. Zig-Zag Arrays.csproj", "{1C96CDC9-10E8-479E-B091-BCC0A9C70992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Zig-Zag Arrays", "3. Zig-Zag Arrays\03. Zig-Zag Arrays.csproj", "{1C96CDC9-10E8-479E-B091-BCC0A9C70992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Array Rotation", "04. Array Rotation\04. Array Rotation.csproj", "{3476704D-B1F5-48EC-A476-550CDE19B11E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Array Rotation", "04. Array Rotation\04. Array Rotation.csproj", "{3476704D-B1F5-48EC-A476-550CDE19B11E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Equal Sum", "06.Equal Sum\06.Equal Sum.csproj", "{3EDAD42C-5062-4141-8FE3-758B84ED80F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Equal Sum", "06.Equal Sum\06.Equal Sum.csproj", "{3EDAD42C-5062-4141-8FE3-758B84ED80F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Magic Sum", "08. Magic Sum\08. Magic Sum.csproj", "{8F27EFE0-1D27-465D-9F8C-143D85CC7F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Top Integers", "05. Top Integers\05. Top Integers.csproj", "{0875B9F9-A0B8-4132-82B9-580AF1D0388B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Max Sequence of Equal Elements", "07. Max Sequence of Equal Elements\07. Max Sequence of Equal Elements.csproj", "{2AFFC6EB-DEC5-4614-82CB-347A11BB135E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{3EDAD42C-5062-4141-8FE3-758B84ED80F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EDAD42C-5062-4141-8FE3-758B84ED80F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EDAD42C-5062-4141-8FE3-758B84ED80F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F27EFE0-1D27-465D-9F8C-143D85CC7F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F27EFE0-1D27-465D-9F8C-143D85CC7F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F27EFE0-1D27-465D-9F8C-143D85CC7F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F27EFE0-1D27-465D-9F8C-143D85CC7F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0875B9F9-A0B8-4132-82B9-580AF1D0388B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0875B9F9-A0B8-4132-82B9-580AF1D0388B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0875B9F9-A0B8-4132-82B9-580AF1D0388B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0875B9F9-A0B8-4132-82B9-580AF1D0388B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AFFC6EB-DEC5-4614-82CB-347A11BB135E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFFC6EB-DEC5-4614-82CB-347A11BB135E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFFC6EB-DEC5-4614-82CB-347A11BB135E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFFC6EB-DEC5-4614-82CB-347A11BB135E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

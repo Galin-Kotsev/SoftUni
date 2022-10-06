@@ -12,27 +12,32 @@ namespace _06._Wedding_Seats
 
             int totalSeats = 0;
 
-            for (int i = 1; i <= sector; i++)
+            for (int i = 'A'; i <= sector; i++)
             {
-                for (int g = 1; g <= row; g++)
+                row++;
+
+                for (int g = 1; g < row; g++)
                 {
-                    if (row % 2 == 0)
+                    if (g % 2 == 0)
                     {
-                        for (int h = 1; h <= seat+2; h++)
+                        for (int h = 'a'; h < seat+2 + 97; h++)
                         {
                             Console.WriteLine($"{(char)i}{g}{(char)h}");
+                            totalSeats++;
                         }
                     }
                     else
                     {
-                        for (int h = 1; h <= seat; h++)
+                        for (int h = 'a' ; h < seat + 97; h++)
                         {
-                            Console.WriteLine($"{(char)i}{g}{(Char)h}");
+                            Console.WriteLine($"{(char)i}{g}{(char)h}");
+                            totalSeats++;
                         }
                     }
                     
                 }
             }
+            Console.WriteLine(totalSeats);
         }
     }
 }

@@ -24,13 +24,20 @@ namespace _06.Equal_Sum
 
                 int rightsum = 0;
 
-                for (int i = currentElement + 1; i < arrey1.Length - 1; i++)
+                for (int i = currentElement+1; i < arrey1.Length ; i++)
                 {
                     rightsum += arrey1[i];
                 }
 
+                if (leftsum == rightsum)
+                {
+                    Console.WriteLine(currentElement);
+                    return;
+                }
+                
 
             }
+            Console.WriteLine("no");
         }
     }
 }

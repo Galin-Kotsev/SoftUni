@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_08._Math_Power___WITH_NO_MATH.POW_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

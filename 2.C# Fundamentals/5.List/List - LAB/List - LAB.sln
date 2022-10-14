@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Merging Lists", "03. Me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. List of Products", "04. List of Products\04. List of Products.csproj", "{165F9E4A-59A4-48E1-AB9B-90B6D78C0B9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Remove Negatives and Reverse", "05. Remove Negatives and Reverse\05. Remove Negatives and Reverse.csproj", "{D2A85BBA-822F-4FFB-ADAC-515FEE9820A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Remove Negatives and Reverse", "05. Remove Negatives and Reverse\05. Remove Negatives and Reverse.csproj", "{D2A85BBA-822F-4FFB-ADAC-515FEE9820A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. List Manipulation Basics", "06. List Manipulation Basics\06. List Manipulation Basics.csproj", "{23BD8B9D-D930-45D0-A284-E1AA718BE0DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. List Manipulation Basics", "06. List Manipulation Basics\06. List Manipulation Basics.csproj", "{23BD8B9D-D930-45D0-A284-E1AA718BE0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. List Manipulation Advanced", "07. List Manipulation Advanced\07. List Manipulation Advanced.csproj", "{08C3DF1D-81FC-4533-91B5-16B0B1B503B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{23BD8B9D-D930-45D0-A284-E1AA718BE0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23BD8B9D-D930-45D0-A284-E1AA718BE0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23BD8B9D-D930-45D0-A284-E1AA718BE0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C3DF1D-81FC-4533-91B5-16B0B1B503B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C3DF1D-81FC-4533-91B5-16B0B1B503B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C3DF1D-81FC-4533-91B5-16B0B1B503B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C3DF1D-81FC-4533-91B5-16B0B1B503B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

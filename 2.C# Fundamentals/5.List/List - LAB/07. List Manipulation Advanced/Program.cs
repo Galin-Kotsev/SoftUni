@@ -49,8 +49,9 @@ namespace _07._List_Manipulation_Advanced
                     changes = true;
                 }
                 else if (command == "Contains")
-                {
+                {    
                     string parameter = (inputs[1]);
+
                     if (numbers.Contains(int.Parse(parameter)))
                     {
                         Console.WriteLine("Yes");
@@ -99,10 +100,8 @@ namespace _07._List_Manipulation_Advanced
                 input = Console.ReadLine();
             }
 
-            if (changes)
-            {
-                Console.WriteLine(string.Join(" ", numbers));
-            }
+            Console.WriteLine(changes? string.Join(" ", numbers): null);
+
         }
     }
 }

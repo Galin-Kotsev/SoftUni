@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Change List", "02. Chan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. House Party", "03. House Party\03. House Party.csproj", "{3AC1A22B-D302-49F1-911A-3E7447CD172A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Cards Game", "06. Cards Game\06. Cards Game.csproj", "{7934C146-1BB6-4272-AE89-62191B606EA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Cards Game", "06. Cards Game\06. Cards Game.csproj", "{7934C146-1BB6-4272-AE89-62191B606EA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. List Operations", "4. List Operations\04. List Operations.csproj", "{0F77E71D-756F-4444-B878-C9FFABA5D116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. List Operations", "4. List Operations\04. List Operations.csproj", "{0F77E71D-756F-4444-B878-C9FFABA5D116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Append Arrays", "07. Append Arrays\07. Append Arrays.csproj", "{6EFE6E34-7812-4BAC-9347-6622B159ECD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bomb Numbers", "05. Bomb Numbers\05. Bomb Numbers.csproj", "{242FFEEC-FA6B-4192-8A65-1319DFEA6EDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{0F77E71D-756F-4444-B878-C9FFABA5D116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F77E71D-756F-4444-B878-C9FFABA5D116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F77E71D-756F-4444-B878-C9FFABA5D116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFE6E34-7812-4BAC-9347-6622B159ECD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFE6E34-7812-4BAC-9347-6622B159ECD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFE6E34-7812-4BAC-9347-6622B159ECD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFE6E34-7812-4BAC-9347-6622B159ECD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242FFEEC-FA6B-4192-8A65-1319DFEA6EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242FFEEC-FA6B-4192-8A65-1319DFEA6EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242FFEEC-FA6B-4192-8A65-1319DFEA6EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242FFEEC-FA6B-4192-8A65-1319DFEA6EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

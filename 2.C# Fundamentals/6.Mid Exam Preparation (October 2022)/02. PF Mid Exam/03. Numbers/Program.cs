@@ -15,13 +15,6 @@ namespace _03._Numbers
 
             int avarage = (int)numbers.Average();
 
-            if (numbers.Count == 1)
-            {
-                Console.WriteLine("No");
-                return;
-            }
-
-
             for (int i = 0; i < numbers.Count; i++)
             {
                 if (numbers[i] <= avarage)
@@ -48,8 +41,6 @@ namespace _03._Numbers
             {
                 Console.WriteLine(String.Join(" ", numbers));
             }
-
-            
         }
     }
 }

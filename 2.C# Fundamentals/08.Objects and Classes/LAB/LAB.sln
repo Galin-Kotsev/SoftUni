@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Randomize Words", "01. Randomize Words\01. Randomize Words.csproj", "{20BCB81F-3A28-4A9F-AD5F-C0DF24B54366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Randomize Words", "01. Randomize Words\01. Randomize Words.csproj", "{20BCB81F-3A28-4A9F-AD5F-C0DF24B54366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Songs", "03. Songs\03. Songs.csproj", "{14D90ED1-CEC7-46FE-8C94-3023EB59BECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Songs", "03. Songs\03. Songs.csproj", "{14D90ED1-CEC7-46FE-8C94-3023EB59BECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Students", "04. Students\04. Students.csproj", "{28D2908C-35EC-4F0F-8EA0-74AC87DA4FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Students", "04. Students\04. Students.csproj", "{28D2908C-35EC-4F0F-8EA0-74AC87DA4FF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Students 2.0", "05. Students 2.0\05. Students 2.0.csproj", "{62CEBA56-1C2F-4300-B92C-F1B58D7DDEAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Students 2.0", "05. Students 2.0\05. Students 2.0.csproj", "{62CEBA56-1C2F-4300-B92C-F1B58D7DDEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Vehicle Catalogue", "07. Vehicle Catalogue\07. Vehicle Catalogue.csproj", "{99C5E426-06B3-4373-8D1F-2642A2E5DD4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Big Factorial", "02. Big Factorial\02. Big Factorial.csproj", "{042347F2-1AC8-4EF8-8589-DAA269D236F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{62CEBA56-1C2F-4300-B92C-F1B58D7DDEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62CEBA56-1C2F-4300-B92C-F1B58D7DDEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62CEBA56-1C2F-4300-B92C-F1B58D7DDEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C5E426-06B3-4373-8D1F-2642A2E5DD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C5E426-06B3-4373-8D1F-2642A2E5DD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C5E426-06B3-4373-8D1F-2642A2E5DD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C5E426-06B3-4373-8D1F-2642A2E5DD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042347F2-1AC8-4EF8-8589-DAA269D236F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042347F2-1AC8-4EF8-8589-DAA269D236F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042347F2-1AC8-4EF8-8589-DAA269D236F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042347F2-1AC8-4EF8-8589-DAA269D236F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

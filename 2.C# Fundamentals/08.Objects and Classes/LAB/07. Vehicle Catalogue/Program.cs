@@ -8,10 +8,42 @@ namespace _07._Vehicle_Catalogue
     {
         static void Main(string[] args)
         {
-           Catalog catalog = new Catalog(); 
+            Catalog catalog = new Catalog();
 
             string input = Console.ReadLine();
+            input = AddToColection(catalog, input);
+            PrintCars(catalog);
+            PrintTrucks(catalog);
+        }
 
+        private static void PrintTrucks(Catalog catalog)
+        {
+            if (catalog.Trucks.Any())
+            {
+                Console.WriteLine("Trucks:");
+
+                foreach (var truck in catalog.Trucks.OrderBy(x => x.Brand))
+                {
+                    Console.WriteLine($"{truck.Brand}: {truck.Model} - {truck.Weight}kg");
+                }
+            }
+        }
+
+        private static void PrintCars(Catalog catalog)
+        {
+            if (catalog.Cars.Any())
+            {
+                Console.WriteLine("Cars:");
+
+                foreach (var car in catalog.Cars.OrderBy(x => x.Brand))
+                {
+                    Console.WriteLine($"{car.Brand}: {car.Model} - {car.HorsePower}hp");
+                }
+            }
+        }
+
+        private static string AddToColection(Catalog catalog, string input)
+        {
             while (input != "end")
             {
                 string[] info = input.Split("/");
@@ -32,25 +64,7 @@ namespace _07._Vehicle_Catalogue
                 input = Console.ReadLine();
             }
 
-            if (catalog.Cars.Any())
-            {
-                Console.WriteLine("Cars:");
-
-                foreach (var car in catalog.Cars.OrderBy(x => x.Brand))
-                {
-                    Console.WriteLine($"{car.Brand}: {car.Model} - {car.HorsePower}hp");
-                }
-            }
-
-            if (catalog.Trucks.Any())
-            {
-                Console.WriteLine("Trucks:");
-
-                foreach (var truck in catalog.Trucks.OrderBy(x => x.Brand))
-                {
-                    Console.WriteLine($"{truck.Brand}: {truck.Model} - {truck.Weight}kg");
-                }
-            }
+            return input;
         }
     }
 }

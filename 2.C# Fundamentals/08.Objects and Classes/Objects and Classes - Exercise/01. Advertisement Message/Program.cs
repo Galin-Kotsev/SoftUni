@@ -34,8 +34,6 @@ namespace _01._Advertisement_Message
                 Console.WriteLine($"{Phrases[random.Next(0, Phrases.Count)]} {Events[random.Next(0, Events.Count)]} {Authors[random.Next(0, Authors.Count)]} - {Cities[random.Next(0, Cities.Count)]}");
                 
             }
-
-           
         }
     }
 }

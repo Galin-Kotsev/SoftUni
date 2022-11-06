@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aLMpg+5B21mG9OiDb4pjkrfCYOmDa41oYwwriUW0UcOl1vctSShr89Gm/OES4YBBNqZBny9RbmxTj919FODrYw==",
+  "dgSpecHash": "JQ7jeioIzbANPMYrGlMfNmAnjd6OgqMZYzmlqfGZrJbRREahwUC9UPceXbPj+qTaOLVRTkL1KYyH85UypVyhYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Galin\\Desktop\\SoftUni\\1.Programing Basics C#\\4.For -цикъл\\EXERCISE\\6. Оскари\\6. Оскари.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

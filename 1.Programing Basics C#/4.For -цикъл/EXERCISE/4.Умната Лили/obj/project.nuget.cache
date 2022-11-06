@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lPbrE3fGlrblqFjViMdY5WXY37NYRCl+qtZSzPb36ByKfHToVTjRFufh/nGyj0hYkqUBQ8GjS3XLOcgDJjP7lg==",
+  "dgSpecHash": "B9fH6b7dTlgynMFXAVt+14ChPYfQDIFQVEoFoP9I9qaaI6bDxusRH0oXO3PnOaSTf/RpFqhlK3A/6SyI01A9Tw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Galin\\Desktop\\SoftUni\\1.Programing Basics C#\\4.For -цикъл\\EXERCISE\\4.Умната Лили\\4.Умната Лили.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

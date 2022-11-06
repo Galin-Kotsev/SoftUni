@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VqynIrng79BZCNL2ahqLw8+ayGj3RUPghCu5u+NsNexwEOmHAoteKtyjBM6piN0iKnZKnIOPZ7WgcdzQ4oXpXw==",
+  "dgSpecHash": "KQSJy1aiHojv6N4noztfU6PXjKYtK2VVZn9VxoN2uGwdvo21DV+3oCPhXP++nXYIqqQSexsHUJqpZlmczTsZgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Galin\\Desktop\\SoftUni\\1.Programing Basics C#\\4.For -цикъл\\EXERCISE\\1. Числа до 1000, завършващи на 7\\1. Числа до 1000, завършващи на 7.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

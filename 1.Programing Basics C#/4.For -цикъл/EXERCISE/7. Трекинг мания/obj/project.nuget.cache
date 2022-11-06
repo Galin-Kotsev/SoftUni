@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jM6KhVszT5RarTNM3TsROywBEiGZn3eXXL0N2iANRiJQkWhz5jND16qisoZItzm+rbjiepx+wIJqBzqwM6LJtQ==",
+  "dgSpecHash": "feS7CMfEgzH0EWQaYnD/4v2VBk8CDQVgADYaIHkrmfNFgHJyKuIrBInTIq6Ui76tDmf7hkkw9Q0SruFbx4pm/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Galin\\Desktop\\SoftUni\\1.Programing Basics C#\\4.For -цикъл\\EXERCISE\\7. Трекинг мания\\7. Трекинг мания.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

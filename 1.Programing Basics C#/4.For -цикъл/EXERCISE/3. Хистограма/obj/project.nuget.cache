@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LE+ig7Tm3HgW1DgD715x+tX+z9j0DDvGK069hxBWGKK5CecvkIJuFnXCfpK8hvSnq310USe978YX55i8Q7RxSw==",
+  "dgSpecHash": "tFkQRaasBBMflgV+FRurb0tor6Ktbt0YTN/3J6w7zB5hsCYRoVs/IFzpaM6UkAvmTZaPxwjeXkv9QHi9Im4KaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Galin\\Desktop\\SoftUni\\1.Programing Basics C#\\4.For -цикъл\\EXERCISE\\3. Хистограма\\3. Хистограма.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Galin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

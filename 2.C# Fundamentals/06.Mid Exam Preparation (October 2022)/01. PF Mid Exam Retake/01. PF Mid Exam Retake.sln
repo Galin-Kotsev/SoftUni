@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. The Lift", "02. The Lift\02. The Lift.csproj", "{010DC104-0E29-486B-8731-D9956C731C76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. The Lift", "02. The Lift\02. The Lift.csproj", "{010DC104-0E29-486B-8731-D9956C731C76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Computer Store", "01. Computer Store\01. Computer Store.csproj", "{69D92406-034C-422E-93E3-E1B6852E9529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Computer Store", "01. Computer Store\01. Computer Store.csproj", "{69D92406-034C-422E-93E3-E1B6852E9529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Memory Game", "03.Memory Game\03.Memory Game.csproj", "{815359A4-F9E5-402E-874D-DC75929E21A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{69D92406-034C-422E-93E3-E1B6852E9529}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69D92406-034C-422E-93E3-E1B6852E9529}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69D92406-034C-422E-93E3-E1B6852E9529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815359A4-F9E5-402E-874D-DC75929E21A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815359A4-F9E5-402E-874D-DC75929E21A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815359A4-F9E5-402E-874D-DC75929E21A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815359A4-F9E5-402E-874D-DC75929E21A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

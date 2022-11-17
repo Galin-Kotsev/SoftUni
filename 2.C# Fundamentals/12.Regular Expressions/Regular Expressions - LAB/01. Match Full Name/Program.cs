@@ -7,7 +7,7 @@ namespace _01._Match_Full_Name
     {
         static void Main(string[] args)
         {
-            string code = @"\b[A-Z][a-z]+\b";
+            string code = @"\b[A-Z][a-z]+ [A-Z][a-z]+\b";
 
             string input = Console.ReadLine();
 

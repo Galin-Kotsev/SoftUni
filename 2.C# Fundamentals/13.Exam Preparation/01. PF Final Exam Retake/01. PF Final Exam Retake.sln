@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. The Imitation Game", "01. The Imitation Game\01. The Imitation Game.csproj", "{7D24360E-1932-4F84-A27A-D41031D2B858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{33AB0993-7910-4EB3-9AEB-74B424120533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D24360E-1932-4F84-A27A-D41031D2B858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D24360E-1932-4F84-A27A-D41031D2B858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D24360E-1932-4F84-A27A-D41031D2B858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D24360E-1932-4F84-A27A-D41031D2B858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AB0993-7910-4EB3-9AEB-74B424120533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AB0993-7910-4EB3-9AEB-74B424120533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AB0993-7910-4EB3-9AEB-74B424120533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AB0993-7910-4EB3-9AEB-74B424120533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95DC3DF-784E-48AD-9127-417FFB745193}
+	EndGlobalSection
+EndGlobal

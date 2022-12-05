@@ -41,7 +41,7 @@ namespace _2._Rage_Quit
                             }
                         }
 
-                        for (int k = 1; k <= n; k++)
+                        for (int k = 0; k < n; k++)
                         {
                             result += charecter.ToString();
                         }

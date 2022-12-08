@@ -41,7 +41,6 @@ namespace _01._Messaging
                 sum = 0;
             }
                 Console.WriteLine(text);
-            
         }
     }
 }

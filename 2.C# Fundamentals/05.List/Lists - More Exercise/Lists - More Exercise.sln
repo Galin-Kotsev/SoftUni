@@ -5,9 +5,11 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Messaging", "01. Messaging\01. Messaging.csproj", "{9096C370-10E4-4A4C-AD51-E621C43530E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Take-Skip Rope", "03. Take-Skip Rope\03. Take-Skip Rope.csproj", "{C37AEEEA-57B3-461B-9A93-04A778A08949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Take-Skip Rope", "03. Take-Skip Rope\03. Take-Skip Rope.csproj", "{C37AEEEA-57B3-461B-9A93-04A778A08949}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Drum Set", "05. Drum Set\05. Drum Set.csproj", "{3A071E64-568A-409E-834C-9E4D35741830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Drum Set", "05. Drum Set\05. Drum Set.csproj", "{3A071E64-568A-409E-834C-9E4D35741830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Mixed Up Lists", "04.Mixed Up Lists\04.Mixed Up Lists.csproj", "{3E21ECCC-C7D9-4F49-B393-B8426E7FF9F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3A071E64-568A-409E-834C-9E4D35741830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A071E64-568A-409E-834C-9E4D35741830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A071E64-568A-409E-834C-9E4D35741830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E21ECCC-C7D9-4F49-B393-B8426E7FF9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E21ECCC-C7D9-4F49-B393-B8426E7FF9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E21ECCC-C7D9-4F49-B393-B8426E7FF9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E21ECCC-C7D9-4F49-B393-B8426E7FF9F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -76,7 +76,7 @@ public class Car
 
     public bool CanMove(double km)
     {
-        if (km * Consumption < Fuel)
+        if (km * Consumption <= Fuel)
         {
             return true;
         }
@@ -86,7 +86,5 @@ public class Car
             return false;
         }
     }
-
     public override string ToString() => $"{Model} {Fuel:f2} {Distance}";
-
 }

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Oldest Family Member (2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Speed Racing", "03. Speed Racing\03. Speed Racing.csproj", "{6426DFFC-1E84-4413-86B5-9B86FC7A7964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Raw Data", "04. Raw Data\04. Raw Data.csproj", "{41800A55-6801-40E9-8AC1-7CCF84F88AF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Raw Data", "04. Raw Data\04. Raw Data.csproj", "{41800A55-6801-40E9-8AC1-7CCF84F88AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Shopping Spree", "05. Shopping Spree\05. Shopping Spree.csproj", "{25FE101F-6626-4ED3-B928-8B3639561D44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{41800A55-6801-40E9-8AC1-7CCF84F88AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41800A55-6801-40E9-8AC1-7CCF84F88AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41800A55-6801-40E9-8AC1-7CCF84F88AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25FE101F-6626-4ED3-B928-8B3639561D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FE101F-6626-4ED3-B928-8B3639561D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FE101F-6626-4ED3-B928-8B3639561D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FE101F-6626-4ED3-B928-8B3639561D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

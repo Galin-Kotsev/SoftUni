@@ -22,9 +22,9 @@ namespace _05._Dragon_Army
 
                 string type = inputs[0];
                 string name = inputs[1];
-                double damage = 0;
-                double health = 0;
-                double armor = 0;
+                double damage = 45;
+                double health = 250;
+                double armor = 10;
 
                 if (inputs[2] != "null") damage = double.Parse(inputs[2]);
 

@@ -9,6 +9,7 @@ namespace _02._Judge
         static void Main(string[] args)
         {
             List<Contests> contests = new List<Contests>();
+
             Dictionary<string, int> users = new Dictionary<string, int>();
 
             string input = Console.ReadLine();

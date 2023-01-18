@@ -35,20 +35,60 @@ namespace Matrix_Insert_and_Print
             }
 
             PrintMatrix(rows, cols, matrix);
-        }
-//-------------------------------------------------------------------------------------------------------------------
-        // MATRIX PRINTING METHOD (TESTING)
-        private static void PrintMatrix(int rows, int cols, int[,] matrix)
-        {
+
+            //-------------------------------------------------------------------------------------------------------------------
+            // JAGGED-ARREY CREATING & INSERT ELEMENTS
+
+            int rows = int.Parse(Console.ReadLine());
+
+            int[][] jaggedArray = new int[rows][];
+
             for (int row = 0; row < rows; row++)
             {
-                for (int col = 0; col < cols; col++)
-                {
-                    Console.Write($"{matrix[row, col]} ");
-                }
+                int[] inserts = Console.ReadLine()
+                    .Split(" ")
+                    .Select(int.Parse)
+                    .ToArray();
 
-                Console.WriteLine();
+                jaggedArray[row] = inserts;
             }
+
+            // JAGGED-ARREY Print
+
+            for (int row = 0; row < rows; row++)
+            {
+                Console.WriteLine(string.Join(" ", jaggedArray[row]));
+            }
+
+            PrintMatrix2(rows, cols, jaggedArray);
+
+            //-------------------------------------------------------------------------------------------------------------------
+            // MATRIX PRINTING METHOD (TESTING)
+            static void PrintMatrix(int rows, int cols, int[,] matrix)
+            {
+                for (int row = 0; row < rows; row++)
+                {
+                    for (int col = 0; col < cols; col++)
+                    {
+                        Console.Write($"{matrix[row, col]} ");
+                    }
+
+                    Console.WriteLine();
+                }
+            }
+
+            //-------------------------------------------------------------------------------------------------------------------
+            // JAGGEDARRAY PRINTING METHOD (TESTING)
+
+            static void PrintMatrix2(int rows, int cols, int[][] jaggedArray)
+            {
+                for (int row = 0; row < rows; row++)
+                {
+                    Console.WriteLine(string.Join(" ", jaggedArray[row]));
+                }
+            }
+
+
         }
     }
 }

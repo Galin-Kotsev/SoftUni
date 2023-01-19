@@ -32,13 +32,19 @@ namespace _4.Symbol_in_Matrix
 
             for (int row = 0; row < rows; row++)
             {
+                if (contains)
+                {
+                    break;
+                }
+
                 for (int col = 0; col < cols; col++)
                 {
                     if (matrix[row, col] == searchedChar)
                     {
                         contains = true;
-                        colPosition = col;
                         rowPosition = row;
+                        colPosition = col;
+                        break;
                     }
                 }
             }

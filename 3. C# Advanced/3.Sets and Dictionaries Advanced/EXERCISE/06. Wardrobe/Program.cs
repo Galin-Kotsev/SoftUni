@@ -56,12 +56,11 @@ namespace _06._Wardrobe
 
                     if (clothByColor.Key == findColor && cloth.Key == findCloth)
                     {
-                        item += " (Found!)";
+                        item += " (found!)";
                     }
                     Console.WriteLine(item);
                 }
             }
-
         }
     }
 }

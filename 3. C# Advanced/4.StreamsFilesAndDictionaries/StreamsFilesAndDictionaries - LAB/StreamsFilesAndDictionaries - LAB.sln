@@ -3,7 +3,55 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OddLines", "01.OddLines\01.OddLines.csproj", "{40004639-54EE-4123-A0F2-B07A717E87E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{56EB1725-E346-437F-8DFB-1C798A04721F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordCount", "03.WordCount\03.WordCount.csproj", "{326A0CBD-DF4A-4FC7-A04B-642252C4711C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{1A553EA3-6DE2-4690-9409-20D68F881F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ExtractSpecialBytes", "05.ExtractSpecialBytes\05.ExtractSpecialBytes.csproj", "{67D1D779-9ED9-4E9B-BF50-7FA316C3319D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Split, Merge Binary Files", "06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{64A843DF-3285-4637-BC2C-72827A079ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FolderSize", "07.FolderSize\07.FolderSize.csproj", "{FFAE3F7A-408A-41DE-AC03-CFA250AFDF2C}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40004639-54EE-4123-A0F2-B07A717E87E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40004639-54EE-4123-A0F2-B07A717E87E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40004639-54EE-4123-A0F2-B07A717E87E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40004639-54EE-4123-A0F2-B07A717E87E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EB1725-E346-437F-8DFB-1C798A04721F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EB1725-E346-437F-8DFB-1C798A04721F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EB1725-E346-437F-8DFB-1C798A04721F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EB1725-E346-437F-8DFB-1C798A04721F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326A0CBD-DF4A-4FC7-A04B-642252C4711C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326A0CBD-DF4A-4FC7-A04B-642252C4711C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326A0CBD-DF4A-4FC7-A04B-642252C4711C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326A0CBD-DF4A-4FC7-A04B-642252C4711C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A553EA3-6DE2-4690-9409-20D68F881F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A553EA3-6DE2-4690-9409-20D68F881F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A553EA3-6DE2-4690-9409-20D68F881F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A553EA3-6DE2-4690-9409-20D68F881F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D1D779-9ED9-4E9B-BF50-7FA316C3319D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D1D779-9ED9-4E9B-BF50-7FA316C3319D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D1D779-9ED9-4E9B-BF50-7FA316C3319D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D1D779-9ED9-4E9B-BF50-7FA316C3319D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A843DF-3285-4637-BC2C-72827A079ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A843DF-3285-4637-BC2C-72827A079ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A843DF-3285-4637-BC2C-72827A079ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A843DF-3285-4637-BC2C-72827A079ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAE3F7A-408A-41DE-AC03-CFA250AFDF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAE3F7A-408A-41DE-AC03-CFA250AFDF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAE3F7A-408A-41DE-AC03-CFA250AFDF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAE3F7A-408A-41DE-AC03-CFA250AFDF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

@@ -20,13 +20,13 @@ if (command == "odd")
     {
         if (i % 2 != 0)
         {
-        Console.WriteLine($"{i} ");
-    }
+            Console.WriteLine($"{i} ");
+        }
     }
 }
 else if (command == "even")
 {
-    for (int i = start; i <= end ; i++)
+    for (int i = start; i <= end; i++)
     {
         if (i % 2 == 0)
         {

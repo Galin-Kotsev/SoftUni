@@ -14,7 +14,7 @@ namespace CarManufacturer
         private double fuelQuantity;
         private double fuelConsumption;
         private Engine engine;
-        private Tire[] tire;
+        private Tire[] tires;
 
         public Car()
         {
@@ -53,24 +53,55 @@ namespace CarManufacturer
             Tires = tires; 
         }
 
-        public string Make { get; set; }
-        public string Model { get; set; }
-        public int Year { get; set; }
-        public double FuelQuantity { get; set; }
-        public double FuelConsumption { get; set; }
-        public Engine Engine { get; set; }
-        public Tire[] Tires { get; set; }    
-        
+        public string Make
+        {
+            get { return make; }
+            set { make = value; }
+        }
+
+        public string Model
+        {
+            get { return model; }
+            set { model = value; }
+        }
+
+        public int Year
+        {
+            get { return year; }
+            set { year = value; }
+        }
+        public double FuelQuantity
+        {
+            get { return fuelQuantity; }
+            set { fuelQuantity = value; }
+        }
+        public double FuelConsumption
+        {
+            get { return fuelConsumption; }
+            set { fuelConsumption = value; }
+        }
+
+        public Engine Engine
+        {
+            get { return engine; }
+            set { engine = value; }
+        }
+
+        public Tire[] Tires
+        {
+            get { return tires; }
+            set { tires = value; }
+        }
 
         public void Drive(double distance)
         {
-            if(FuelQuantity - distance * FuelConsumption >= 0)
+            if(FuelQuantity - (distance * FuelConsumption / 100) >= 0)
             {
-                FuelQuantity -= distance * FuelConsumption;
+                FuelQuantity -= (distance * FuelConsumption / 100);
             }
             else
             {
-                Console.WriteLine($"Not enough fuel to perform this trip!");
+             Console.WriteLine($"Not enough fuel to perform this trip!");
             }
 
         }
@@ -81,10 +112,10 @@ namespace CarManufacturer
             stringBuilder.AppendLine($"Make: {Make}");
             stringBuilder.AppendLine($"Model: {Model}");
             stringBuilder.AppendLine($"Year: {Year}");
-            stringBuilder.AppendLine($"Fuel: {FuelQuantity:F2}");
+            stringBuilder.AppendLine($"HorsePowers: {Engine.HorsePower.ToString()}");
+            stringBuilder.AppendLine($"FuelQuantity: {FuelQuantity.ToString()}");
 
             return stringBuilder.ToString();
         }
-
     }
 }

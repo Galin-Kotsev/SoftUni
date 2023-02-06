@@ -13,15 +13,35 @@ namespace _08.CarSalesman
         private string color;
         private Engine engine;
 
-        public Car(string model, int weight, string color, Engine engine, string model, int weight, string color, Engine engine)
+        public Car(string model, int weight, string color, Engine engine)
         {
             Model = model;
             Weight = weight;
             Color = color;
             Engine = engine;
+        }
+
+        public Car(string model, string color, Engine engine)
+        {
+            Model = model;
+            Weight = 0;
+            Color = color;
+            Engine = engine;
+        }
+
+        public Car(string model, int weight, Engine engine)
+        {
             Model = model;
             Weight = weight;
-            Color = color;
+            Color = "n/a";
+            Engine = engine;
+        }
+
+        public Car(string model, Engine engine)
+        {
+            Model = model;
+            Weight = 0;
+            Color = "n/a";
             Engine = engine;
         }
 

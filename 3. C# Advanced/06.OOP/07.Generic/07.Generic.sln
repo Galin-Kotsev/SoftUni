@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericScale", "GenericScale\GenericScale.csproj", "{3535AD83-FD5B-4EF8-81D9-76DB2541057C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BoxOfT", "01.BoxOfT\01.BoxOfT.csproj", "{FEDAD91E-FCFD-4436-B094-92253A6153FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3535AD83-FD5B-4EF8-81D9-76DB2541057C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3535AD83-FD5B-4EF8-81D9-76DB2541057C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3535AD83-FD5B-4EF8-81D9-76DB2541057C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3535AD83-FD5B-4EF8-81D9-76DB2541057C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDAD91E-FCFD-4436-B094-92253A6153FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDAD91E-FCFD-4436-B094-92253A6153FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDAD91E-FCFD-4436-B094-92253A6153FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDAD91E-FCFD-4436-B094-92253A6153FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05093183-AB56-4104-B597-09E77E4BE0C7}
+	EndGlobalSection
+EndGlobal

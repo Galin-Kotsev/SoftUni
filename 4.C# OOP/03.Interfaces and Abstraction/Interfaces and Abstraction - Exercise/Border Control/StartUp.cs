@@ -6,41 +6,56 @@ namespace BorderControl
     {
         static void Main(string[] args)
         {
-            string input = string.Empty;
+            List<IBuyer> buyers = new List<IBuyer>();
 
-            List<IIdentifable> Ids = new List<IIdentifable>();
+            int n = int.Parse(Console.ReadLine());
 
-            while ((input = Console.ReadLine()) != "End")
+            for (int i = 0; i < n; i++)
             {
-                string[] tokens = input
-                    .Split(" ",StringSplitOptions.RemoveEmptyEntries);
+                string[] tokens = Console.ReadLine()
+                    .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-                if (tokens.Length > 2)
+                if (tokens.Length > 3)
                 {
                     string name = tokens[0];
                     int age = int.Parse(tokens[1]);
                     string id = tokens[2];
+                    string birthdate = tokens[3];
 
-                    Ids.Add(new Citizen(name, age, id));
+                    buyers.Add(new Citizen(name, age, id, birthdate));
                 }
-                else
+                else 
                 {
                     string name = tokens[0];
-                    string id = tokens[1];
+                    int age = int.Parse(tokens[1]);
+                    string group = tokens[2];
 
-                    Ids.Add(new Robot(name, id));
+                    buyers.Add(new Rebel(name, age, group));
                 }
             }
 
-            string idSearch = Console.ReadLine();
+            string input = string.Empty;
 
-            foreach (var i in Ids)
+            while ((input = Console.ReadLine()) != "End")
             {
-                if (i.Id.ToString().EndsWith(idSearch))
+                string name = input;
+
+                IBuyer buyer = buyers.FirstOrDefault(x=> x.Name == name);
+
+                if (buyer != null)
                 {
-                    Console.WriteLine(i);
+                    buyer.BuyFood();
                 }
             }
+
+            int sum = 0;
+
+            foreach (var buyer in buyers) 
+            {
+                sum += buyer.Food;
+            }
+
+            Console.WriteLine(sum);
         }
     }
 }

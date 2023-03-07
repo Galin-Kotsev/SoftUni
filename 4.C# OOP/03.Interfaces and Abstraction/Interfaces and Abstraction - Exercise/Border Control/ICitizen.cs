@@ -2,8 +2,8 @@
 {
     public interface ICitizen
     {
-        public string Name { get; set; }
         public int Age { get; set; }
+        public string Birthdate { get; set; }
 
     }
 }

@@ -5,9 +5,9 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo", "DefineAnInterfaceIPerson\PersonInfo.csproj", "{20661E8B-34CD-4E93-8FF4-7EFFD86FA6A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Telephony.csproj", "{6284772F-5541-412C-91C3-4009E99DDA05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telephony", "Telephony\Telephony.csproj", "{6284772F-5541-412C-91C3-4009E99DDA05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "Border Control\BorderControl.csproj", "{BC4CED92-373F-4283-8BC0-9ABCA1D8223D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BorderControl", "Border Control\BorderControl.csproj", "{BC4CED92-373F-4283-8BC0-9ABCA1D8223D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -152,7 +152,7 @@ namespace CarManager.Tests
 
             Assert.AreEqual(car.FuelAmount, 1);
         }
-
+        [Test]
         public void CarDriveTestIfFuelEqual()
         {
             Car car = new Car("VW", "GOLF", 10, 20);
@@ -160,7 +160,7 @@ namespace CarManager.Tests
             car.Refuel(10);
             car.Drive(100);
 
-            Assert.AreEqual(car.FuelAmount, 10);
+            Assert.AreEqual(car.FuelAmount, 0);
         }
 
         [Test]

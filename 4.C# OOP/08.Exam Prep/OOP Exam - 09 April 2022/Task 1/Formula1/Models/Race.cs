@@ -15,7 +15,7 @@ namespace Formula1.Models
         {
             RaceName = raceName;
             NumberOfLaps = numberOfLaps;
-            Pilots = new List<IPilot>();
+            pilots = new List<IPilot>();
         }
 
         public string RaceName
@@ -48,8 +48,7 @@ namespace Formula1.Models
 
         public bool TookPlace  { get ; set ; } = false;
 
-        public ICollection<IPilot> Pilots
-        { get; set ; }
+        public ICollection<IPilot> Pilots => pilots;
 
         public void AddPilot(IPilot pilot)
         {
@@ -60,7 +59,7 @@ namespace Formula1.Models
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"The {raceName } race has:");
+            sb.AppendLine($"The {raceName} race has:");
             sb.AppendLine($"Participants: {pilots.Count}");
             sb.AppendLine($"Number of laps: {numberOfLaps}");
             if(TookPlace)

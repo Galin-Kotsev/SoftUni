@@ -1,0 +1,15 @@
+main{
+    background:#dddddd;
+    width: 400px;
+    Border: 1px solid #000000;
+    margin-left: 20px;
+    padding:  10px;
+    font-size: 18px;
+    font-weight: 18px;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 18px;
+}

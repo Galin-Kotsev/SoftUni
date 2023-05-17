@@ -1,0 +1,38 @@
+html{
+    background-color: #e4e978;
+    width: 700px;
+    border: 1px solid #b2ad7d;
+}
+
+article{
+    background-color: #f2f4c0;
+}
+
+article>p{
+    font-size: 14px;
+}
+
+section>article{
+    width: 685px;
+    font-style: italic;
+    color: #5c6e91;
+    font-size: 12px;
+}
+section>article>h2{
+    font-size: 18px;
+}
+
+.comment{
+font-size:24px;
+}
+
+section>article>p{
+    font-size: 16px;
+}
+
+section.h2{
+    color: #4c7658;
+    padding: 5px 15px;
+    margin: 15px 10px;
+    font-size: 14px;
+}

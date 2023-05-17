@@ -1,0 +1,22 @@
+html{
+    padding: 15px;
+}
+header {
+    padding: 15px ;
+    background-color: #f2dcbb;
+    width: 480px;
+}
+
+body{
+    background: #f9f7cf;
+}
+
+footer{
+    padding: 15px;
+    background: #f2dcbb;
+    width: 480px;
+}
+
+p{
+    padding: 5px;
+}

@@ -4,6 +4,7 @@
     Width : 300px;
 }
 
-ol{
-    color: #95191a;
+#wrapper,ol{
+    color: rgb(149, 25, 26);
 }
+

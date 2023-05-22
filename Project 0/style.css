@@ -1,67 +1,8 @@
-body{
-    background-color: #D1D0CE;
-    border: 1px solid black;
-    padding: 50px;
-    margin: 30px;
-
-}
-.logo{
-    height: 200px;
-    padding-left: auto;
-    border: 10px solid black;
-    cursor: pointer;
-    align-items: center;
-}
-
-li {
-    background-color: black;
-    display:inline-table;
-}
-
-
-li.p{
-    text-align: center;
-}
-
-.pics{
-    padding-top: 180px;
-    padding: 30px;
-    width: 360px;
-}
-
-.pics:hover{
-    border: 1px solid black;
-}
-
-
-a:hover  {
-    color: black;
-}
-
-.mk{
-  bottom: 20px;
-  right: 20px;
-  background-color: black;
-  color: white;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-li:hover{
-    background-color: white;
-}
-
-a {
-    font-size: 40px;
-    color: white;text-decoration: none;
-    font-style: italic;
-}
-
-footer{
-    color: black;
-    border: 20px solid black;
-    align-items: center;
-}
-button{
-    background-color: #D1D0CE;
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style: none;
+    
 }

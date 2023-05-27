@@ -1,0 +1,126 @@
+@import url(https://use.fontawesome.com/releases/v6.4.0/css/all.css);
+
+
+/*   HEADER  */
+header {
+    color: aliceblue;
+    display: inline-flex;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+header>a {
+    color: aliceblue;
+    padding-left: 40px;
+    text-decoration: none;
+
+}
+
+header>a:hover {
+    /* the color  */
+    --c: black;
+    /* the height */
+    --h: 1.2em;
+
+    line-height: var(--h);
+    color: #0000;
+    text-shadow:
+        0 var(--_t, var(--h)) #fff,
+        0 0 var(--_c, #000);
+    box-shadow: 0 var(--_t, var(--h)) var(--c);
+    clip-path: inset(0 0 0 0);
+    background: linear-gradient(var(--c) 0 0) 0 var(--_t, var(--h)) no-repeat;
+    transition: 0.4s, clip-path 0.4s 0.4s;
+    font-size: 40px;
+}
+
+/*   BODY  */
+
+i {
+    margin-right: 10px;
+    overflow:visible;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.425);
+    width: 99%;
+    height: 100%;
+    font-size: 30px;
+    border-radius: 30px;
+    border: 2px solid white;
+    overflow:auto;
+
+}
+
+footer {
+    background-color: black;
+    border: 2px solid white;
+    color: aliceblue;
+    display: flex;
+    padding: 0 38.53%;
+    width: 22.9%;
+    height: 50%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-size: 20px;
+    overflow:auto;
+}
+
+.logo {
+    width: 500px;
+    overflow: auto;
+    height: 140px;
+    border: 2px solid white;
+    background-color: black;
+    border-bottom-right-radius: 20px;
+    border-Top-Left-radius: 30px;
+
+}
+table.darkTable {
+    font-family: "Arial Black", Gadget, sans-serif;
+    border: 2px solid #000000;
+    background-color: #4A4A4A;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  table.darkTable td, table.darkTable th {
+    border: 1px solid #4A4A4A;
+    padding: 3px 2px;
+  }
+  table.darkTable tbody td {
+    font-size: 13px;
+    color: #E6E6E6;
+  }
+  table.darkTable tr:nth-child(even) {
+    background: #888888;
+  }
+  table.darkTable thead {
+    background: #000000;
+    border-bottom: 3px solid #000000;
+  }
+  table.darkTable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #E6E6E6;
+    text-align: center;
+    border-left: 2px solid #4A4A4A;
+  }
+  table.darkTable thead th:first-child {
+    border-left: none;
+  }
+  
+  table.darkTable tfoot {
+    font-size: 12px;
+    font-weight: bold;
+    color: #E6E6E6;
+    background: #000000;
+    background: -moz-linear-gradient(top, #404040 0%, #191919 66%, #000000 100%);
+    background: -webkit-linear-gradient(top, #404040 0%, #191919 66%, #000000 100%);
+    background: linear-gradient(to bottom, #404040 0%, #191919 66%, #000000 100%);
+    border-top: 1px solid #4A4A4A;
+  }
+  table.darkTable tfoot td {
+    font-size: 12px;
+  }

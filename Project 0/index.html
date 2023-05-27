@@ -1,31 +1,189 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="bg">
 
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-    <title>WEB</title>
+    <title>DL BeautyStudio - Добре Дошли</title>
 </head>
 
 <body>
     <nav>
         <img src="343667159_796362862123809_2114801239329819060_1n.jpg">
         <ul type="none">
-            <li><a href="url">НАЧАЛО</a></li>
-            <li><a href="url">ЦЕНИ И УСЛУГИ</a></li>
-            <li><a href="url">ГАЛЕРИЯ</a></li>
-            <li><a href="url">КОНТАКТИ</a></li>
+            <li><a href="url"><b>НАЧАЛО</b></a></li>
+            <li><a href="url"><b>ЦЕНИ И УСЛУГИ</b></a></li>
+            <li><a href="url"><b>ГАЛЕРИЯ</b></a></li>
+            <li><a href="url"><b>КОНТАКТИ</b></a></li>
         </ul>
     </nav>
     <main>
+        <ul type="none" class="table">
+            <img src="etg.png" class="logo">
+            <li>
+                <label for="city">Град :</label>
 
+                <select id="city">
+                    <option value="Varna">Варна</option>
+                    <option value="Dobrich">Добрич</option>
+                    <option value="Shumen">Шумен</option>
+                    <option value="Cambined">Комбинация</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            </li>
+            <li><label for="T1">Техник 1 :</label>
+
+                <select id="T1">
+                    <option value="Galin_Kotsev">Галин Пламенов Коцев</option>
+                    <option value="Georgi_Radev">Георги Петров Радев</option>
+                    <option value="none">--------------------</option>
+                    <option value="Georgi_Ganev">Героги Динков Ганев</option>
+                    <option value="iliqn_Mihailov">Илиян Николаев Михайлов</option>
+                    <option value="none">--------------------</option>
+                    <option value="Petar_Irinkin">Петко Петков Иринкин</option>
+                    <option value="Boqn_Petrov">Боян Митев Петров </option>
+                    <option value="none">--------------------</option>
+                    <option value="Ivan_Karailiev">Иван Бойчев Караилиев</option>
+                    <option value="Todor_Drumev">Тодор Спасов Друмев</option>
+                    <option value="none">--------------------</option>
+                    <option value="Nikolai_Ganchev">Николай Мартинов Ганчев</option>
+                    <option value="Jivko_krastev">Живко Георгиев Кръстев</option>
+                    <option value="none">--------------------</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            </li>
+            <li>
+                <label for="T2">Техник 2 :</label>
+
+                <select id="T2">
+                    <option value="Galin_Kotsev">Галин Пламенов Коцев</option>
+                    <option value="Georgi_Radev">Георги Петров Радев</option>
+                    <option value="none">--------------------</option>
+                    <option value="Georgi_Ganev">Героги Динков Ганев</option>
+                    <option value="iliqn_Mihailov">Илиян Николаев Михайлов</option>
+                    <option value="none">--------------------</option>
+                    <option value="Petar_Irinkin">Петко Петков Иринкин</option>
+                    <option value="Boqn_Petrov">Боян Митев Петров </option>
+                    <option value="none">--------------------</option>
+                    <option value="Ivan_Karailiev">Иван Бойчев Караилиев</option>
+                    <option value="Todor_Drumev">Тодор Спасов Друмев</option>
+                    <option value="none">--------------------</option>
+                    <option value="Nikolai_Ganchev">Николай Мартинов Ганчев</option>
+                    <option value="Jivko_krastev">Живко Георгиев Кръстев</option>
+                    <option value="none">--------------------</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            </li>
+            <li>
+                <label for="start">Дата :</label>
+
+                <input type="date" id="start" name="trip-start" value="2023-05-22" min="2023-05-25" max="2030-12-31">
+
+            </li>
+            <li>
+                <label for="N/T">Интернет/Телевизия :</label>
+
+                <select id="N/T">
+                    <option value="1">1 бр</option>
+                    <option value="2">2 бр</option>
+                    <option value="3">3 бр</option>
+                    <option value="4">4 бр</option>
+                    <option value="5">5 бр</option>
+                    <option value="6">6 бр</option>
+                    <option value="7">7 бр</option>
+                    <option value="8">8 бр</option>
+                    <option value="9">9 бр</option>
+                    <option value="10">10 бр</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            </li>
+            <li>
+                <label for="N1-2">Интернет + 1/2 Телевизии :</label>
+
+                <select id="N1-2">
+                    <option value="1">1 бр</option>
+                    <option value="2">2 бр</option>
+                    <option value="3">3 бр</option>
+                    <option value="4">4 бр</option>
+                    <option value="5">5 бр</option>
+                    <option value="6">6 бр</option>
+                    <option value="7">7 бр</option>
+                    <option value="8">8 бр</option>
+                    <option value="9">9 бр</option>
+                    <option value="10">10 бр</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            </li>
+            <li>
+                <label for="N3-4">Интернет + 3/4 Телевизии :</label>
+
+                <select id="N3-4">
+                    <option value="1">1 бр</option>
+                    <option value="2">2 бр</option>
+                    <option value="3">3 бр</option>
+                    <option value="4">4 бр</option>
+                    <option value="5">5 бр</option>
+                    <option value="6">6 бр</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            </li>
+            <li>
+                <label for="addstb">Допълнителен Приемник:</label>
+
+                <select id="addstb">
+                    <option value="1">1 бр</option>
+                    <option value="2">2 бр</option>
+                    <option value="3">3 бр</option>
+                    <option value="4">4 бр</option>
+                    <option value="5">5 бр</option>
+                    <option value="6">6 бр</option>
+                    <option value="7">7 бр</option>
+                    <option value="8">8 бр</option>
+                    <option value="9">9 бр</option>
+                    <option value="10">10 бр</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            </li>
+            <li>
+                <label for="Air">Въздушни Инсталации :</label>
+
+                <select id="Air">
+                    <option value="1">1 бр</option>
+                    <option value="2">2 бр</option>
+                    <option value="3">3 бр</option>
+                    <option value="4">4 бр</option>
+                    <option value="5">5 бр</option>
+                    <option value="6">Въздушни Инсталации-СЛОЖНА</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            <li>
+                <label for="Error">Повреди :</label>
+
+                <select id="name">
+                    <option value="1">1 бр</option>
+                    <option value="2">2 бр</option>
+                    <option value="3">3 бр</option>
+                    <option value="4">4 бр</option>
+                    <option value="5">5 бр</option>
+                    <option value="6">6 бр</option>
+                    <option value="7">7 бр</option>
+                    <option value="8">8 бр</option>
+                    <option value="9">9 бр</option>
+                    <option value="10">10 бр</option>
+                    <option value="11">11 бр</option>
+                    <option value="12">12 бр</option>
+                    <option value="Select" selected>Избор</option>
+                </select>
+            </li>
+            <button>Добави</button>
+        </ul>
     </main>
 </body>
 <footer>
-    <span><i class="fa-brands fa-twitter fa-2xl"></i></span>
-    <span><i class="fa-brands fa-square-facebook fa-2xl"></i></span>
-    <span><i class="fa-solid fa-phone fa-2xl"></i></span>
-    <span class = "cr">DL BeautyStudio &#169;  </span>
+    <span class="social"><a href="www.abv.bg"><i class="fa-brands fa-twitter fa-2xl"></i></a></span>
+    <span class="social"><a href="www.abv.bg"><i class="fa-brands fa-square-facebook fa-2xl"></i></a></span>
+    <span class="social"><a href="www.abv.bg"><i class="fa-solid fa-phone fa-2xl"></i></a></span>
+    <span class="social"><b>Copyright&#169; DL BeautyStudio 2010. All Rights Reserved</b> </span>
 </footer>
 
 </html>

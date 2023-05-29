@@ -11,7 +11,7 @@ header {
 
 header>a {
     color: aliceblue;
-    padding-left: 40px;
+    padding-left: 200px;
     text-decoration: none;
 
 }
@@ -74,11 +74,15 @@ footer {
     background-color: black;
     border-bottom-right-radius: 20px;
     border-Top-Left-radius: 30px;
-    margin-right: 180px;
 
 }
 main{
+    align-items: center;
     text-align: center;
+    margin-left:28%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    display: flex;
 }
 a{
     text-decoration: none;
@@ -101,14 +105,14 @@ div:hover{
     background-color: rgb(0, 0, 0);
 }
 
-.Home{
-    width: 800px;
-    height: 500px;
+.Phone{
+    width: 700px;
+    height: 400px;
     border-radius: 30px;
+    border: 1px solid white;
 }
 
 section{
-    display: inline-flex;
-    align-items: center;
-    
+    display: inline-flexbox;
+
 }

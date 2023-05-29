@@ -1,0 +1,36 @@
+html{
+    font-family: Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+    margin-left:50px;
+}
+header{
+    display: inline-flex;
+    align-items:last baseline;
+}
+
+.Title{
+    margin-right: 130px;
+    font-size: 40px;
+}
+
+nav{
+    display: inline-block;
+}
+
+nav>ul>li{
+    display: inline-block;
+    padding-right: 40px;
+}
+hr{
+    border:  2px solid black;
+}
+
+li>a{
+    text-decoration: none;
+    color: green;
+}
+main>p{
+    font-family: Helvetica, sans-serif;
+}

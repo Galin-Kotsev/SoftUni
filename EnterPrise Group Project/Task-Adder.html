@@ -10,20 +10,23 @@
 <body>
     <header>
         <img src="image/Logo/Logo.png" class="logo">
+        <a href="Home-Page.html"><i class="fa-sharp fa-solid fa-clipboard fa-xl" style="color: #ffffff;"></i>Начало</a>
+
         <a href=""><i class="fa-sharp fa-solid fa-clipboard fa-xl" style="color: #ffffff;"></i>Справка Бонус
             Система</a>
-            <a href="Tech-PhoneBook.html"><i class="fa-sharp fa-solid fa-phone-volume fa-1xl" style="color: #ffffff;"></i> Тел.Указател</a>
-            
-        </header>
-        <main class="box">
-            <ul type="none" class="table">
-                <li>
-                    <label for="start">Дата :</label>
-                
-                    <input type="date" id="start" name="trip-start" value="2023-05-22" min="2023-05-25" max="2030-12-31" lang="bg-eu">
-                
-                </li>
-                <li>
+        <a href=""><i class="fa-sharp fa-solid fa-phone-volume fa-1xl" style="color: #ffffff;"></i> Тел.Указател</a>
+    </header>
+    <main class="box">
+        <section>
+        <ul type="none" class="table">
+            <li>
+                <label for="start">Дата :</label>
+
+                <input type="date" id="start" name="trip-start" value="2023-05-22" min="2023-05-25" max="2030-12-31"
+                    lang="bg-eu">
+
+            </li>
+            <li>
                 <label for="city">Град :</label>
 
                 <select id="city">
@@ -180,13 +183,24 @@
                 <select id="N-T">
                     <option value="0">НЕ</option>
                     <option value="1">ДА</option>
-                    
+
                     <option value="Select" selected>Избор</option>
                 </select>
             </li>
 
             <button>Добави</button>
         </ul>
+        </section>
+        <section>
+            <ul class="ARE" type="none">
+                <li>
+                    <a href="#">Добавяне на служител</a>
+                </li>
+                <li>
+                    <a href="#">Премахване на служител</a>
+                </li>
+            </ul>
+        </section>
     </main>
 </body>
 <footer>

@@ -1,0 +1,35 @@
+body {
+    padding: 5% 5%;
+    font-family: Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+body>header {
+    border-bottom: 2px solid rgb(0,0,0);
+    display: flex;
+}
+
+header h1 {
+    text-transform: uppercase;
+    width: 70%;
+}
+
+.nav {
+    font-size: 20px;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    color: rgb(0, 153, 0);
+    padding-left: 60px;
+    text-decoration: none;
+}
+
+
+header>hr {
+    border: 2px solid rgb(0, 0, 0);
+}

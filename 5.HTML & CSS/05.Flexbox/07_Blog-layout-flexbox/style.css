@@ -1,7 +1,12 @@
+body{
+    background: rgb(238, 238, 238);
+}
+
 .page{
     padding: 2% 5%;
-    Background-color: rgb(238, 238, 238);
+    Background: rgb(238, 238, 238);
     line-height: 1.5;
+    display:block;
 }
 
 header{
@@ -20,36 +25,33 @@ h2{
     font-size: 45px;
 }
 
-.anchor{
+.aside{
     padding-left: 70px;
     padding-right: 70px;
     padding-top: 50px;
     padding-bottom: 0px;
 }
 
-img{
+img.pic1{
     border: 5px solid black;
     width: 250px;
     padding: 10px;
     box-shadow: 0 0 30px;;
-    Background-color: rgb(255, 255, 255);
+    Background: rgb(255, 255, 255);
     float: right;
-    margin-left: 20px;
-    margin-bottom: 20px;
-}
-.pic2{
-    border: 5px solid black;
-    width: 250px;
-    padding: 10px;
-    box-shadow: 0 0 30px;;
-    Background-color: rgb(255, 255, 255);
-    float: left;
-    margin-right: 40px;
+    margin-left: 40px;
     margin-bottom: 20px;
 }
 
-q{
-    font-family: Georgia, serif;
+img.pic2{
+    border: 5px solid black;
+    width: 250px;
+    padding: 10px;
+    box-shadow: 0 0 30px;;
+    Background: rgb(255, 255, 255);
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 20px;
 }
 
 p{
@@ -75,8 +77,8 @@ p{
         align-items: wrap;
 }
 
-a{
-    color:green;
+.aside a{
+    color:rgb(0, 153, 0);
 }
 
 .second{
@@ -95,8 +97,9 @@ padding-right: 100px;
     font-size: 25px;
 }
 
-q{
-    margin-left: 700px;
+Blockquote{
+    float: left;
+    font-family: 'Georgia, serif';
 }
 
 span{

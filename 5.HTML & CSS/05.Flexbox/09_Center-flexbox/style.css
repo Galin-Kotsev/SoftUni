@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+div.card {
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    width: 21rem;
+    padding: 0 2rem 1.5rem 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 10px 5px #dad6d7;
+}
+
+p {
+
+    font-family: arial, serif;
+    display: flex;
+    flex-wrap: wrap;
+}

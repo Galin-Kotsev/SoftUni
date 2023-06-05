@@ -1,0 +1,92 @@
+@import 
+url(https://use.fontawesome.com/releases/v6.4.0/css/all.css);
+
+html {
+    background-color: silver;
+}
+
+body {
+    font: 16px/1.5 Arial;
+    width: 1300px;
+    height: 800px;
+    border: 1px solid silver;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border: 0.5px solid rgb(228, 224, 224);
+    position: absolute;
+    top: 7%;
+    left: 16%;
+}
+
+.Remmember {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.Remmemberinput[checked="checked"] {
+    color: red;
+    border-radius: px;
+}
+
+.Login_inputs {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 0px 35px;
+}
+
+h3 {
+    padding-top: 40px;
+    padding-left: 100px;
+    font-size: 25px;
+    width: 130px;
+}
+
+input {
+    width: 270px;
+    border-radius: 3px;
+    margin: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: rgb(235, 235, 235);
+    border: white;
+}
+
+.login {
+    width: 150px;
+}
+
+.problems p {
+    font-size: 10px;
+    color: rgb(161, 158, 158);
+    position: relative;
+    top: 200px;
+    left: 130px;
+}
+
+.problems p:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.buildID-hover:hover {
+    color: rgb(119, 117, 117);
+    cursor: pointer;
+}
+
+.buldID p {
+    font-size: 12px;
+    color: rgb(161, 158, 158);
+    position: relative;
+    top: 220px;
+    left: 200px;
+}
+
+.lastline {
+    display: flex;
+    flex-direction: row;
+    line-height: 0.5;
+}

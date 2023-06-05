@@ -1,0 +1,15 @@
+.Logo {
+    width: 160px;
+    position: relative;
+    top: 5%;
+    left: 60%;
+}
+
+.pic {
+    width: 935px;
+    height: 800px;
+    display: flex;
+    flex: end;
+    position: relative;
+    left: 23%;
+}

@@ -1,11 +1,60 @@
 @import url(https://use.fontawesome.com/releases/v6.4.0/css/all.css);
 
+html{
+    width: 500px;
+    height: 600px;
+    
+}
+
+img{
+    width: 230px;
+    height: auto;box-shadow: 0 0 20px black;
+}
+
+.image_1{
+    position: relative;
+    top:120px;
+    left:240px;
+}
+
+.image_2{
+    position: relative;
+    top:25px;
+    left:240px;
+}
 
 
 section.card {
     display: block;
     position: absolute;
-    top: 0px;
-    right: px;
-    z-index: 5;
+    width: 700px;
+    height: 400px;
+    position: relative;
+    top:5px;
+    left:550px;
+
+}
+
+.icon_1{
+    position: relative;
+    top:115px;
+    left:210px;
+}
+
+.icon_2{
+    position: relative;
+    top:15px;
+    left:215px;
+}
+
+.C1{
+    width: 700px;
+    height: 400px;
+    background-image: linear-gradient(to right, rgb(17, 112, 202) , rgb(49, 185, 110));
+}
+
+.C2{
+    width: 700px;
+    height: 400px;
+    background-image: linear-gradient(to right, rgb(143, 15, 111) , rgb(189, 89, 7));
 }

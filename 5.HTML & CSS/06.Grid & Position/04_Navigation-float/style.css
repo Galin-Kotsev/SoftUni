@@ -1,6 +1,5 @@
 .Navigation {
   display:flex;
-  flex-direction: column;
 }
 
  header>p{
@@ -26,8 +25,6 @@
 .siteheader li {
   padding-left: 6rem;
   list-style-type: none;
-  color: rgb(0, 153, 0);
-
   position: relative;
   bottom:180px;
   right: 50px;
@@ -38,21 +35,12 @@ a{
   text-decoration: none;
 }
 
-.pic1{
-float: right;
-border: 4px solid black;
-margin-left: 1rem;
-margin-bottom: 1rem;
-}
-
 blockquote{
   font-family: Georgia, serif;
   padding-right: 7em;
   padding-left: 2em;
   border-left: 4px solid silver;
   color: silver;
-  float: right;
-
 }
 
 .TheBlockquote >p{
@@ -63,23 +51,3 @@ blockquote{
   display:flex;
 }
 
-.TheBlockquote{
-  display:flex;
-  flex-direction: row;
-}
-
-.pic2{
-  float: left;
-  border: 4px solid black;
-  box-shadow: ;
-  margin-right: 1rem;
-  margin-bottom: 1rem;
-}
-
-
-img{
-  padding: 7px;
-  background-color: rgb(255, 255, 255);
-  box-shadow: rgba(0, 0, 0, 0.25);
-  
-}

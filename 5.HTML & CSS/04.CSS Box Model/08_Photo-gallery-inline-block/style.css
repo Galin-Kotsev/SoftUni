@@ -1,25 +1,25 @@
-body{
+body {
     padding: 5rem;
     background-color: #eee;
 }
 
-.galerry{
+.galerry {
     width: 100%;
-    margin:auto;
+    margin: auto;
     text-align: center;
 }
 
-li{
+li {
     Width: 18rem;
-display: inline-block;
-background-color: #fff;
-border: 0.4rem solid #000;
-padding: 1rem;
-vertical-align: middle;
-margin: 0.5rem;
+    display: inline-block;
+    background-color: #fff;
+    border: 0.4rem solid #000;
+    padding: 1rem;
+    vertical-align: middle;
+    margin: 0.5rem;
 }
 
-img{
+img {
     display: block;
     width: 100%;
     height: auto;

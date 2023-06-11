@@ -1,0 +1,200 @@
+@import url(https://use.fontawesome.com/releases/v6.4.0/css/all.css);
+
+body {
+    width: 1920px;
+    height: auto;
+    font: 23px/1.2 Arial, sans-serif;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+    justify-content: start;
+    align-items: center;
+    background-color: white;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+ul {
+    display: flex;
+    padding-left: 950px;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    padding-left: 40px;
+    align-items: end;
+    justify-content: end;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.md {
+    width: 1920px;
+    height: 550px;
+    background-color: rgb(72, 229, 250);
+    display: flex;
+    flex-direction: row;
+}
+
+.md_2 {
+    width: 800px;
+    height: 550px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.md_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    padding-left: 200px;
+}
+
+.md_3 p {
+    width: 800px;
+    font-size: 23px;
+}
+
+button {
+    width: 300px;
+    height: 70px;
+    border-radius: 10px;
+    font-size: 23px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.Pow {
+    width: 700px;
+    height: 550px;
+    position: relative;
+    padding-left: 150px;
+}
+
+.buttons {
+    padding-top: 30px;
+    display: flex;
+    gap: 50px;
+}
+
+.join {
+    background-color: black;
+    color: white;
+}
+
+.Mision{
+    width: 250px;
+    height: 70px;
+    background-color:black;
+    color:white;
+    position: relative;
+    bottom:300px;
+    left: 850px;
+}
+
+.article_news {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    padding-left: 650px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.article_news p {
+    text-align: center;
+    font-size: 23px;
+}
+
+.articles {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+
+article {
+    width: 500px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+
+article p {
+    width: 450px;
+    text-align: center;
+}
+
+.icon {
+    width: 200px;
+    height: 200px;
+    color: rgb(72, 229, 250);
+}
+
+.work{
+    background-color: rgb(72, 229, 250) ;
+    width: 1920px;
+    height: 700px;
+}
+
+.work_article{
+    width: 1920px;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: top;
+    text-align: left;
+    gap: 100px;
+
+}
+
+.work_article_1, 
+.work_article_2{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    padding-top: 20px;
+}
+
+i{
+    padding-right: 10px;
+}
+
+.work h2{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.animals{
+    text-align: center;
+}
+
+.animal{
+    display: flex;
+    justify-content: center;
+    gap:50px;
+}
+.animalpics{
+    width: 350px;
+}

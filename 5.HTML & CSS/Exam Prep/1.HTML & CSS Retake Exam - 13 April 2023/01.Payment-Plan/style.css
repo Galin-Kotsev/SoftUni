@@ -1,0 +1,92 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap);
+
+
+body {
+   background-image: url("image/background.jpg");
+   font: 18px/1.2 'Inter', sans-serif;
+   position: absolute;
+   top:20%;
+   bottom:20%;
+   left:0px;
+   right: 0px;
+   margin: auto;
+}
+
+.planlist {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-content: center;
+   gap: 30px;
+   margin: auto;
+  
+}
+
+.plan {
+   width: 400px;
+   min-height: 500px;
+   max-height: 800px;
+   background-color: aliceblue;
+   padding: 0px 30px 10px 30px;
+}
+
+h2 {
+   font-size: 30px;
+   font-family: Inter;
+}
+
+.billing {
+   font-size: 14px;
+}
+
+header p {
+   font-size: 16px;
+   padding-bottom: 20px;
+}
+
+.extras {
+   padding-bottom: 18px;
+   font-family: Inter;
+}
+
+span {
+   font-size: 90px;
+}
+
+.basic {
+   margin-top: 30px;
+   width: 150px;
+   height: 50px;
+   font-size: 18px;
+   background-color: black;
+   color: white;
+   border-radius: 4px;
+   position: relative;
+   top:40px;
+   cursor: pointer;
+}
+
+.standart {
+   margin-top: 30px;
+   width: 150px;
+   height: 50px;
+   font-size: 18px;
+   background-color: black;
+   color: white;
+   border-radius: 4px;
+   position: relative;
+   cursor: pointer;
+}
+
+.premium {
+   margin-top: 30px;
+   width: 150px;
+   height: 50px;
+   font-size: 18px;
+   background-color: black;
+   color: white;
+   border-radius: 4px;
+   position: relative;
+   cursor: pointer;
+}

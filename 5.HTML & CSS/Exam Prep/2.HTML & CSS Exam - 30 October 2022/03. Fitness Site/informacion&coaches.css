@@ -1,0 +1,65 @@
+.information-message{
+    display: flex;
+    width: 1400px;
+    align-items: center;
+    justify-content: center;
+}
+
+.articles{
+    width: 1400px;
+    display: flex;
+    flex-direction: row;
+    margin: 50px 100px 0px 100px;
+    gap:150px;
+}
+
+h4{
+    color: red;
+}
+
+.article_1,
+.article_2,
+.article_3{
+    width:300px;
+    height: 300px;
+    text-align: center;
+}
+.pic{
+    width: 100px;
+}
+
+.coaches{
+    background-color: rgb(212, 209, 209);
+}
+.coaches-info{
+    display: flex;
+    width: 1400px;
+    align-items: center;
+    justify-content: center;
+}
+
+.articles_2{
+    width: 1400px;
+    display: flex;
+    flex-direction: row;
+    margin: 50px 100px 0px 100px;
+    gap:150px;
+}
+
+h4{
+    color: red;
+}
+
+.article_4,
+.article_5,
+.article_6{
+    width:300px;
+    height: 430px;
+    text-align: center;
+}
+
+
+
+.pic_2{
+    width: 300px;
+}

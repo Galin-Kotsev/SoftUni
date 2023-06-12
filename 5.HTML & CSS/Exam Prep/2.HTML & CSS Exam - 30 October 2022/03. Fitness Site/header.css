@@ -1,0 +1,40 @@
+
+header{
+    width: 1400px;
+    height: 60px;
+    background-color: red;
+    display: flex;
+}
+
+.icons{
+    margin-right: 20px;
+}
+
+p{
+    color: white;
+}
+
+.contact p{
+    color: white;
+    margin-left: 50px;
+}
+
+.location{
+    position: relative;
+    left:400px;
+}
+
+.contact i{
+    margin-right: 5px;
+}
+
+.location i{
+    margin-right: 10px;
+}
+
+.social{
+    display:flex;
+    flex-direction: row;
+    position: relative;
+    left:750px;
+}

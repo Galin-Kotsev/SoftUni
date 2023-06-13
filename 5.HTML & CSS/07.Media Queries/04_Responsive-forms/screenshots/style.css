@@ -1,0 +1,147 @@
+@import url(https://use.fontawesome.com/releases/v6.4.0/css/all.css);
+
+@media (width<=600px) {
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    form {
+        border: solid 1px black;
+        width: 300px;
+        height: 230px;
+        padding-left: 30px;
+    }
+
+    .userForm {
+        display: flex;
+        flex-direction: column;
+        padding-top: 20px;
+        font-weight: bold;
+    }
+
+    .passForm {
+        display: flex;
+        flex-direction: column;
+        margin: top -1px; font-weight: bold;
+    }
+
+    .Login {
+        border: 1px solid black;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        width: 100px;
+        padding: 4px 5px 4px 5px;
+        position: fixed;
+        top: -1px;
+        left: 8px;
+        background-color: rgb(248, 248, 248);
+    }
+
+    label {
+        margin-top: 20px;
+        margin-bottom: -15px;
+        margin-left: 0px;
+    }
+
+    input {
+        border: 1px solid silver;
+        padding: 5px;
+        border-radius: 3px;
+        margin-top: 0px;
+        width: 270px;
+        margin-top: 20px;
+    }
+
+    button{
+        width: 65px;
+        height: 25px;
+        background-color: black;
+        border-radius: 3px;
+        color: white;
+        font-weight: bold;
+        position: absolute;
+        top: 190px;
+    }
+
+    .user {
+        position: fixed;
+        top: 61px;
+        left: 50px
+    }
+
+    .pass {
+        position: fixed;
+        top: 131px;
+        left: 50px
+    }
+}
+
+
+@media (width>600px) {
+
+    body {
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+    }
+
+
+    form {
+        border: 1px solid rgb(97, 97, 97);
+        background-color: rgb(248, 248, 248);
+        border-radius: 5px;
+        width: 300px;
+        height: 150px;
+        padding: 10px 20px 0px 20px;
+    }
+
+    input {
+        border: 1px solid silver;
+        padding: 3px;
+        border-radius: 5px;
+        margin-top: 20px;
+        width: 200px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+
+    label {
+        font-weight: bold;
+    }
+
+    .Login {
+        border: 1px solid black;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        width: 100px;
+        padding: 4px 5px 4px 5px;
+        position: fixed;
+        top: 0px;
+        left: 8px;
+        background-color: rgb(248, 248, 248);
+    }
+
+    button {
+        width: 65px;
+        height: 25px;
+        background-color: black;
+        border-radius: 3px;
+        color: white;
+        font-weight: bold;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+
+    .user {
+        position: fixed;
+        top: 29px;
+        left: 113px
+    }
+
+    .pass {
+        position: fixed;
+        top: 72px;
+        left: 113px
+    }
+
+}

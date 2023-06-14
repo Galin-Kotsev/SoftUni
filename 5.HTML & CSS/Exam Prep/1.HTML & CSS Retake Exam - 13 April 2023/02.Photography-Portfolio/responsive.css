@@ -1,1 +1,58 @@
+@media (max-width: 600px) {
 
+
+
+    .navigation-header span {
+        display: none;
+    }
+
+    .navigation-nav {
+        display: none;
+    }
+
+    .section-container {
+
+        display: flex;
+        flex-direction: column;
+    }
+
+    .home-text {
+        display: none;
+    }
+
+    .home-tab-selector-cards-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .home-image {
+        display: none;
+    }
+
+
+    .section-container {
+        padding-top: 26px;
+        padding-bottom: 26px;
+    }
+
+    .home-text10 {
+        margin-right: 20px;
+    }
+
+    .home-links-container {
+        flex-direction: column;
+    }
+
+    .home-top-part {
+        flex-direction: column;
+    }
+
+    .Heading2{
+        font-size: 40px;
+    }
+    
+
+    .home-text01{
+        margin-top: 80px;
+    }
+}

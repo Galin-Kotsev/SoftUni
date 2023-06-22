@@ -1,0 +1,85 @@
+@import url(https://use.fontawesome.com/releases/v6.4.0/css/all.css);
+
+header {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    height: 100px;
+    text-align: center;
+    align-items: center;
+    background-color: red;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+main {
+    max-width: 100%;
+    height: 500px;
+    background-color: rgb(173, 226, 223);
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    padding-right: 55%;
+}
+
+
+.login {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+
+}
+
+a {
+    padding-right: 80px;
+    color: black;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+span {
+    padding-left: 30px;
+    color: black;
+}
+
+.sign-up {
+    background-color: rgb(173, 226, 223);
+    padding: 15px 20px 15px 20px;
+    border-radius: 10px;
+
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.IOS,
+.Android {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+
+span {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: center;
+    width: 300px;
+    padding: 10px 10px 10px 10px;
+}

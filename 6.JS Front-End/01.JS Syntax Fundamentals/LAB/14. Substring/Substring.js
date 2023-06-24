@@ -1,13 +1,5 @@
-function solve(word, startIndex, count) {
-    if (startIndex >= 0 && count <= word.length - 1) {
-        let result = "";
-
-        for (let i = startIndex; i <= count; i++) {
-            result += word[i];
-        }
-
-        console.log(result);
-    }
+function solve(string, startingIndex, numberOfElements) {
+    console.log(string.substring(startingIndex, startingIndex + numberOfElements));
 }
 
 solve('ASentence', 1, 8)

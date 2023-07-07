@@ -1,14 +1,12 @@
 function solve(firstName, lastName, age) {
 
-    person = {
+    let person = {
         firstName: firstName,
         lastName: lastName,
-        age: age,
+        age: Number(age),
     };
 
-   Object.entries(person).forEach(function([key]){
-    return `${key}: ${person[key]}`
-   });
+   return person;
 }
 
 solve("Peter", "Pan", "20")

@@ -2,15 +2,18 @@ function solve(input) {
 
     input = input.slice(", ");
 
-    const dictionary = [];
+    let dictionary = {};
 
-   input.forEach(element => {
-    sentance = JSON.parse(element);
-    console.log(sentance)
+   input.forEach((jsonString) => {
+    const term = JSON.parse(jsonString);
+    dictionary = Object.assign(dictionary,term)
    });
-   
-  
-    sentance = JSON.parse(input[index]);
+
+   const sortedDictionaryTerms = Object.keys(dictionary).sort();
+
+   sortedDictionaryTerms.forEach((term) => {
+    console.log(`Term: ${term} => Definition: ${dictionary[term]}`)
+   });
 }
 
 
